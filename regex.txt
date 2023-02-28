@@ -1,0 +1,97 @@
+^([+-]\d+)% 增強傷害$;{0}% Enhanced Damage
+^投擲傷害：(\d+) 到 (\d+)$;Throw Damage: {0} to {1}
+^需要等級： (\d+)$;Required Level: {0}
+^需要的敏捷點數： (\d+)$;Required Dexterity: {0}
+^防禦： (\d+)$;Defense: {0}
+^數量：(\d+)$;Quantity: {0}
+^增加 (\d+)-(\d+) 傷害$;Adds {0}-{1} damage
+^([+-]\d+) 最大傷害值$;{0} to Maximum Damage
+^增加的空間$;Increased Stack Size
+^回復數量$;Replenishes quantity
+^腰帶空間：([+-]\d+) 格$;Belt Size: {0} Slots
+^耐久度: (\d+) 之 (\d+)$;Durability: {0} of {1}
+^需要的力量點數： (\d+)$;Required Strength: {0}
+^([+-]\d+) 所有技能$;{0} to All Skills
+^([+-]\d+)% 高速施展速度$;{0}% Faster Cast Rate
+^使目標減慢 (\d+)%$;Slows Target by {0}%
+^([+-]\d+)% 防禦強化$;{0}% Enhanced Defense
+^增加法力上限 (\d+)%$;Increase Maximum Mana {0}%
+^([+-]\d+) 生命$;{0} to Life
+^([+-]\d+) 法力$;{0} to Mana
+^增加 (\d+)[+-](\d+) 閃電傷害$;Adds {0}-{1} Lightning Damage
+^([+-]\d+) 法師技能等級$;{0} to Sorceress Skill Levels
+^([+-]\d+) 死靈法師技能等級$;{0} to Necromancer Skill Levels
+^([+-]\d+) 刺客技能等級$;{0} to Assassin Skills
+^([+-]\d+) 亞馬遜技能等級$;{0} to Amazon Skill Levels
+^([+-]\d+) 德魯伊技能等級$;{0} to Druid Skills
+^閃電抗性 ([+-]\d+)%$;Lightning Resist {0}%
+^(\d+)% 更佳的機率取得魔法裝備$;{0}% Better Chance of Getting Magic Items
+^([+-]\d+)% 轉為毒素技能傷害$;{0}% to Poison Skill Damage
+^([+-]\d+) 防禦$;{0} Defense
+^冰寒抗性 ([+-]\d+)%$;Cold Resist {0}%
+^(\d+)% 額外金幣從怪物身上取得$;{0}% Extra Gold from Monsters
+^無形的 \(無法修復\)$;Ethereal (Cannot Be Repaired)
+^無形的 \(無法修復\), 有凹槽 \((\d+)\)$;Ethereal (Cannot Be Repaired), Socketed ({0})
+^有凹槽 \((\d+)\)$;Socketed ({0})
+^單手傷害： (\d+) 到 (\d+)$;One-Hand Damage: {0} to {1}
+^雙手傷害： (\d+) 到 (\d+)$;Two-Hand Damage: {0} to {1}
+^([+-]\d+)% 高速跑步／行走$;{0}% Faster Run/Walk
+^([+-]\d+)% 打擊恢復$;{0}% Faster Hit Recovery
+^([+-]\d+) 耐力最大值$;{0} Maximum Stamina
+^攻擊者受到閃電傷害 (\d+)$;Attacker Takes Lightning Damage of {0}
+^(\d+)% 致命攻擊 \（以角色等級決定\）$;{0}% Deadly Strike (Based on Character Level)
+^(\d+)% 致命攻擊$;{0}% Deadly Strike
+^([+-]\d+)% 攻擊速度$;{0}% Increased Attack Speed
+^回復體力加 (\d+)%$;recovery Vitality plus {0}%
+^([+-]\d+) 精力$;{0} to Energy
+^傷害減少 (\d+)$;Magic Damage Reduced by {0}
+^([+-]\d+)% 轉為經驗值獲得$;{0}% to Experience Gained
+^([+-]\d+)% 對不死生物的傷害$;{0}% Damage to Undead
+^擊中偷取 (\d+)% 生命$;{0}% Life stolen per hit
+^擊中偷取 (\d+)% 法力$;{0}% Mana stolen per hit
+^([+-]\d+) 敏捷$;{0} to Dexterity
+^火焰抗性 ([+-]\d+)%$;Fire Resist {0}%
+^([+-]\d+) 聖騎士技能等級$;{0} to Paladin Skill Levels
+^([+-]\d+)% 格擋速度$;{0}% Faster Block Rate
+^(\d+)% 增加格擋機率$;{0}% Increased Chance of Blocking
+^([+-]\d+) 力量$;{0} to Strength
+^([+-]\d+) 耐力最大值 （以角色等級決定）$;{0} Maximum Stamina (Based on Character Level)
+^([+-]\d+) 體力$;{0} to Vitality
+^於 (\d+) 秒內回復耐久度 (\d+)$;Repairs {0} durability in {1} seconds
+^(\d+)% 減緩耐力消耗$;{0}% Slower Stamina Drain
+^毒素抗性 ([+-]\d+)%$;Poison Resist {0}%
+^所有抗性 ([+-]\d+)$;All Resistances {0}
+^格擋機率：(\d+)%$;Chance to Block: {0}%
+^增加耐久性上限 (\d+)%$;Increase Maximum Durability {0}%
+^([+-]\d+) 照亮範圍$;{0} to Light Radius
+^([+-]\d+) 火焰技能$;{0} to Fire Skills
+^增加 (\d+)-(\d+) 火焰傷害$;Adds {0}-{1} fire damage
+^法力恢復 (\d+)%$;Regenerate Mana {0}%
+^([+-]\d+) 準確率$;{0} to Attack Rating
+^冰凍時間減半$;Half Freeze Duration
+^需求 ([+-]\d+)%$;Requirements {0}%
+^(\d+)% 受損的生命移至法力$;{0}% Damage Taken Goes To Mana
+^([+-]\d+) 所有的屬性$;{0} to all Attributes
+^可以放入凹槽物品$,Can be Inserted into Socketed Items
+^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
+^([+-]\d+)% 火焰技能傷害:0}% Fire Skill Damage
+^([+-]\d+) 生命 \（以角色等級決定\）$;{0} to Life (Based on Character Level)
+^([+-]\d+) 法力 （以角色等級決定）$;{0} to Mana (Based on Character Level)
+^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
+^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
+^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
+^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
+^在每殺一個敵人後取得 ([+-]\d+) 點法力$;{0} to Mana after each Kill
+PARTIAL$;PARTIAL
+^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
+^([+-]\d+) 至 (\S+) \（(\S+)\）$;{0} to {1} ({2})
+^等級 (\d+) (\S+\s?\S?) \((\d+)/(\d+) 次\)$;Level {0} {1} ({2}/{3} Charges)
+^當你死去 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to Cast Level {1} {2} when you Die
+^當你升級 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to cast level {1} {2} when you Level-Up
+^([+-]\d+) 鏢槍和長矛技能 (\(.+\))$;{0} to Javelin and Spear Skills {1}
+^([+-]\d+) 戰鬥技能 (\(.+\))$;{0} to Combat Skills {1}
+^([+-]\d+) 火焰系技能 (\(.+\))$;{0} to Fire Skills {1}
+^([+-]\d+) 冰寒系技能 (\(.+\))$;{0} to Cold Skills {1}
+^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to Lightning Skills {1}
+^([+-]\d+) 毒素和白骨技能 (\(.+\))$;{0} to Poison and Bone Skills {0}
+^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {0}

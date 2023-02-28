@@ -1,0 +1,23 @@
+留在物品欄中以獲得加乘效果,Keep in Inventory to Gain Bonus
+可以放入凹槽物品,Can be Inserted into Socketed Items
+魚叉手之超大型護身符
+超強的,Superior
+劍類武器,Sword Class
+一般攻擊速度,Fast Attack Speed
+杖類武器,Staff Class
+一般攻擊速度,Normal Attack Speed
+長棍類武器,Polearm Class
+熾烈之徑,Blaze
+霜之新星,Frost Nova
+新星,Nova
+毒牙,Venom
+隕石,Meteor
+暴風雪,Blizzard
+連鎖閃電,Chain Lightning
+劇毒新星,Poison Nova
+傳送,Teleport
+（限聖騎士）,(Paladin Only)
+（限德魯伊使用）,(Druid Only)
+（限亞馬遜使用）,(Amazon Only)
+（限法師）,(Sorceress Only)
+（限死靈法師\）(Necromancer Only)
