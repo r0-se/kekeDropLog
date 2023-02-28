@@ -1,5 +1,7 @@
-﻿$Path = "C:\tomp\"
-$hookurl = "https://discord.com/api/webhooks/whoreadsthisisstupid"
+﻿Get-Content "$PSScriptRoot\config.ini" | foreach-object -begin {$h=@{}} -process { $k = [regex]::split($_,'='); if(($k[0].CompareTo("") -ne 0) -and ($k[0].StartsWith("[") -ne $True)) { $h.Add($k[0], $k[1]) } }
+
+$Path = $h.Get_Item("savepath")
+$hookurl = $h.Get_Item("hookurl")
 
 $IgnoreItems = @('Tir Rune', 'Ko Rune', 'Ral Rune', 'Ort Rune', 'Nef Rune', 'Sol Rune', 'Hel Rune', 'Lem Rune', 'Amn Rune', 'Tal Rune', 'Thul Rune')
 
@@ -38,11 +40,6 @@ function Get-magic-item {
             }
         }
     }
-        #foreach($suffix in $suffix_magic){
-        #    if ($name.EndsWith($suffix)) {
-
-        #    }     
-        #}
 
     if($splitted.Count -eq 2) {
         if ($prefix_magic.cn.Contains($splitted[0])) {
