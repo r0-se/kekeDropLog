@@ -4,6 +4,7 @@ $Path = $h.Get_Item("savepath")
 $hookurl = $h.Get_Item("hookurl")
 
 $IgnoreItems = @('Tir Rune', 'Ko Rune', 'Ral Rune', 'Ort Rune', 'Nef Rune', 'Sol Rune', 'Hel Rune', 'Lem Rune', 'Amn Rune', 'Tal Rune', 'Thul Rune')
+$magic_exceptions= @('銳利之斧')
 
 $dict_source = "https://gist.githubusercontent.com/r0-se/4f72452ac805fde9ff018df81867b49d/raw"
 $dict_file = "twdict.txt"
@@ -34,29 +35,54 @@ function Get-magic-item {
     $splitted = $name.split(" ")
     
     if($splitted.Count -eq 1) {
+        #stupid workaround for itemnames which match <prefix><type> but are actually white
+        if($magic_exceptions.Contains($name)){
+            break
+        }
+
+        #this is for names in the form "<prefix><type>" - NOT separated by a space
+        #example 魚叉手之超大型護身符 harpoonists(魚叉手之) grand charm(超大型護身符)
         foreach($prefix in $prefix_magic){
             if ($name.StartsWith($prefix.cn)) {
                 $splitted = $name.insert($prefix.cn.length, ' ').split(" ")
+                break
+            }
+        }
+
+        #example 小護身符幸運 small charm (小護身符) of luck(幸運)
+        foreach($suffix in $suffix_magic){
+            if ($name.EndsWith($suffix.cn)) {
+                #also turns around the order so this is processed by the translation later
+                $splitted = ($suffix.cn, $name.Substring(0,$name.length-$suffix.cn.length))
+                break
             }
         }
     }
 
     if($splitted.Count -eq 2) {
+        #this is for names in the form "<prefix> <type>" - separated by a space
         if ($prefix_magic.cn.Contains($splitted[0])) {
             $type = Get-Name-Translation -original $splitted[1]
-            return ($prefix_magic | Where-Object cn -eq $splitted[0]).en + " $type"
+            $current_prefix = ($prefix_magic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en
+            return "$current_prefix $type"
         }
+
+        #this is for names in the form "<suffix> <type>" - separated by a space -> not sure if that even happens naturally anymore
         if ($suffix_magic.cn.Contains($splitted[0])) {
             $type = Get-Name-Translation -original $splitted[1]
-            return "$type " + ($suffix_rare | Where-Object cn -eq $splitted[0]).en 
+            $current_suffix = ($suffix_magic | Where-Object cn -eq $splitted[0]| Select-Object -Last 1).en 
+            return "$type $current_suffix"
         }
     }
+
+    #this is for names in the form "<suffix> <suffix> <type>" - separated by a space; this is weird yo
+    #example 火光之 品質的 超大型護身符 sparking(火光之) of quality(品質的) grand charm(超大型護身符)
     if($splitted.Count -eq 3) {
-        write-host "its 3 parts yeah"
         if ($prefix_magic.cn.Contains($splitted[0]) -and $suffix_magic.cn.Contains($splitted[1])) {
-            write-host "found prefix and suffix"
             $type = Get-Name-Translation -original $splitted[2]
-            return ($prefix_magic | Where-Object cn -eq $splitted[0]).en + " $type " + ($suffix_magic | Where-Object cn -eq $splitted[1]).en
+            $current_prefix = ($prefix_magic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en
+            $current_suffix = ($suffix_magic | Where-Object cn -eq $splitted[1] | Select-Object -Last 1).en 
+            return "$current_prefix $type $current_suffix"
         }
     }   
     return $false

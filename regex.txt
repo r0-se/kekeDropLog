@@ -77,11 +77,13 @@
 ^([+-]\d+)% 火焰技能傷害:0}% Fire Skill Damage
 ^([+-]\d+) 生命 \（以角色等級決定\）$;{0} to Life (Based on Character Level)
 ^([+-]\d+) 法力 （以角色等級決定）$;{0} to Mana (Based on Character Level)
+^([+-]\d+) 防禦 （以角色等級決定）$;{0} Defense (Based on Character Level)
 ^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
 ^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
 ^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
 ^在每殺一個敵人後取得 ([+-]\d+) 點法力$;{0} to Mana after each Kill
+^魔法傷害減少 (\d+)$;Magic Damage Reduced by {0}
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
 ^([+-]\d+) 至 (\S+) \（(\S+)\）$;{0} to {1} ({2})
@@ -93,5 +95,5 @@ PARTIAL$;PARTIAL
 ^([+-]\d+) 火焰系技能 (\(.+\))$;{0} to Fire Skills {1}
 ^([+-]\d+) 冰寒系技能 (\(.+\))$;{0} to Cold Skills {1}
 ^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to Lightning Skills {1}
-^([+-]\d+) 毒素和白骨技能 (\(.+\))$;{0} to Poison and Bone Skills {0}
+^([+-]\d+) 毒素和白骨技能 (\(.+\))$;{0} to Poison and Bone Skills {1}
 ^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {0}
