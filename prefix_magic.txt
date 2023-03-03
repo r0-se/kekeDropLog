@@ -172,10 +172,10 @@
 隊長之,Captain's
 保護者之,Preserver's
 鷹的,Hawk
-玫瑰之,Rose
+玫瑰烙印之,Rose Branded
 指揮官之,Commander's
 元帥之,Marshal's
-????,Warder's
+主管之,Warden's
 守護者之,Guardian's
 專家之,Expert's
 狂信者,Fanatic
@@ -187,7 +187,7 @@
 回音之,Echoing
 訓練師之,Trainer's
 精神之,Spiritual
-????,Nature's
+自然之,Natural
 看守人之,Caretaker's
 管理者之,Keeper's
 猛禽之,Feral

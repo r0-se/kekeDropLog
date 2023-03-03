@@ -2,6 +2,7 @@
 保護的,of Protection
 吸收,of Absorption
 生命的,of Life
+耐久,of Sustenance
 防避的,of Warding
 步哨的,of the Sentinel
 守衛的,of Guarding
