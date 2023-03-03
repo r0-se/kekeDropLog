@@ -217,7 +217,7 @@
 ????,Loud
 召喚之,Calling
 嘶喊之,Yelling
-狂哮之,Shouting
+????,Shouting
 ????,Gritty
 矛盾之,Paradox
 知更鳥之眼之,Robineye
