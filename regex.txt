@@ -107,3 +107,8 @@ PARTIAL$;PARTIAL
 ^([+-]\d+) 元素系技能 (\(.+\))$;{0} to to Elemental Skills {1}
 ^([+-]\d+) 召喚技能 (\(.+\))$;{0} to to Summoning Skills {1}
 ^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {0}
+^降低所有商人的價格 (\d+)%$;Reduces all Vendor Prices {0}%
+^([+-]\d+) 冰寒吸收$;{0} Cold Absorb
+^([+-]\d+) 最大傷害值 （以角色等級決定;{0} To Maximum Damage (Based On Character Level)
+^防止怪物自療$;Prevent Monster Heal
+^生命回復 ([+-]\d+)$;Replenish Life {0}
