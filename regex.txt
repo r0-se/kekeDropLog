@@ -98,4 +98,12 @@ PARTIAL$;PARTIAL
 ^([+-]\d+) 冰寒系技能 (\(.+\))$;{0} to Cold Skills {1}
 ^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to Lightning Skills {1}
 ^([+-]\d+) 毒素和白骨技能 (\(.+\))$;{0} to Poison and Bone Skills {1}
+^([+-]\d+) 戰鬥技能 (\(.+\))$;{0} to to Combat Skills {1}
+^([+-]\d+) 冰寒系技能 (\(.+\))$;{0} to to Cold Skills {1}
+^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to to Lightning Skills {1}
+^([+-]\d+) 火焰系技能 (\(.+\))$;{0} to to Fire Skills {1}
+^([+-]\d+) 召喚系技能 (\(.+\))$;{0} to to Summoning Skills {1}
+^([+-]\d+) 變形系技能 (\(.+\))$;{0} to to Shape Shifting Skills {1}
+^([+-]\d+) 元素系技能 (\(.+\))$;{0} to to Elemental Skills {1}
+^([+-]\d+) 召喚技能 (\(.+\))$;{0} to to Summoning Skills {1}
 ^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {0}
