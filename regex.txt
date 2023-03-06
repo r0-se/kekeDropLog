@@ -88,7 +88,7 @@
 ^魔法傷害減少 (\d+)$;Magic Damage Reduced by {0}
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
-^([+-]\d+) 至 (\S+\s?\S?) \(\S+\s?\S?\)$,{0} to {1} ({2})
+^([+-]\d+) 至 (\S+\s?\S?) \(\S+\s?\S?\)$;{0} to {1} ({2})
 ^等級 (\d+) (\S+\s?\S?) \((\d+)/(\d+) 次\)$;Level {0} {1} ({2}/{3} Charges)
 ^當你死去 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to Cast Level {1} {2} when you Die
 ^當你升級 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to cast level {1} {2} when you Level-Up
