@@ -3,11 +3,15 @@
 $Path = $h.Get_Item("savepath")
 $hookurl = $h.Get_Item("hookurl")
 
-$IgnoreItems = @('Tir Rune', 'Ko Rune', 'Ral Rune', 'Ort Rune', 'Nef Rune', 'Sol Rune', 'Hel Rune', 'Lem Rune', 'Amn Rune', 'Tal Rune', 'Thul Rune')
+$IgnoreItems = @()
 $magic_exceptions= @('銳利之斧')
 
 $dict_source = "https://gist.githubusercontent.com/r0-se/4f72452ac805fde9ff018df81867b49d/raw"
 $dict_file = "twdict.txt"
+
+$RuneList=@{
+    "El" = 1;"Eld" = 2;"Tir" = 3;"Nef" = 4;"Eth" = 5;"Ith" = 6;"Tal" = 7;"Ral" = 8;"Ort" = 9; "Thul" = 10;"Amn" = 11;"Sol" = 12;"Shael" = 13;"Dol" = 14;"Hel" = 15;"Io" = 16; "Lum" = 17;"Ko" = 18;"Fal" = 19;"Lem" = 20;"Pul" = 21;"Um" = 22;"Mal" = 23;"Ist" = 24;"Gul" = 25;"Vex" = 26;"Ohm" = 27;"Lo" = 28; "Sur" = 29;"Ber" = 30;"Jah" = 31;"Cham" = 32;"Zod" = 33;
+}
 
 $DiscColor=@{
     "white" = 16777215;
@@ -296,8 +300,14 @@ function Watch-Folder {
                 for ($loopervar; $loopervar -lt $compare; $loopervar++) {
                     Write-verbose -Message "lets get $($o.Path) -Index $loopervar"
                     $item = Get-Item -Path $($o.Path) -Index $loopervar
-                    if ($IgnoreItems.Contains($item.nameEN)) { 
-                        write-verbose -message "ignoring $($item.nameEN)" 
+                    if ($IgnoreItems.Contains($item.nameEN) -or 
+                        (
+                            $item.nameEN.EndsWith(" Rune") -and 
+                            $RuneList.Contains($item.nameEN.split(" ")[0]) -and
+                            $RuneList[$item.nameEN.split(" ")[0]] -le 19
+                        )
+                    ) { 
+                        write-host -message "ignoring $($item.nameEN)" 
                         continue
                     }
                     Show-Item -item $item

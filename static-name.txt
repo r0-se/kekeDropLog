@@ -29,3 +29,4 @@
 雷光守衛,Lightning Sentry
 傳送,Teleport
 電光衛兵,Charged Bolt Sentry
+武學技藝.Martial Arts
