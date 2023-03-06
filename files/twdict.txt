@@ -1,0 +1,8835 @@
+[{
+		"enUS": "Khalim's Flail",
+		"tw-new": "克林姆的連枷",
+		"tw-old": "克林姆的連枷"
+	},
+	{
+		"enUS": "Khalim's Will",
+		"tw-new": "克林姆的遺願",
+		"tw-old": "克林姆的遺願"
+	},
+	{
+		"enUS": "Khalim's Flail",
+		"tw-new": "克林姆的連枷",
+		"tw-old": "克林姆的連枷"
+	},
+	{
+		"enUS": "Khalim's Will",
+		"tw-new": "克林姆的遺願",
+		"tw-old": "克林姆的遺願"
+	},
+	{
+		"enUS": "Khalim's Eye",
+		"tw-new": "克林姆的眼球",
+		"tw-old": "克林姆的眼球"
+	},
+	{
+		"enUS": "Khalim's Brain",
+		"tw-new": "克林姆的大腦",
+		"tw-old": "克林姆的大腦"
+	},
+	{
+		"enUS": "Khalim's Heart",
+		"tw-new": "克林姆的心臟",
+		"tw-old": "克林姆的心臟"
+	},
+	{
+		"enUS": "Skillful",
+		"tw-new": "熟練",
+		"tw-old": "熟練之"
+	},
+	{
+		"enUS": "Cap",
+		"tw-new": "便帽",
+		"tw-old": "帽子"
+	},
+	{
+		"enUS": "Skull Cap",
+		"tw-new": "顱帽",
+		"tw-old": "骷髏帽"
+	},
+	{
+		"enUS": "Helm",
+		"tw-new": "頭盔",
+		"tw-old": "頭盔"
+	},
+	{
+		"enUS": "Full Helm",
+		"tw-new": "全罩盔",
+		"tw-old": "高級頭盔"
+	},
+	{
+		"enUS": "Great Helm",
+		"tw-new": "重盔",
+		"tw-old": "卓越頭盔"
+	},
+	{
+		"enUS": "Crown",
+		"tw-new": "王冠",
+		"tw-old": "皇冠"
+	},
+	{
+		"enUS": "Mask",
+		"tw-new": "面具",
+		"tw-old": "面具"
+	},
+	{
+		"enUS": "Quilted Armor",
+		"tw-new": "棉布甲",
+		"tw-old": "布甲"
+	},
+	{
+		"enUS": "Leather Armor",
+		"tw-new": "皮革甲",
+		"tw-old": "皮甲"
+	},
+	{
+		"enUS": "Hard Leather Armor",
+		"tw-new": "硬皮甲",
+		"tw-old": "硬皮甲"
+	},
+	{
+		"enUS": "Studded Leather",
+		"tw-new": "鑲釘皮甲",
+		"tw-old": "鑲嵌甲"
+	},
+	{
+		"enUS": "Ring Mail",
+		"tw-new": "環甲",
+		"tw-old": "鎖環甲"
+	},
+	{
+		"enUS": "Scale Mail",
+		"tw-new": "鱗甲",
+		"tw-old": "鱗甲"
+	},
+	{
+		"enUS": "Chain Mail",
+		"tw-new": "鎖鍊甲",
+		"tw-old": "鎖子甲"
+	},
+	{
+		"enUS": "Breast Plate",
+		"tw-new": "胸鎧",
+		"tw-old": "胸甲"
+	},
+	{
+		"enUS": "Splint Mail",
+		"tw-new": "板甲",
+		"tw-old": "板甲"
+	},
+	{
+		"enUS": "Plate Mail",
+		"tw-new": "鎧甲",
+		"tw-old": "鎧甲"
+	},
+	{
+		"enUS": "Field Plate",
+		"tw-new": "野戰鎧甲",
+		"tw-old": "實戰鎧甲"
+	},
+	{
+		"enUS": "Gothic Plate",
+		"tw-new": "哥德鎧甲",
+		"tw-old": "哥德戰甲"
+	},
+	{
+		"enUS": "Full Plate Mail",
+		"tw-new": "全身鎧甲",
+		"tw-old": "高級戰甲"
+	},
+	{
+		"enUS": "Ancient Armor",
+		"tw-new": "上古鎧甲",
+		"tw-old": "古代裝甲"
+	},
+	{
+		"enUS": "Light Plate",
+		"tw-new": "輕型鎧甲",
+		"tw-old": "輕型裝甲"
+	},
+	{
+		"enUS": "Buckler",
+		"tw-new": "小圓盾",
+		"tw-old": "圓盾"
+	},
+	{
+		"enUS": "Small Shield",
+		"tw-new": "小型盾",
+		"tw-old": "小盾牌"
+	},
+	{
+		"enUS": "Large Shield",
+		"tw-new": "大型盾",
+		"tw-old": "大盾牌"
+	},
+	{
+		"enUS": "Kite Shield",
+		"tw-new": "鳶盾",
+		"tw-old": "輕盾"
+	},
+	{
+		"enUS": "Tower Shield",
+		"tw-new": "塔盾",
+		"tw-old": "塔盾"
+	},
+	{
+		"enUS": "Gothic Shield",
+		"tw-new": "哥德盾",
+		"tw-old": "哥德盾牌"
+	},
+	{
+		"enUS": "Leather Gloves",
+		"tw-new": "皮革手套",
+		"tw-old": "皮手套"
+	},
+	{
+		"enUS": "Heavy Gloves",
+		"tw-new": "厚皮手套",
+		"tw-old": "重手套"
+	},
+	{
+		"enUS": "Chain Gloves",
+		"tw-new": "鍊甲手套",
+		"tw-old": "鎖鍊手套"
+	},
+	{
+		"enUS": "Light Gauntlets",
+		"tw-new": "輕型護手",
+		"tw-old": "輕型鐵手套"
+	},
+	{
+		"enUS": "Gauntlets",
+		"tw-new": "鋼鐵護手",
+		"tw-old": "鐵手套"
+	},
+	{
+		"enUS": "Boots",
+		"tw-new": "皮靴",
+		"tw-old": "皮靴"
+	},
+	{
+		"enUS": "Heavy Boots",
+		"tw-new": "重靴",
+		"tw-old": "重靴"
+	},
+	{
+		"enUS": "Chain Boots",
+		"tw-new": "鎖鍊靴",
+		"tw-old": "鎖鍊靴"
+	},
+	{
+		"enUS": "Light Plated Boots",
+		"tw-new": "輕鎧靴",
+		"tw-old": "輕型金屬靴"
+	},
+	{
+		"enUS": "Greaves",
+		"tw-new": "護脛",
+		"tw-old": "護脛"
+	},
+	{
+		"enUS": "Sash",
+		"tw-new": "束帶",
+		"tw-old": "飾帶"
+	},
+	{
+		"enUS": "Light Belt",
+		"tw-new": "輕腰帶",
+		"tw-old": "輕扣帶"
+	},
+	{
+		"enUS": "Belt",
+		"tw-new": "腰帶",
+		"tw-old": "扣帶"
+	},
+	{
+		"enUS": "Heavy Belt",
+		"tw-new": "厚腰帶",
+		"tw-old": "重扣帶"
+	},
+	{
+		"enUS": "Plated Belt",
+		"tw-new": "鎧甲腰帶",
+		"tw-old": "金屬扣帶"
+	},
+	{
+		"enUS": "Bone Helm",
+		"tw-new": "骸骨頭盔",
+		"tw-old": "白骨頭盔"
+	},
+	{
+		"enUS": "Bone Shield",
+		"tw-new": "骨盾",
+		"tw-old": "白骨盾牌"
+	},
+	{
+		"enUS": "Spiked Shield",
+		"tw-new": "尖刺盾",
+		"tw-old": "尖刺盾牌"
+	},
+	{
+		"enUS": "Hand Axe",
+		"tw-new": "手斧",
+		"tw-old": "手斧"
+	},
+	{
+		"enUS": "Axe",
+		"tw-new": "斧",
+		"tw-old": "斧"
+	},
+	{
+		"enUS": "Double Axe",
+		"tw-new": "雙刃斧",
+		"tw-old": "雙刃斧"
+	},
+	{
+		"enUS": "Military Pick",
+		"tw-new": "軍用鎬",
+		"tw-old": "軍用鍬"
+	},
+	{
+		"enUS": "War Axe",
+		"tw-new": "征戰斧",
+		"tw-old": "巨戰斧"
+	},
+	{
+		"enUS": "Large Axe",
+		"tw-new": "重斧",
+		"tw-old": "巨斧"
+	},
+	{
+		"enUS": "Broad Axe",
+		"tw-new": "闊斧",
+		"tw-old": "闊斧"
+	},
+	{
+		"enUS": "Battle Axe",
+		"tw-new": "戰斧",
+		"tw-old": "戰鬥斧"
+	},
+	{
+		"enUS": "Great Axe",
+		"tw-new": "巨斧",
+		"tw-old": "卓越之斧"
+	},
+	{
+		"enUS": "Giant Axe",
+		"tw-new": "巨人斧",
+		"tw-old": "大斧"
+	},
+	{
+		"enUS": "Wand",
+		"tw-new": "魔杖",
+		"tw-old": "法杖"
+	},
+	{
+		"enUS": "Yew Wand",
+		"tw-new": "紫杉魔杖",
+		"tw-old": "紫杉之杖"
+	},
+	{
+		"enUS": "Bone Wand",
+		"tw-new": "骸骨魔杖",
+		"tw-old": "骨杖"
+	},
+	{
+		"enUS": "Grim Wand",
+		"tw-new": "陰森魔杖",
+		"tw-old": "殘酷之杖"
+	},
+	{
+		"enUS": "Club",
+		"tw-new": "短棒",
+		"tw-old": "木棒"
+	},
+	{
+		"enUS": "Scepter",
+		"tw-new": "權杖",
+		"tw-old": "權杖"
+	},
+	{
+		"enUS": "Grand Scepter",
+		"tw-new": "莊嚴權杖",
+		"tw-old": "雄偉權杖"
+	},
+	{
+		"enUS": "War Scepter",
+		"tw-new": "征戰權杖",
+		"tw-old": "巨戰權杖"
+	},
+	{
+		"enUS": "Spiked Club",
+		"tw-new": "狼牙棒",
+		"tw-old": "狼牙棒"
+	},
+	{
+		"enUS": "Mace",
+		"tw-new": "釘鎚",
+		"tw-old": "釘頭錘"
+	},
+	{
+		"enUS": "Morning Star",
+		"tw-new": "釘頭鎚",
+		"tw-old": "流星鎚"
+	},
+	{
+		"enUS": "Flail",
+		"tw-new": "連枷",
+		"tw-old": "連枷"
+	},
+	{
+		"enUS": "War Hammer",
+		"tw-new": "戰鎚",
+		"tw-old": "巨戰鐵鎚"
+	},
+	{
+		"enUS": "Maul",
+		"tw-new": "重鎚",
+		"tw-old": "大木棍"
+	},
+	{
+		"enUS": "Great Maul",
+		"tw-new": "巨型重鎚",
+		"tw-old": "卓越巨棍"
+	},
+	{
+		"enUS": "Short Sword",
+		"tw-new": "短劍",
+		"tw-old": "短劍"
+	},
+	{
+		"enUS": "Scimitar",
+		"tw-new": "彎刀",
+		"tw-old": "彎刀"
+	},
+	{
+		"enUS": "Sabre",
+		"tw-new": "軍刀",
+		"tw-old": "軍刀"
+	},
+	{
+		"enUS": "Falchion",
+		"tw-new": "彎刃大刀",
+		"tw-old": "彎形大刀"
+	},
+	{
+		"enUS": "Crystal Sword",
+		"tw-new": "水晶劍",
+		"tw-old": "水晶劍"
+	},
+	{
+		"enUS": "Broad Sword",
+		"tw-new": "闊劍",
+		"tw-old": "闊劍"
+	},
+	{
+		"enUS": "Long Sword",
+		"tw-new": "長劍",
+		"tw-old": "長劍"
+	},
+	{
+		"enUS": "War Sword",
+		"tw-new": "征戰劍",
+		"tw-old": "巨戰之劍"
+	},
+	{
+		"enUS": "Two-Handed Sword",
+		"tw-new": "雙手劍",
+		"tw-old": "雙手劍"
+	},
+	{
+		"enUS": "Claymore",
+		"tw-new": "闊刃大劍",
+		"tw-old": "雙刃大刀"
+	},
+	{
+		"enUS": "Giant Sword",
+		"tw-new": "大劍",
+		"tw-old": "大劍"
+	},
+	{
+		"enUS": "Bastard Sword",
+		"tw-new": "重劍",
+		"tw-old": "巨劍"
+	},
+	{
+		"enUS": "Flamberge",
+		"tw-new": "焰形劍",
+		"tw-old": "雙手飾劍"
+	},
+	{
+		"enUS": "Great Sword",
+		"tw-new": "巨劍",
+		"tw-old": "卓越之劍"
+	},
+	{
+		"enUS": "Dagger",
+		"tw-new": "匕首",
+		"tw-old": "匕首"
+	},
+	{
+		"enUS": "Dirk",
+		"tw-new": "長匕首",
+		"tw-old": "長匕首"
+	},
+	{
+		"enUS": "Kris",
+		"tw-new": "波刃匕首",
+		"tw-old": "波形刀"
+	},
+	{
+		"enUS": "Blade",
+		"tw-new": "利刃匕首",
+		"tw-old": "短刀"
+	},
+	{
+		"enUS": "Throwing Knife",
+		"tw-new": "飛刀",
+		"tw-old": "飛刀"
+	},
+	{
+		"enUS": "Throwing Axe",
+		"tw-new": "飛斧",
+		"tw-old": "飛斧"
+	},
+	{
+		"enUS": "Balanced Knife",
+		"tw-new": "平衡飛刀",
+		"tw-old": "平衡小刀"
+	},
+	{
+		"enUS": "Balanced Axe",
+		"tw-new": "平衡飛斧",
+		"tw-old": "平衡斧"
+	},
+	{
+		"enUS": "Javelin",
+		"tw-new": "標槍",
+		"tw-old": "標槍"
+	},
+	{
+		"enUS": "Pilum",
+		"tw-new": "長標槍",
+		"tw-old": "短鏢槍"
+	},
+	{
+		"enUS": "Short Spear",
+		"tw-new": "短矛",
+		"tw-old": "短矛"
+	},
+	{
+		"enUS": "Glaive",
+		"tw-new": "長刃槍",
+		"tw-old": "大長刀"
+	},
+	{
+		"enUS": "Throwing Spear",
+		"tw-new": "飛矛",
+		"tw-old": "飛矛"
+	},
+	{
+		"enUS": "Spear",
+		"tw-new": "長矛",
+		"tw-old": "長矛"
+	},
+	{
+		"enUS": "Trident",
+		"tw-new": "三叉戟",
+		"tw-old": "三叉戟"
+	},
+	{
+		"enUS": "Brandistock",
+		"tw-new": "三叉槍",
+		"tw-old": "叉"
+	},
+	{
+		"enUS": "Spetum",
+		"tw-new": "勾刃槍",
+		"tw-old": "大戰戟"
+	},
+	{
+		"enUS": "Pike",
+		"tw-new": "步戰矛",
+		"tw-old": "矛"
+	},
+	{
+		"enUS": "Bardiche",
+		"tw-new": "月牙砍刀",
+		"tw-old": "大砍刀"
+	},
+	{
+		"enUS": "Voulge",
+		"tw-new": "槍斧",
+		"tw-old": "鉤鐮槍"
+	},
+	{
+		"enUS": "Scythe",
+		"tw-new": "鐮刀",
+		"tw-old": "鐮刀"
+	},
+	{
+		"enUS": "Poleaxe",
+		"tw-new": "長柄斧",
+		"tw-old": "長柄戰斧"
+	},
+	{
+		"enUS": "Halberd",
+		"tw-new": "長戟",
+		"tw-old": "長戟"
+	},
+	{
+		"enUS": "War Scythe",
+		"tw-new": "征戰鐮刀",
+		"tw-old": "巨戰鐮刀"
+	},
+	{
+		"enUS": "Short Staff",
+		"tw-new": "短杖",
+		"tw-old": "短棍"
+	},
+	{
+		"enUS": "Long Staff",
+		"tw-new": "長杖",
+		"tw-old": "長棍"
+	},
+	{
+		"enUS": "Gnarled Staff",
+		"tw-new": "木節法杖",
+		"tw-old": "多節棍"
+	},
+	{
+		"enUS": "Battle Staff",
+		"tw-new": "戰鬥法杖",
+		"tw-old": "戰鬥法杖"
+	},
+	{
+		"enUS": "War Staff",
+		"tw-new": "征戰法杖",
+		"tw-old": "巨戰法杖"
+	},
+	{
+		"enUS": "Short Bow",
+		"tw-new": "短弓",
+		"tw-old": "短弓"
+	},
+	{
+		"enUS": "Hunter's Bow",
+		"tw-new": "獵弓",
+		"tw-old": "獵弓"
+	},
+	{
+		"enUS": "Long Bow",
+		"tw-new": "長弓",
+		"tw-old": "長弓"
+	},
+	{
+		"enUS": "Composite Bow",
+		"tw-new": "複合弓",
+		"tw-old": "組合弓"
+	},
+	{
+		"enUS": "Short Battle Bow",
+		"tw-new": "戰鬥短弓",
+		"tw-old": "短戰鬥弓"
+	},
+	{
+		"enUS": "Long Battle Bow",
+		"tw-new": "戰鬥長弓",
+		"tw-old": "長戰鬥弓"
+	},
+	{
+		"enUS": "Short War Bow",
+		"tw-new": "征戰短弓",
+		"tw-old": "短巨戰弓"
+	},
+	{
+		"enUS": "Long War Bow",
+		"tw-new": "征戰長弓",
+		"tw-old": "長巨戰弓"
+	},
+	{
+		"enUS": "Light Crossbow",
+		"tw-new": "輕弩",
+		"tw-old": "輕十字弓"
+	},
+	{
+		"enUS": "Crossbow",
+		"tw-new": "弩",
+		"tw-old": "十字弓"
+	},
+	{
+		"enUS": "Heavy Crossbow",
+		"tw-new": "重弩",
+		"tw-old": "重十字弓"
+	},
+	{
+		"enUS": "Repeating Crossbow",
+		"tw-new": "連弩",
+		"tw-old": "連射十字弓"
+	},
+	{
+		"enUS": "Barbed Shield",
+		"tw-new": "倒刺盾",
+		"tw-old": "倒刺護盾"
+	},
+	{
+		"enUS": "Grim Shield",
+		"tw-new": "陰森盾牌",
+		"tw-old": "冷酷之盾"
+	},
+	{
+		"enUS": "Grim Helm",
+		"tw-new": "陰森頭盔",
+		"tw-old": "殘酷頭盔"
+	},
+	{
+		"enUS": "War Belt",
+		"tw-new": "征戰腰帶",
+		"tw-old": "巨戰腰帶"
+	},
+	{
+		"enUS": "Battle Belt",
+		"tw-new": "戰鬥腰帶",
+		"tw-old": "戰場腰帶"
+	},
+	{
+		"enUS": "Mesh Belt",
+		"tw-new": "鐵網腰帶",
+		"tw-old": "織網腰帶"
+	},
+	{
+		"enUS": "Sharkskin Belt",
+		"tw-new": "鯊皮腰帶",
+		"tw-old": "鯊皮腰帶"
+	},
+	{
+		"enUS": "Demonhide Sash",
+		"tw-new": "魔皮束帶",
+		"tw-old": "魔皮勳帶"
+	},
+	{
+		"enUS": "War Boots",
+		"tw-new": "征戰靴",
+		"tw-old": "巨戰之靴"
+	},
+	{
+		"enUS": "Battle Boots",
+		"tw-new": "戰鬥靴",
+		"tw-old": "戰場之靴"
+	},
+	{
+		"enUS": "Mesh Boots",
+		"tw-new": "鐵網靴",
+		"tw-old": "織網之靴"
+	},
+	{
+		"enUS": "Sharkskin Boots",
+		"tw-new": "鯊皮靴",
+		"tw-old": "鯊皮之靴"
+	},
+	{
+		"enUS": "Demonhide Boots",
+		"tw-new": "魔皮長靴",
+		"tw-old": "魔皮靴"
+	},
+	{
+		"enUS": "Battle Gauntlets",
+		"tw-new": "戰鬥護手",
+		"tw-old": "戰場手套"
+	},
+	{
+		"enUS": "Heavy Bracers",
+		"tw-new": "重型護腕",
+		"tw-old": "重型手鐲"
+	},
+	{
+		"enUS": "Sharkskin Gloves",
+		"tw-new": "鯊皮手套",
+		"tw-old": "鯊魚皮套"
+	},
+	{
+		"enUS": "Demonhide Gloves",
+		"tw-new": "魔皮手套",
+		"tw-old": "魔皮手套"
+	},
+	{
+		"enUS": "Ancient Shield",
+		"tw-new": "上古盾",
+		"tw-old": "古代之盾"
+	},
+	{
+		"enUS": "Pavise",
+		"tw-new": "大盾",
+		"tw-old": "大盾"
+	},
+	{
+		"enUS": "Dragon Shield",
+		"tw-new": "龍盾",
+		"tw-old": "龍盾"
+	},
+	{
+		"enUS": "Scutum",
+		"tw-new": "大圓盾",
+		"tw-old": "鱗盾"
+	},
+	{
+		"enUS": "Round Shield",
+		"tw-new": "圓型盾",
+		"tw-old": "圓型盾"
+	},
+	{
+		"enUS": "Defender",
+		"tw-new": "防禦盾",
+		"tw-old": "防禦盾"
+	},
+	{
+		"enUS": "Mage Plate",
+		"tw-new": "法師鎧甲",
+		"tw-old": "法師鎧甲"
+	},
+	{
+		"enUS": "Ornate Plate",
+		"tw-new": "華麗戰甲",
+		"tw-old": "華麗戰甲"
+	},
+	{
+		"enUS": "Chaos Armor",
+		"tw-new": "混沌戰甲",
+		"tw-old": "混沌戰甲"
+	},
+	{
+		"enUS": "Embossed Plate",
+		"tw-new": "雕紋戰甲",
+		"tw-old": "凸紋戰甲"
+	},
+	{
+		"enUS": "Sharktooth Armor",
+		"tw-new": "鯊齒戰甲",
+		"tw-old": "鯊齒戰甲"
+	},
+	{
+		"enUS": "Templar Coat",
+		"tw-new": "聖堂騎士戰甲",
+		"tw-old": "聖堂武士外袍"
+	},
+	{
+		"enUS": "Russet Armor",
+		"tw-new": "赤褐戰甲",
+		"tw-old": "羅瑟戰甲"
+	},
+	{
+		"enUS": "Cuirass",
+		"tw-new": "護胸甲",
+		"tw-old": "護胸甲"
+	},
+	{
+		"enUS": "Mesh Armor",
+		"tw-new": "鐵網戰甲",
+		"tw-old": "織網戰甲"
+	},
+	{
+		"enUS": "Tigulated Mail",
+		"tw-new": "鎖鱗戰甲",
+		"tw-old": "提格萊特戰甲"
+	},
+	{
+		"enUS": "Linked Mail",
+		"tw-new": "鍊扣戰甲",
+		"tw-old": "連扣戰甲"
+	},
+	{
+		"enUS": "Trellised Armor",
+		"tw-new": "格網護甲",
+		"tw-old": "攀繞戰甲"
+	},
+	{
+		"enUS": "Demonhide Armor",
+		"tw-new": "魔皮護甲",
+		"tw-old": "魔皮戰甲"
+	},
+	{
+		"enUS": "Serpentskin Armor",
+		"tw-new": "海蛇皮甲",
+		"tw-old": "海蛇皮甲"
+	},
+	{
+		"enUS": "Ghost Armor",
+		"tw-new": "鬼魂戰衣",
+		"tw-old": "鬼魂戰甲"
+	},
+	{
+		"enUS": "Death Mask",
+		"tw-new": "死亡面具",
+		"tw-old": "死亡面具"
+	},
+	{
+		"enUS": "Grand Crown",
+		"tw-new": "莊嚴王冠",
+		"tw-old": "巨皇冠"
+	},
+	{
+		"enUS": "Basinet",
+		"tw-new": "輕盔",
+		"tw-old": "輕鋼盔"
+	},
+	{
+		"enUS": "Casque",
+		"tw-new": "兜盔",
+		"tw-old": "無頰頭盔"
+	},
+	{
+		"enUS": "Sallet",
+		"tw-new": "便盔",
+		"tw-old": "輕便頭盔"
+	},
+	{
+		"enUS": "War Hat",
+		"tw-new": "戰帽",
+		"tw-old": "戰帽"
+	},
+	{
+		"enUS": "Chu-Ko-Nu",
+		"tw-new": "諸葛弩",
+		"tw-old": "巧工弩"
+	},
+	{
+		"enUS": "Ballista",
+		"tw-new": "砲弩",
+		"tw-old": "弩弓"
+	},
+	{
+		"enUS": "Siege Crossbow",
+		"tw-new": "攻城弩",
+		"tw-old": "攻城十字弓"
+	},
+	{
+		"enUS": "Arbalest",
+		"tw-new": "鋼弩",
+		"tw-old": "石弓"
+	},
+	{
+		"enUS": "Gothic Bow",
+		"tw-new": "哥德弓",
+		"tw-old": "哥德弓"
+	},
+	{
+		"enUS": "Rune Bow",
+		"tw-new": "符文弓",
+		"tw-old": "符文之弓"
+	},
+	{
+		"enUS": "Large Siege Bow",
+		"tw-new": "攻城長弓",
+		"tw-old": "長攻城弓"
+	},
+	{
+		"enUS": "Short Siege Bow",
+		"tw-new": "攻城短弓",
+		"tw-old": "短攻城弓"
+	},
+	{
+		"enUS": "Double Bow",
+		"tw-new": "雙曲弓",
+		"tw-old": "雙弓"
+	},
+	{
+		"enUS": "Cedar Bow",
+		"tw-new": "杉木弓",
+		"tw-old": "杉木弓"
+	},
+	{
+		"enUS": "Razor Bow",
+		"tw-new": "剃刀弓",
+		"tw-old": "剃刀之弓"
+	},
+	{
+		"enUS": "Edge Bow",
+		"tw-new": "銳弓",
+		"tw-old": "鋒銳之弓"
+	},
+	{
+		"enUS": "Rune Staff",
+		"tw-new": "符文法杖",
+		"tw-old": "符文之棍"
+	},
+	{
+		"enUS": "Gothic Staff",
+		"tw-new": "哥德法杖",
+		"tw-old": "哥德之棍"
+	},
+	{
+		"enUS": "Cedar Staff",
+		"tw-new": "杉木法杖",
+		"tw-old": "杉木之棍"
+	},
+	{
+		"enUS": "Quarterstaff",
+		"tw-new": "長棍",
+		"tw-old": "六尺棍"
+	},
+	{
+		"enUS": "Jo Staff",
+		"tw-new": "棍杖",
+		"tw-old": "喬木棒"
+	},
+	{
+		"enUS": "Grim Scythe",
+		"tw-new": "陰森鐮刀",
+		"tw-old": "殘酷鐮刀"
+	},
+	{
+		"enUS": "Bec-de-Corbin",
+		"tw-new": "渡鴉喙",
+		"tw-old": "雙鋒戰戟"
+	},
+	{
+		"enUS": "Partizan",
+		"tw-new": "闊頭槍",
+		"tw-old": "戰戟"
+	},
+	{
+		"enUS": "Battle Scythe",
+		"tw-new": "戰鬥鐮刀",
+		"tw-old": "戰鬥鐮刀"
+	},
+	{
+		"enUS": "Bill",
+		"tw-new": "長柄鍥",
+		"tw-old": "比爾長刀"
+	},
+	{
+		"enUS": "Lochaber Axe",
+		"tw-new": "鉤斧",
+		"tw-old": "羅佳柏斧"
+	},
+	{
+		"enUS": "Lance",
+		"tw-new": "長槍",
+		"tw-old": "長槍"
+	},
+	{
+		"enUS": "Yari",
+		"tw-new": "三尖槍",
+		"tw-old": "三叉長槍"
+	},
+	{
+		"enUS": "War Fork",
+		"tw-new": "征戰軍叉",
+		"tw-old": "巨戰之叉"
+	},
+	{
+		"enUS": "Fuscina",
+		"tw-new": "矛叉",
+		"tw-old": "魔鬼之叉"
+	},
+	{
+		"enUS": "War Spear",
+		"tw-new": "征戰長矛",
+		"tw-old": "巨戰長矛"
+	},
+	{
+		"enUS": "Harpoon",
+		"tw-new": "魚叉",
+		"tw-old": "魚叉"
+	},
+	{
+		"enUS": "Spiculum",
+		"tw-new": "尖刃槍",
+		"tw-old": "闊針長矛"
+	},
+	{
+		"enUS": "Simbilan",
+		"tw-new": "銳矛標槍",
+		"tw-old": "銳矛"
+	},
+	{
+		"enUS": "Great Pilum",
+		"tw-new": "重型標槍",
+		"tw-old": "卓越標槍"
+	},
+	{
+		"enUS": "War Javelin",
+		"tw-new": "征戰標槍",
+		"tw-old": "巨戰標槍"
+	},
+	{
+		"enUS": "Hurlbat",
+		"tw-new": "投斧",
+		"tw-old": "短戰戟"
+	},
+	{
+		"enUS": "War Dart",
+		"tw-new": "征戰飛鏢",
+		"tw-old": "巨戰飛鏢"
+	},
+	{
+		"enUS": "Francisca",
+		"tw-new": "法蘭西飛斧",
+		"tw-old": "法蘭飛斧"
+	},
+	{
+		"enUS": "Battle Dart",
+		"tw-new": "戰鬥飛鏢",
+		"tw-old": "戰鬥飛鏢"
+	},
+	{
+		"enUS": "Cinquedeas",
+		"tw-new": "闊身短劍",
+		"tw-old": "強波刀"
+	},
+	{
+		"enUS": "Rondel",
+		"tw-new": "圓柄匕首",
+		"tw-old": "詩歌匕首"
+	},
+	{
+		"enUS": "Poignard",
+		"tw-new": "刺擊短劍",
+		"tw-old": "銳匕"
+	},
+	{
+		"enUS": "Executioner Sword",
+		"tw-new": "處刑劍",
+		"tw-old": "死刑之劍"
+	},
+	{
+		"enUS": "Zweihander",
+		"tw-new": "日耳曼大劍",
+		"tw-old": "瑞韓德之劍"
+	},
+	{
+		"enUS": "Tusk Sword",
+		"tw-new": "長牙劍",
+		"tw-old": "長牙劍"
+	},
+	{
+		"enUS": "Dacian Falx",
+		"tw-new": "達西安長刀",
+		"tw-old": "雙刃鐮"
+	},
+	{
+		"enUS": "Espandon",
+		"tw-new": "雙手重劍",
+		"tw-old": "斬鐵劍"
+	},
+	{
+		"enUS": "Ancient Sword",
+		"tw-new": "上古劍",
+		"tw-old": "古代之劍"
+	},
+	{
+		"enUS": "Rune Sword",
+		"tw-new": "符文劍",
+		"tw-old": "符文劍"
+	},
+	{
+		"enUS": "Battle Sword",
+		"tw-new": "戰鬥長劍",
+		"tw-old": "戰鬥劍"
+	},
+	{
+		"enUS": "Dimensional Blade",
+		"tw-new": "次元刃",
+		"tw-old": "空間之刃"
+	},
+	{
+		"enUS": "Tulwar",
+		"tw-new": "印度彎刀",
+		"tw-old": "圓月彎刀"
+	},
+	{
+		"enUS": "Shamshir",
+		"tw-new": "波斯彎刀",
+		"tw-old": "虛偽之刃"
+	},
+	{
+		"enUS": "Cutlass",
+		"tw-new": "水手刀",
+		"tw-old": "微彎劍"
+	},
+	{
+		"enUS": "Gladius",
+		"tw-new": "羅馬短劍",
+		"tw-old": "羅馬短劍"
+	},
+	{
+		"enUS": "Martel de Fer",
+		"tw-new": "長柄戰鎚",
+		"tw-old": "戰槌"
+	},
+	{
+		"enUS": "War Club",
+		"tw-new": "征戰重鎚",
+		"tw-old": "巨戰木棍"
+	},
+	{
+		"enUS": "Battle Hammer",
+		"tw-new": "戰鬥鐵鎚",
+		"tw-old": "戰鬥鐵鎚"
+	},
+	{
+		"enUS": "Knout",
+		"tw-new": "刑罪連枷",
+		"tw-old": "鐵皮鞭"
+	},
+	{
+		"enUS": "Jagged Star",
+		"tw-new": "鋸齒釘頭鎚",
+		"tw-old": "鋸齒流星鎚"
+	},
+	{
+		"enUS": "Flanged Mace",
+		"tw-new": "凸緣釘鎚",
+		"tw-old": "凸緣釘頭錘"
+	},
+	{
+		"enUS": "Barbed Club",
+		"tw-new": "倒刺棍棒",
+		"tw-old": "倒鉤鎚"
+	},
+	{
+		"enUS": "Divine Scepter",
+		"tw-new": "聖恩權杖",
+		"tw-old": "神屬權杖"
+	},
+	{
+		"enUS": "Holy Water Sprinkler",
+		"tw-new": "聖水禮杖",
+		"tw-old": "聖水噴杖"
+	},
+	{
+		"enUS": "Rune Scepter",
+		"tw-new": "符文權杖",
+		"tw-old": "符文權杖"
+	},
+	{
+		"enUS": "Cudgel",
+		"tw-new": "鬥棍",
+		"tw-old": "棍棒"
+	},
+	{
+		"enUS": "Grave Wand",
+		"tw-new": "墓地魔杖",
+		"tw-old": "墓地之杖"
+	},
+	{
+		"enUS": "Tomb Wand",
+		"tw-new": "古墓魔杖",
+		"tw-old": "古墓之杖"
+	},
+	{
+		"enUS": "Petrified Wand",
+		"tw-new": "石木魔杖",
+		"tw-old": "淨化之杖"
+	},
+	{
+		"enUS": "Burnt Wand",
+		"tw-new": "焦木魔杖",
+		"tw-old": "燒焦之杖"
+	},
+	{
+		"enUS": "Ancient Axe",
+		"tw-new": "上古斧",
+		"tw-old": "古代之斧"
+	},
+	{
+		"enUS": "Gothic Axe",
+		"tw-new": "哥德斧",
+		"tw-old": "哥德之斧"
+	},
+	{
+		"enUS": "Tabar",
+		"tw-new": "長戰斧",
+		"tw-old": "戰鬥斧"
+	},
+	{
+		"enUS": "Bearded Axe",
+		"tw-new": "鉤斧",
+		"tw-old": "鉤斧"
+	},
+	{
+		"enUS": "Military Axe",
+		"tw-new": "軍斧",
+		"tw-old": "軍斧"
+	},
+	{
+		"enUS": "Naga",
+		"tw-new": "那伽斧",
+		"tw-old": "納卡"
+	},
+	{
+		"enUS": "Crowbill",
+		"tw-new": "鴉嘴鎬",
+		"tw-old": "喙鉗"
+	},
+	{
+		"enUS": "Twin Axe",
+		"tw-new": "雙面斧",
+		"tw-old": "強化雙斧"
+	},
+	{
+		"enUS": "Cleaver",
+		"tw-new": "斬斧",
+		"tw-old": "切肉斧"
+	},
+	{
+		"enUS": "Hatchet",
+		"tw-new": "短斧",
+		"tw-old": "小斧"
+	},
+	{
+		"enUS": "Gothic Sword",
+		"tw-new": "哥德劍",
+		"tw-old": "哥德劍"
+	},
+	{
+		"enUS": "Strangling Gas Potion",
+		"tw-new": "刺鼻毒氣藥水",
+		"tw-old": "刺鼻瓦斯藥劑"
+	},
+	{
+		"enUS": "Fulminating Potion",
+		"tw-new": "烈性藥水",
+		"tw-old": "猛爆性藥劑"
+	},
+	{
+		"enUS": "Choking Gas Potion",
+		"tw-new": "窒息毒氣藥水",
+		"tw-old": "窒息瓦斯藥劑"
+	},
+	{
+		"enUS": "Exploding Potion",
+		"tw-new": "爆炸藥水",
+		"tw-old": "爆炸藥劑"
+	},
+	{
+		"enUS": "Rancid Gas Potion",
+		"tw-new": "腐臭毒氣藥水",
+		"tw-old": "惡臭瓦斯藥劑"
+	},
+	{
+		"enUS": "Oil Potion",
+		"tw-new": "火油藥水",
+		"tw-old": "油"
+	},
+	{
+		"enUS": "Gidbinn",
+		"tw-new": "吉德賓",
+		"tw-old": "吉德賓"
+	},
+	{
+		"enUS": "The Gidbinn",
+		"tw-new": "吉德賓",
+		"tw-old": "吉德賓"
+	},
+	{
+		"enUS": "Decoy Gidbinn",
+		"tw-new": "吉德賓誘餌",
+		"tw-old": "吉德賓誘餌"
+	},
+	{
+		"enUS": "Wirt's Leg",
+		"tw-new": "維特的腿",
+		"tw-old": "維特之腳"
+	},
+	{
+		"enUS": "Horadric Malus",
+		"tw-new": "赫拉迪姆之鎚",
+		"tw-old": "赫拉迪克之鎚"
+	},
+	{
+		"enUS": "Horadric Malus",
+		"tw-new": "赫拉迪姆之鎚",
+		"tw-old": "赫拉迪克之鎚"
+	},
+	{
+		"enUS": "Hell Forge Hammer",
+		"tw-new": "地獄熔爐之鎚",
+		"tw-old": "地獄熔爐鐵鎚"
+	},
+	{
+		"enUS": "Horadric Staff",
+		"tw-new": "赫拉迪姆之杖",
+		"tw-old": "赫拉迪克之杖"
+	},
+	{
+		"enUS": "Shaft of the Horadric Staff",
+		"tw-new": "赫拉迪姆之杖的杖身",
+		"tw-old": "赫拉迪克之杖的轉軸"
+	},
+	{
+		"enUS": "Elixir",
+		"tw-new": "靈藥",
+		"tw-old": "靈藥"
+	},
+	{
+		"enUS": "Tome of Town Portal",
+		"tw-new": "城鎮傳送之書",
+		"tw-old": "城鎮傳送之書"
+	},
+	{
+		"enUS": "Scroll of Town Portal",
+		"tw-new": "城鎮傳送卷軸",
+		"tw-old": "城鎮傳送卷軸"
+	},
+	{
+		"enUS": "Tome of Identify",
+		"tw-new": "鑑定之書",
+		"tw-old": "辨視之書"
+	},
+	{
+		"enUS": "Scroll of Identify",
+		"tw-new": "鑑定卷軸",
+		"tw-old": "辨視卷軸"
+	},
+	{
+		"enUS": "Stamina Potion",
+		"tw-new": "精力藥水",
+		"tw-old": "耐力藥劑"
+	},
+	{
+		"enUS": "Antidote Potion",
+		"tw-new": "解毒藥水",
+		"tw-old": "解毒藥劑"
+	},
+	{
+		"enUS": "Rejuvenation Potion",
+		"tw-new": "活力藥水",
+		"tw-old": "回復活力藥劑"
+	},
+	{
+		"enUS": "Full Rejuvenation Potion",
+		"tw-new": "全效活力藥水",
+		"tw-old": "全面回復活力藥劑"
+	},
+	{
+		"enUS": "Thawing Potion",
+		"tw-new": "融冰藥水",
+		"tw-old": "融解藥劑"
+	},
+	{
+		"enUS": "Amulet",
+		"tw-new": "護身符",
+		"tw-old": "護身符"
+	},
+	{
+		"enUS": "Top of the Horadric Staff",
+		"tw-new": "赫拉迪姆之杖的杖頂",
+		"tw-old": "赫拉迪克之杖頂端"
+	},
+	{
+		"enUS": "Ring",
+		"tw-new": "戒指",
+		"tw-old": "戒指"
+	},
+	{
+		"enUS": "Scroll of Inifuss",
+		"tw-new": "艾尼弗斯卷軸",
+		"tw-old": "艾尼弗斯卷軸"
+	},
+	{
+		"enUS": "Key to the Cairn Stones",
+		"tw-new": "石陣之鑰",
+		"tw-old": "石塚之鑰"
+	},
+	{
+		"enUS": "Arrows",
+		"tw-new": "弓矢",
+		"tw-old": "箭矢"
+	},
+	{
+		"enUS": "Torch",
+		"tw-new": "火炬",
+		"tw-old": "火焰"
+	},
+	{
+		"enUS": "Bolts",
+		"tw-new": "弩箭",
+		"tw-old": "十字弓彈"
+	},
+	{
+		"enUS": "Key",
+		"tw-new": "鑰匙",
+		"tw-old": "鑰匙"
+	},
+	{
+		"enUS": "Key",
+		"tw-new": "鑰匙",
+		"tw-old": "鑰匙"
+	},
+	{
+		"enUS": "The Black Tower Key",
+		"tw-new": "黑塔之鑰",
+		"tw-old": "黑塔之鑰"
+	},
+	{
+		"enUS": "A Jade Figurine",
+		"tw-new": "翠玉塑像",
+		"tw-old": "玉製小人"
+	},
+	{
+		"enUS": "The Golden Bird",
+		"tw-new": "黃金鳥",
+		"tw-old": "黃金鳥"
+	},
+	{
+		"enUS": "Lam Esen's Tome",
+		"tw-new": "藍伊森之書",
+		"tw-old": "藍.依森之書"
+	},
+	{
+		"enUS": "Lam Esen's Tome",
+		"tw-new": "藍伊森之書",
+		"tw-old": "藍.依森之書"
+	},
+	{
+		"enUS": "Horadric Cube",
+		"tw-new": "赫拉迪姆方塊",
+		"tw-old": "赫拉迪克方塊"
+	},
+	{
+		"enUS": "Horadric Scroll",
+		"tw-new": "赫拉迪姆卷軸",
+		"tw-old": "赫拉迪克卷軸"
+	},
+	{
+		"enUS": "Mephisto's Soulstone",
+		"tw-new": "墨菲斯托的靈魂石",
+		"tw-old": "墨菲斯托的靈魂之石"
+	},
+	{
+		"enUS": "Ear",
+		"tw-new": "耳朵",
+		"tw-old": "耳"
+	},
+	{
+		"enUS": "Chipped Amethyst",
+		"tw-new": "碎裂紫寶石",
+		"tw-old": "碎裂的紫寶石"
+	},
+	{
+		"enUS": "Flawed Amethyst",
+		"tw-new": "瑕疵紫寶石",
+		"tw-old": "裂開的紫寶石"
+	},
+	{
+		"enUS": "Amethyst",
+		"tw-new": "紫寶石",
+		"tw-old": "紫寶石"
+	},
+	{
+		"enUS": "Flawless Amethyst",
+		"tw-new": "無瑕紫寶石",
+		"tw-old": "無暇疵的紫寶石"
+	},
+	{
+		"enUS": "Perfect Amethyst",
+		"tw-new": "完美紫寶石",
+		"tw-old": "完美的紫寶石"
+	},
+	{
+		"enUS": "Chipped Topaz",
+		"tw-new": "碎裂黃寶石",
+		"tw-old": "碎裂的黃寶石"
+	},
+	{
+		"enUS": "Flawed Topaz",
+		"tw-new": "瑕疵黃寶石",
+		"tw-old": "裂開的黃寶石"
+	},
+	{
+		"enUS": "Topaz",
+		"tw-new": "黃寶石",
+		"tw-old": "黃寶石"
+	},
+	{
+		"enUS": "Flawless Topaz",
+		"tw-new": "無瑕黃寶石",
+		"tw-old": "無暇疵的黃寶石"
+	},
+	{
+		"enUS": "Perfect Topaz",
+		"tw-new": "完美黃寶石",
+		"tw-old": "完美的黃寶石"
+	},
+	{
+		"enUS": "Chipped Sapphire",
+		"tw-new": "碎裂藍寶石",
+		"tw-old": "碎裂的藍寶石"
+	},
+	{
+		"enUS": "Flawed Sapphire",
+		"tw-new": "瑕疵藍寶石",
+		"tw-old": "裂開的藍寶石"
+	},
+	{
+		"enUS": "Flawless Sapphire",
+		"tw-new": "無瑕藍寶石",
+		"tw-old": "無暇疵的藍寶石"
+	},
+	{
+		"enUS": "Perfect Sapphire",
+		"tw-new": "完美藍寶石",
+		"tw-old": "完美的藍寶石"
+	},
+	{
+		"enUS": "Chipped Emerald",
+		"tw-new": "碎裂綠寶石",
+		"tw-old": "碎裂的綠寶石"
+	},
+	{
+		"enUS": "Flawed Emerald",
+		"tw-new": "瑕疵綠寶石",
+		"tw-old": "裂開的綠寶石"
+	},
+	{
+		"enUS": "Flawless Emerald",
+		"tw-new": "無瑕綠寶石",
+		"tw-old": "無暇疵的綠寶石"
+	},
+	{
+		"enUS": "Perfect Emerald",
+		"tw-new": "完美綠寶石",
+		"tw-old": "完美的綠寶石"
+	},
+	{
+		"enUS": "Chipped Ruby",
+		"tw-new": "碎裂紅寶石",
+		"tw-old": "碎裂的紅寶石"
+	},
+	{
+		"enUS": "Flawed Ruby",
+		"tw-new": "瑕疵紅寶石",
+		"tw-old": "裂開的紅寶石"
+	},
+	{
+		"enUS": "Flawless Ruby",
+		"tw-new": "無瑕紅寶石",
+		"tw-old": "無暇疵的紅寶石"
+	},
+	{
+		"enUS": "Perfect Ruby",
+		"tw-new": "完美紅寶石",
+		"tw-old": "完美的紅寶石"
+	},
+	{
+		"enUS": "Chipped Diamond",
+		"tw-new": "碎裂鑽石",
+		"tw-old": "碎裂的鑽石"
+	},
+	{
+		"enUS": "Flawed Diamond",
+		"tw-new": "瑕疵鑽石",
+		"tw-old": "裂開的鑽石"
+	},
+	{
+		"enUS": "Flawless Diamond",
+		"tw-new": "無瑕鑽石",
+		"tw-old": "無暇疵的鑽石"
+	},
+	{
+		"enUS": "Perfect Diamond",
+		"tw-new": "完美鑽石",
+		"tw-old": "完美的鑽石"
+	},
+	{
+		"enUS": "Minor Healing Potion",
+		"tw-new": "弱效生命藥水",
+		"tw-old": "輕微治療藥劑"
+	},
+	{
+		"enUS": "Light Healing Potion",
+		"tw-new": "輕效生命藥水",
+		"tw-old": "輕型治療藥劑"
+	},
+	{
+		"enUS": "Healing Potion",
+		"tw-new": "生命藥水",
+		"tw-old": "治療藥劑"
+	},
+	{
+		"enUS": "Greater Healing Potion",
+		"tw-new": "強效生命藥水",
+		"tw-old": "強力治療藥劑"
+	},
+	{
+		"enUS": "Super Healing Potion",
+		"tw-new": "特效生命藥水",
+		"tw-old": "超級治療藥劑"
+	},
+	{
+		"enUS": "Minor Mana Potion",
+		"tw-new": "弱效法力藥水",
+		"tw-old": "輕微法力藥劑"
+	},
+	{
+		"enUS": "Light Mana Potion",
+		"tw-new": "輕效法力藥水",
+		"tw-old": "輕型法力藥劑"
+	},
+	{
+		"enUS": "Mana Potion",
+		"tw-new": "法力藥水",
+		"tw-old": "法力藥劑"
+	},
+	{
+		"enUS": "Greater Mana Potion",
+		"tw-new": "強效法力藥水",
+		"tw-old": "強力法力藥劑"
+	},
+	{
+		"enUS": "Super Mana Potion",
+		"tw-new": "特效法力藥水",
+		"tw-old": "超級法力藥劑"
+	},
+	{
+		"enUS": "Chipped Skull",
+		"tw-new": "碎裂骷髏石",
+		"tw-old": "碎裂的骷髏"
+	},
+	{
+		"enUS": "Flawed Skull",
+		"tw-new": "瑕疵骷髏石",
+		"tw-old": "裂開的骷髏"
+	},
+	{
+		"enUS": "Skull",
+		"tw-new": "骷髏石",
+		"tw-old": "骷髏"
+	},
+	{
+		"enUS": "Flawless Skull",
+		"tw-new": "無瑕骷髏石",
+		"tw-old": "無暇疵的骷髏"
+	},
+	{
+		"enUS": "Perfect Skull",
+		"tw-new": "完美骷髏石",
+		"tw-old": "完美的骷髏"
+	},
+	{
+		"enUS": "Raven",
+		"tw-new": "掠鴉",
+		"tw-old": "渡鳥之"
+	},
+	{
+		"enUS": "Imp",
+		"tw-new": "小惡魔",
+		"tw-old": "小惡魔之"
+	},
+	{
+		"enUS": "Armageddon",
+		"tw-new": "末世",
+		"tw-old": "世界末日之"
+	},
+	{
+		"enUS": "Saw",
+		"tw-new": "之鋸",
+		"tw-old": "鋸"
+	},
+	{
+		"enUS": "Cry",
+		"tw-new": "哭喊",
+		"tw-old": "哭喊"
+	},
+	{
+		"enUS": "Visage",
+		"tw-new": "面容",
+		"tw-old": "臉"
+	},
+	{
+		"enUS": "Crest",
+		"tw-new": "飾章",
+		"tw-old": "頂飾"
+	},
+	{
+		"enUS": "Circlet",
+		"tw-new": "飾環",
+		"tw-old": "飾環"
+	},
+	{
+		"enUS": "Veil",
+		"tw-new": "面紗",
+		"tw-old": "面紗"
+	},
+	{
+		"enUS": "Hood",
+		"tw-new": "兜帽",
+		"tw-old": "兜帽"
+	},
+	{
+		"enUS": "Mask",
+		"tw-new": "面具",
+		"tw-old": "面具"
+	},
+	{
+		"enUS": "Brow",
+		"tw-new": "之額",
+		"tw-old": "額頭"
+	},
+	{
+		"enUS": "Casque",
+		"tw-new": "兜盔",
+		"tw-old": "盔"
+	},
+	{
+		"enUS": "Visor",
+		"tw-new": "護面",
+		"tw-old": "面甲"
+	},
+	{
+		"enUS": "Cowl",
+		"tw-new": "風帽",
+		"tw-old": "蒙頭斗蓬"
+	},
+	{
+		"enUS": "Hide",
+		"tw-new": "毛皮",
+		"tw-old": "隱藏"
+	},
+	{
+		"enUS": "Pelt",
+		"tw-new": "獸皮",
+		"tw-old": "投擲"
+	},
+	{
+		"enUS": "Carapace",
+		"tw-new": "甲殼",
+		"tw-old": "甲殼"
+	},
+	{
+		"enUS": "Coat",
+		"tw-new": "外袍",
+		"tw-old": "外袍"
+	},
+	{
+		"enUS": "Wrap",
+		"tw-new": "裹護",
+		"tw-old": "包裹"
+	},
+	{
+		"enUS": "Suit",
+		"tw-new": "衣裝",
+		"tw-old": "衣"
+	},
+	{
+		"enUS": "Cloak",
+		"tw-new": "斗蓬",
+		"tw-old": "斗蓬"
+	},
+	{
+		"enUS": "Shroud",
+		"tw-new": "罩衣",
+		"tw-old": "罩衣"
+	},
+	{
+		"enUS": "Jack",
+		"tw-new": "水兵",
+		"tw-old": "水兵"
+	},
+	{
+		"enUS": "Mantle",
+		"tw-new": "披風",
+		"tw-old": "披風"
+	},
+	{
+		"enUS": "Guard",
+		"tw-new": "守衛",
+		"tw-old": "守衛"
+	},
+	{
+		"enUS": "Badge",
+		"tw-new": "徽章",
+		"tw-old": "徽章"
+	},
+	{
+		"enUS": "Rock",
+		"tw-new": "之岩",
+		"tw-old": "石塊"
+	},
+	{
+		"enUS": "Aegis",
+		"tw-new": "之禦",
+		"tw-old": "庇護"
+	},
+	{
+		"enUS": "Ward",
+		"tw-new": "守護",
+		"tw-old": "保護"
+	},
+	{
+		"enUS": "Tower",
+		"tw-new": "之塔",
+		"tw-old": "塔"
+	},
+	{
+		"enUS": "Shield",
+		"tw-new": "之盾",
+		"tw-old": "盾護"
+	},
+	{
+		"enUS": "Wing",
+		"tw-new": "之翼",
+		"tw-old": "翼"
+	},
+	{
+		"enUS": "Mark",
+		"tw-new": "標記",
+		"tw-old": "標記"
+	},
+	{
+		"enUS": "Emblem",
+		"tw-new": "紋章",
+		"tw-old": "象徵"
+	},
+	{
+		"enUS": "Hand",
+		"tw-new": "手",
+		"tw-old": "手"
+	},
+	{
+		"enUS": "Fist",
+		"tw-new": "之拳",
+		"tw-old": "拳"
+	},
+	{
+		"enUS": "Claw",
+		"tw-new": "爪",
+		"tw-old": "爪"
+	},
+	{
+		"enUS": "Clutches",
+		"tw-new": "之握",
+		"tw-old": "手爪"
+	},
+	{
+		"enUS": "Grip",
+		"tw-new": "抓握",
+		"tw-old": "緊握"
+	},
+	{
+		"enUS": "Grasp",
+		"tw-new": "之握",
+		"tw-old": "抓取"
+	},
+	{
+		"enUS": "Hold",
+		"tw-new": "之握",
+		"tw-old": "握"
+	},
+	{
+		"enUS": "Touch",
+		"tw-new": "之觸",
+		"tw-old": "觸碰"
+	},
+	{
+		"enUS": "Finger",
+		"tw-new": "手指",
+		"tw-old": "手指"
+	},
+	{
+		"enUS": "Knuckle",
+		"tw-new": "指節",
+		"tw-old": "指節"
+	},
+	{
+		"enUS": "Shank",
+		"tw-new": "尖鑽",
+		"tw-old": "小腿"
+	},
+	{
+		"enUS": "Spur",
+		"tw-new": "驅刺",
+		"tw-old": "踢馬刺"
+	},
+	{
+		"enUS": "Tread",
+		"tw-new": "步履",
+		"tw-old": "踏步"
+	},
+	{
+		"enUS": "Stalker",
+		"tw-new": "潛獵者",
+		"tw-old": "潛行者"
+	},
+	{
+		"enUS": "Greaves",
+		"tw-new": "護脛",
+		"tw-old": "油渣"
+	},
+	{
+		"enUS": "Blazer",
+		"tw-new": "炎光",
+		"tw-old": "發光體"
+	},
+	{
+		"enUS": "Nails",
+		"tw-new": "尖釘",
+		"tw-old": "釘"
+	},
+	{
+		"enUS": "Trample",
+		"tw-new": "蹂躪",
+		"tw-old": "蹂躪"
+	},
+	{
+		"enUS": "Brogues",
+		"tw-new": "粗皮鞋",
+		"tw-old": "粗皮鞋"
+	},
+	{
+		"enUS": "Track",
+		"tw-new": "蹤跡",
+		"tw-old": "追蹤"
+	},
+	{
+		"enUS": "Slippers",
+		"tw-new": "便鞋",
+		"tw-old": "便鞋"
+	},
+	{
+		"enUS": "Clasp",
+		"tw-new": "之扣",
+		"tw-old": "扣鉤"
+	},
+	{
+		"enUS": "Buckle",
+		"tw-new": "釦帶",
+		"tw-old": "釦帶"
+	},
+	{
+		"enUS": "Harness",
+		"tw-new": "裝束",
+		"tw-old": "挽具"
+	},
+	{
+		"enUS": "Lock",
+		"tw-new": "鎖扣",
+		"tw-old": "鎖"
+	},
+	{
+		"enUS": "Fringe",
+		"tw-new": "邊飾",
+		"tw-old": "邊飾"
+	},
+	{
+		"enUS": "Winding",
+		"tw-new": "繞捲",
+		"tw-old": "捲燒"
+	},
+	{
+		"enUS": "Chain",
+		"tw-new": "之鏈",
+		"tw-old": "鏈條"
+	},
+	{
+		"enUS": "Lash",
+		"tw-new": "鞭笞",
+		"tw-old": "抽打"
+	},
+	{
+		"enUS": "Cord",
+		"tw-new": "捆繩",
+		"tw-old": "捆綁"
+	},
+	{
+		"enUS": "Knot",
+		"tw-new": "之結",
+		"tw-old": "結"
+	},
+	{
+		"enUS": "Circle",
+		"tw-new": "之環",
+		"tw-old": "環"
+	},
+	{
+		"enUS": "Loop",
+		"tw-new": "之圈",
+		"tw-old": "圈"
+	},
+	{
+		"enUS": "Eye",
+		"tw-new": "之眼",
+		"tw-old": "眼"
+	},
+	{
+		"enUS": "Turn",
+		"tw-new": "轉迴",
+		"tw-old": "轉"
+	},
+	{
+		"enUS": "Spiral",
+		"tw-new": "螺旋",
+		"tw-old": "螺旋"
+	},
+	{
+		"enUS": "Coil",
+		"tw-new": "盤繞",
+		"tw-old": "盤繞"
+	},
+	{
+		"enUS": "Gyre",
+		"tw-new": "旋迴",
+		"tw-old": "旋迴"
+	},
+	{
+		"enUS": "Band",
+		"tw-new": "之箍",
+		"tw-old": "箍"
+	},
+	{
+		"enUS": "Whorl",
+		"tw-new": "旋螺",
+		"tw-old": "螺層"
+	},
+	{
+		"enUS": "Talisman",
+		"tw-new": "護符",
+		"tw-old": "護符"
+	},
+	{
+		"enUS": "Heart",
+		"tw-new": "之心",
+		"tw-old": "心"
+	},
+	{
+		"enUS": "Noose",
+		"tw-new": "套索",
+		"tw-old": "套索"
+	},
+	{
+		"enUS": "Necklace",
+		"tw-new": "項鍊",
+		"tw-old": "項鍊"
+	},
+	{
+		"enUS": "Collar",
+		"tw-new": "項圈",
+		"tw-old": "項圈"
+	},
+	{
+		"enUS": "Beads",
+		"tw-new": "串珠",
+		"tw-old": "串珠"
+	},
+	{
+		"enUS": "Torc",
+		"tw-new": "頸飾",
+		"tw-old": "金絲項圈"
+	},
+	{
+		"enUS": "Gorget",
+		"tw-new": "頸甲",
+		"tw-old": "頸甲"
+	},
+	{
+		"enUS": "Wood",
+		"tw-new": "之木",
+		"tw-old": "木"
+	},
+	{
+		"enUS": "Brand",
+		"tw-new": "烙印",
+		"tw-old": "品牌"
+	},
+	{
+		"enUS": "Bludgeon",
+		"tw-new": "棍棒",
+		"tw-old": "棍棒"
+	},
+	{
+		"enUS": "Cudgel",
+		"tw-new": "鬥棍",
+		"tw-old": "木棒"
+	},
+	{
+		"enUS": "Loom",
+		"tw-new": "隱現",
+		"tw-old": "織布機"
+	},
+	{
+		"enUS": "Harp",
+		"tw-new": "豎琴",
+		"tw-old": "豎琴"
+	},
+	{
+		"enUS": "Master",
+		"tw-new": "主宰",
+		"tw-old": "專家"
+	},
+	{
+		"enUS": "Bar",
+		"tw-new": "柵欄",
+		"tw-old": "酒吧"
+	},
+	{
+		"enUS": "Hew",
+		"tw-new": "劈斬",
+		"tw-old": "砍"
+	},
+	{
+		"enUS": "Crook",
+		"tw-new": "彎鉤",
+		"tw-old": "鉤"
+	},
+	{
+		"enUS": "Mar",
+		"tw-new": "毀損",
+		"tw-old": "毀損"
+	},
+	{
+		"enUS": "Shell",
+		"tw-new": "殼甲",
+		"tw-old": "殼"
+	},
+	{
+		"enUS": "Stake",
+		"tw-new": "樁棍",
+		"tw-old": "棍子"
+	},
+	{
+		"enUS": "Picket",
+		"tw-new": "尖樁",
+		"tw-old": "尖木"
+	},
+	{
+		"enUS": "Pale",
+		"tw-new": "蒼白",
+		"tw-old": "蒼白"
+	},
+	{
+		"enUS": "Flange",
+		"tw-new": "凸緣",
+		"tw-old": "凸緣"
+	},
+	{
+		"enUS": "Civerb's Vestments",
+		"tw-new": "克維雷布的法衣",
+		"tw-old": "希弗伯的法衣"
+	},
+	{
+		"enUS": "Hsaru's Defense",
+		"tw-new": "海沙魯的鐵禦",
+		"tw-old": "海沙魯的防禦"
+	},
+	{
+		"enUS": "Cleglaw's Brace",
+		"tw-new": "克雷德勞的防備",
+		"tw-old": "克雷得勞的支柱"
+	},
+	{
+		"enUS": "Iratha's Finery",
+		"tw-new": "依雷撒的華服",
+		"tw-old": "依雷撒的精銑爐"
+	},
+	{
+		"enUS": "Isenhart's Armory",
+		"tw-new": "依森哈特的軍械",
+		"tw-old": "依森哈德的武器室"
+	},
+	{
+		"enUS": "Vidala's Rig",
+		"tw-new": "維達拉的配備",
+		"tw-old": "維達拉的配備"
+	},
+	{
+		"enUS": "Milabrega's Regalia",
+		"tw-new": "米拉伯佳戰裝",
+		"tw-old": "米拉伯佳的雪茄"
+	},
+	{
+		"enUS": "Cathan's Traps",
+		"tw-new": "卡珊的衣著",
+		"tw-old": "卡珊的陷阱"
+	},
+	{
+		"enUS": "Tancred's Battlegear",
+		"tw-new": "坦克雷的戰裝",
+		"tw-old": "坦克雷的戰鬥工具"
+	},
+	{
+		"enUS": "Sigon's Complete Steel",
+		"tw-new": "西剛的全套鋼甲",
+		"tw-old": "西剛的全套刀劍"
+	},
+	{
+		"enUS": "Infernal Tools",
+		"tw-new": "煉獄器具",
+		"tw-old": "地獄的工具"
+	},
+	{
+		"enUS": "Berserker's Arsenal",
+		"tw-new": "狂戰士的武裝",
+		"tw-old": "狂戰士的軍火庫"
+	},
+	{
+		"enUS": "Death's Disguise",
+		"tw-new": "死亡的偽裝",
+		"tw-old": "死亡的偽裝"
+	},
+	{
+		"enUS": "Angelic Raiment",
+		"tw-new": "天使的衣裝",
+		"tw-old": "天上的衣服"
+	},
+	{
+		"enUS": "Arctic Gear",
+		"tw-new": "北極裝備",
+		"tw-old": "北極裝置"
+	},
+	{
+		"enUS": "Arcanna's Tricks",
+		"tw-new": "阿卡娜的詭計",
+		"tw-old": "卡阿娜的詭計"
+	},
+	{
+		"enUS": "Ward",
+		"tw-new": "防護",
+		"tw-old": "囚房"
+	},
+	{
+		"enUS": "Iron Heel",
+		"tw-new": "鐵跟",
+		"tw-old": "鐵後腫"
+	},
+	{
+		"enUS": "Tooth",
+		"tw-new": "之牙",
+		"tw-old": "齒"
+	},
+	{
+		"enUS": "Collar",
+		"tw-new": "項圈",
+		"tw-old": "項圈"
+	},
+	{
+		"enUS": "Lightbrand",
+		"tw-new": "光之烙鐵",
+		"tw-old": "光之烙印"
+	},
+	{
+		"enUS": "Barb",
+		"tw-new": "倒刺",
+		"tw-old": "倒刺"
+	},
+	{
+		"enUS": "Orb",
+		"tw-new": "之球",
+		"tw-old": "球體"
+	},
+	{
+		"enUS": "Rule",
+		"tw-new": "尺杖",
+		"tw-old": "法規"
+	},
+	{
+		"enUS": "Crowbill",
+		"tw-new": "鴉嘴鎬",
+		"tw-old": "喙鉗"
+	},
+	{
+		"enUS": "Visor",
+		"tw-new": "護面",
+		"tw-old": "面甲"
+	},
+	{
+		"enUS": "Cranium",
+		"tw-new": "頭骨",
+		"tw-old": "顱骨"
+	},
+	{
+		"enUS": "Headgear",
+		"tw-new": "頭盔",
+		"tw-old": "頭飾"
+	},
+	{
+		"enUS": "Hand",
+		"tw-new": "之手",
+		"tw-old": "手"
+	},
+	{
+		"enUS": "Sickle",
+		"tw-new": "鐮刀",
+		"tw-old": "小鐮刀"
+	},
+	{
+		"enUS": "Horn",
+		"tw-new": "號角",
+		"tw-old": "角"
+	},
+	{
+		"enUS": "Sign",
+		"tw-new": "符印",
+		"tw-old": "標示"
+	},
+	{
+		"enUS": "Icon",
+		"tw-new": "聖像",
+		"tw-old": "圖示"
+	},
+	{
+		"enUS": "Iron Fist",
+		"tw-new": "鐵拳",
+		"tw-old": "鐵拳"
+	},
+	{
+		"enUS": "Claw",
+		"tw-new": "爪",
+		"tw-old": "爪"
+	},
+	{
+		"enUS": "Cuff",
+		"tw-new": "袖銬",
+		"tw-old": "掌擊"
+	},
+	{
+		"enUS": "Parry",
+		"tw-new": "招架",
+		"tw-old": "閃避"
+	},
+	{
+		"enUS": "Fetlock",
+		"tw-new": "足距",
+		"tw-old": "球節"
+	},
+	{
+		"enUS": "Rod",
+		"tw-new": "節杖",
+		"tw-old": "棒"
+	},
+	{
+		"enUS": "Mesh",
+		"tw-new": "網衣",
+		"tw-old": "網織"
+	},
+	{
+		"enUS": "Spine",
+		"tw-new": "脊柱",
+		"tw-old": "山脊"
+	},
+	{
+		"enUS": "Shelter",
+		"tw-new": "庇護",
+		"tw-old": "庇護所"
+	},
+	{
+		"enUS": "Torch",
+		"tw-new": "火炬",
+		"tw-old": "火炬"
+	},
+	{
+		"enUS": "Hauberk",
+		"tw-new": "鎖子甲",
+		"tw-old": "連環甲"
+	},
+	{
+		"enUS": "Guard",
+		"tw-new": "護",
+		"tw-old": "守護"
+	},
+	{
+		"enUS": "Mantle",
+		"tw-new": "披風",
+		"tw-old": "披風"
+	},
+	{
+		"enUS": "Furs",
+		"tw-new": "毛皮",
+		"tw-old": "毛皮"
+	},
+	{
+		"enUS": "Deathwand",
+		"tw-new": "死亡之杖",
+		"tw-old": "死亡之杖"
+	},
+	{
+		"enUS": "Cudgel",
+		"tw-new": "短棍",
+		"tw-old": "棍棒"
+	},
+	{
+		"enUS": "Iron Stay",
+		"tw-new": "鐵扣",
+		"tw-old": "鋼鐵支索"
+	},
+	{
+		"enUS": "Pincers",
+		"tw-new": "之鉗",
+		"tw-old": "鉗腳"
+	},
+	{
+		"enUS": "Coil",
+		"tw-new": "盤頂",
+		"tw-old": "線圈"
+	},
+	{
+		"enUS": "Case",
+		"tw-new": "外殼",
+		"tw-old": "外殼"
+	},
+	{
+		"enUS": "Ambush",
+		"tw-new": "突擊",
+		"tw-old": "突擊"
+	},
+	{
+		"enUS": "Diadem",
+		"tw-new": "權冠",
+		"tw-old": "王位"
+	},
+	{
+		"enUS": "Visage",
+		"tw-new": "容貌",
+		"tw-old": "面貌"
+	},
+	{
+		"enUS": "Hobnails",
+		"tw-new": "釘靴",
+		"tw-old": "平頭釘"
+	},
+	{
+		"enUS": "Gage",
+		"tw-new": "挑戰",
+		"tw-old": "挑戰物"
+	},
+	{
+		"enUS": "Buckle",
+		"tw-new": "扣帶",
+		"tw-old": "扣帶"
+	},
+	{
+		"enUS": "Hatchet",
+		"tw-new": "手斧",
+		"tw-old": "手斧"
+	},
+	{
+		"enUS": "Touch",
+		"tw-new": "觸",
+		"tw-old": "接觸"
+	},
+	{
+		"enUS": "Halo",
+		"tw-new": "光暈",
+		"tw-old": "光暈"
+	},
+	{
+		"enUS": "Binding",
+		"tw-new": "捆索",
+		"tw-old": "束"
+	},
+	{
+		"enUS": "Head",
+		"tw-new": "頭",
+		"tw-old": "頭"
+	},
+	{
+		"enUS": "Horns",
+		"tw-new": "角盔",
+		"tw-old": "角"
+	},
+	{
+		"enUS": "Snare",
+		"tw-new": "圈套",
+		"tw-old": "陷阱"
+	},
+	{
+		"enUS": "Robe",
+		"tw-new": "外袍",
+		"tw-old": "外袍"
+	},
+	{
+		"enUS": "Sigil",
+		"tw-new": "魔咒",
+		"tw-old": "法印"
+	},
+	{
+		"enUS": "Sabot",
+		"tw-new": "硬靴",
+		"tw-old": "木鞋"
+	},
+	{
+		"enUS": "Wings",
+		"tw-new": "翅膀",
+		"tw-old": "翅膀"
+	},
+	{
+		"enUS": "Mitts",
+		"tw-new": "手套",
+		"tw-old": "無指手套"
+	},
+	{
+		"enUS": "Flesh",
+		"tw-new": "血肉",
+		"tw-old": "血肉"
+	},
+	{
+		"enUS": "Cord",
+		"tw-new": "腰繩",
+		"tw-old": "細繩"
+	},
+	{
+		"enUS": "Seal",
+		"tw-new": "封印",
+		"tw-old": "封印"
+	},
+	{
+		"enUS": "Skull",
+		"tw-new": "顱骨",
+		"tw-old": "頭骨"
+	},
+	{
+		"enUS": "Wrap",
+		"tw-new": "裹腰",
+		"tw-old": "包裹"
+	},
+	{
+		"enUS": "Guard",
+		"tw-new": "守護",
+		"tw-old": "守護"
+	},
+	{
+		"enUS": "The Gnasher",
+		"tw-new": "噬咬者",
+		"tw-old": "牙齒"
+	},
+	{
+		"enUS": "Deathspade",
+		"tw-new": "死亡之鏟",
+		"tw-old": "死亡之鏟"
+	},
+	{
+		"enUS": "Bladebone",
+		"tw-new": "肩胛骨",
+		"tw-old": "肩胛骨"
+	},
+	{
+		"enUS": "Skull Splitter",
+		"tw-new": "劈顱斧",
+		"tw-old": "切開骷髏"
+	},
+	{
+		"enUS": "Rakescar",
+		"tw-new": "耙痕",
+		"tw-old": "火鉤之傷"
+	},
+	{
+		"enUS": "Axe of Fechmar",
+		"tw-new": "費屈瑪之斧",
+		"tw-old": "費屈瑪之斧"
+	},
+	{
+		"enUS": "Goreshovel",
+		"tw-new": "血鍬",
+		"tw-old": "血塊之鏟"
+	},
+	{
+		"enUS": "The Chieftain",
+		"tw-new": "酋長",
+		"tw-old": "族長"
+	},
+	{
+		"enUS": "Brainhew",
+		"tw-new": "劈腦",
+		"tw-old": "腦袋"
+	},
+	{
+		"enUS": "Humongous",
+		"tw-new": "巨無霸",
+		"tw-old": "巨大無比"
+	},
+	{
+		"enUS": "Torch of Iro",
+		"tw-new": "伊洛的火炬",
+		"tw-old": "衣洛的火炬"
+	},
+	{
+		"enUS": "Maelstrom",
+		"tw-new": "漩渦",
+		"tw-old": "漩渦"
+	},
+	{
+		"enUS": "Gravenspine",
+		"tw-new": "墓穴之脊",
+		"tw-old": "墓穴之脊"
+	},
+	{
+		"enUS": "Ume's Lament",
+		"tw-new": "梅花嘆",
+		"tw-old": "烏米的慟哭"
+	},
+	{
+		"enUS": "Felloak",
+		"tw-new": "魔橡樹",
+		"tw-old": "兇猛橡樹"
+	},
+	{
+		"enUS": "Knell Striker",
+		"tw-new": "喪鐘敲擊者",
+		"tw-old": "敲擊喪鐘者"
+	},
+	{
+		"enUS": "Rusthandle",
+		"tw-new": "鏽蝕把手",
+		"tw-old": "腐蝕的把手"
+	},
+	{
+		"enUS": "Stormeye",
+		"tw-new": "暴風眼",
+		"tw-old": "暴風眼"
+	},
+	{
+		"enUS": "Stoutnail",
+		"tw-new": "特粗鐵釘",
+		"tw-old": "堅硬的指甲"
+	},
+	{
+		"enUS": "Crushflange",
+		"tw-new": "碎擊釘錘",
+		"tw-old": "壓碎的凸邊"
+	},
+	{
+		"enUS": "Bloodrise",
+		"tw-new": "血升",
+		"tw-old": "血昇"
+	},
+	{
+		"enUS": "The General's Tan Do Li Ga",
+		"tw-new": "將軍的連枷",
+		"tw-old": "坦-杜-裡-嘎將軍"
+	},
+	{
+		"enUS": "Ironstone",
+		"tw-new": "鐵石",
+		"tw-old": "鐵石"
+	},
+	{
+		"enUS": "Bonesnap",
+		"tw-new": "碎骨",
+		"tw-old": "碎骨"
+	},
+	{
+		"enUS": "Steeldriver",
+		"tw-new": "打鋼鎚",
+		"tw-old": "鐵製大鎚"
+	},
+	{
+		"enUS": "Rixot's Keen",
+		"tw-new": "瑞克塞斯的利刃",
+		"tw-old": "瑞克撒特的輓歌"
+	},
+	{
+		"enUS": "Blood Crescent",
+		"tw-new": "血紅新月",
+		"tw-old": "血紅新月"
+	},
+	{
+		"enUS": "Skewer of Krintiz",
+		"tw-new": "克里維茲的肉叉",
+		"tw-old": "格林提斯的肉叉"
+	},
+	{
+		"enUS": "Gleamscythe",
+		"tw-new": "閃耀鐮刀",
+		"tw-old": "閃耀的鐮刀"
+	},
+	{
+		"enUS": "Azurewrath",
+		"tw-new": "碧藍怒火",
+		"tw-old": "青色忿怒"
+	},
+	{
+		"enUS": "Griswold's Edge",
+		"tw-new": "格里斯瓦德之刃",
+		"tw-old": "格理斯瓦得的銳利"
+	},
+	{
+		"enUS": "Hellplague",
+		"tw-new": "地獄瘟疫",
+		"tw-old": "地獄瘟疫"
+	},
+	{
+		"enUS": "Culwen's Point",
+		"tw-new": "庫爾溫的尖刃",
+		"tw-old": "庫爾溫的尖端"
+	},
+	{
+		"enUS": "Shadowfang",
+		"tw-new": "暗影之牙",
+		"tw-old": "影之牙"
+	},
+	{
+		"enUS": "Soulflay",
+		"tw-new": "剝魂",
+		"tw-old": "剝皮靈魂"
+	},
+	{
+		"enUS": "Kinemil's Awl",
+		"tw-new": "金麥爾的鑽錐",
+		"tw-old": "金麥爾的錐子"
+	},
+	{
+		"enUS": "Blacktongue",
+		"tw-new": "黑舌",
+		"tw-old": "黑色之舌"
+	},
+	{
+		"enUS": "Ripsaw",
+		"tw-new": "齒鋸",
+		"tw-old": "粗齒大鋸"
+	},
+	{
+		"enUS": "The Patriarch",
+		"tw-new": "尊父",
+		"tw-old": "族長"
+	},
+	{
+		"enUS": "Gull",
+		"tw-new": "海鷗",
+		"tw-old": "海鷗"
+	},
+	{
+		"enUS": "The Diggler",
+		"tw-new": "迪格勒",
+		"tw-old": "迪格勒"
+	},
+	{
+		"enUS": "The Jade Tan Do",
+		"tw-new": "玉匕",
+		"tw-old": "坦杜之玉"
+	},
+	{
+		"enUS": "Spectral Shard",
+		"tw-new": "虹彩裂片",
+		"tw-old": "妖怪碎片"
+	},
+	{
+		"enUS": "The Dragon Chang",
+		"tw-new": "龍槍",
+		"tw-old": "張龍"
+	},
+	{
+		"enUS": "Razortine",
+		"tw-new": "剃刀叉",
+		"tw-old": "剃刀之叉"
+	},
+	{
+		"enUS": "Bloodthief",
+		"tw-new": "血賊",
+		"tw-old": "血之偷"
+	},
+	{
+		"enUS": "Lance of Yaggai",
+		"tw-new": "雅該長矛",
+		"tw-old": "雅該長矛"
+	},
+	{
+		"enUS": "The Tannr Gorerod",
+		"tw-new": "坦納血杖",
+		"tw-old": "坦之血杖"
+	},
+	{
+		"enUS": "Dimoak's Hew",
+		"tw-new": "迪馬克的砍刀",
+		"tw-old": "迪馬克之劈砍"
+	},
+	{
+		"enUS": "Steelgoad",
+		"tw-new": "鐵刺棒",
+		"tw-old": "鐵刺棒"
+	},
+	{
+		"enUS": "Soul Harvest",
+		"tw-new": "靈魂收割者",
+		"tw-old": "靈魂採集者"
+	},
+	{
+		"enUS": "The Battlebranch",
+		"tw-new": "戰鬥枝椏",
+		"tw-old": "戰鬥支系"
+	},
+	{
+		"enUS": "Woestave",
+		"tw-new": "悲哀護杖",
+		"tw-old": "煩惱詩集"
+	},
+	{
+		"enUS": "The Grim Reaper",
+		"tw-new": "猙獰奪魂者",
+		"tw-old": "冷酷開膛手"
+	},
+	{
+		"enUS": "Bane Ash",
+		"tw-new": "禍根之灰",
+		"tw-old": "禍根之灰"
+	},
+	{
+		"enUS": "Serpent Lord",
+		"tw-new": "海蛇之王",
+		"tw-old": "海蛇之王"
+	},
+	{
+		"enUS": "Spire of Lazarus",
+		"tw-new": "拉撒雷茲之杖",
+		"tw-old": "拉撒羅斯之螺旋"
+	},
+	{
+		"enUS": "The Salamander",
+		"tw-new": "火精靈",
+		"tw-old": "火精靈"
+	},
+	{
+		"enUS": "The Iron Jang Bong",
+		"tw-new": "鐵長棒",
+		"tw-old": "鐵檢棒"
+	},
+	{
+		"enUS": "Pluckeye",
+		"tw-new": "奪人目",
+		"tw-old": "勇氣之眼"
+	},
+	{
+		"enUS": "Witherstring",
+		"tw-new": "凋萎之弦",
+		"tw-old": "凋謝之戒"
+	},
+	{
+		"enUS": "Raven Claw",
+		"tw-new": "掠鴉之爪",
+		"tw-old": "渡鳥之爪"
+	},
+	{
+		"enUS": "Rogue's Bow",
+		"tw-new": "俠盜之弓",
+		"tw-old": "蘿格之弓"
+	},
+	{
+		"enUS": "Stormstrike",
+		"tw-new": "暴風之擊",
+		"tw-old": "暴風之擊"
+	},
+	{
+		"enUS": "Wizendraw",
+		"tw-new": "凋謝弓弦",
+		"tw-old": "凋謝之畫"
+	},
+	{
+		"enUS": "Hellclap",
+		"tw-new": "地獄轟鳴",
+		"tw-old": "作響的地獄"
+	},
+	{
+		"enUS": "Blastbark",
+		"tw-new": "爆裂咆哮",
+		"tw-old": "爆裂的吠叫"
+	},
+	{
+		"enUS": "Leadcrow",
+		"tw-new": "鉛烏鴉",
+		"tw-old": "引導烏鴉"
+	},
+	{
+		"enUS": "Ichorsting",
+		"tw-new": "膿毒之刺",
+		"tw-old": "靈液之刺"
+	},
+	{
+		"enUS": "Hellcast",
+		"tw-new": "地獄擲弩",
+		"tw-old": "投擲地獄"
+	},
+	{
+		"enUS": "Doomslinger",
+		"tw-new": "毀滅投索",
+		"tw-old": "毀滅投石者"
+	},
+	{
+		"enUS": "Biggin's Bonnet",
+		"tw-new": "畢格因的軟帽",
+		"tw-old": "畢格因的軟帽"
+	},
+	{
+		"enUS": "Tarnhelm",
+		"tw-new": "塔因頭盔",
+		"tw-old": "塔因頭盔"
+	},
+	{
+		"enUS": "Coif of Glory",
+		"tw-new": "光榮罩盔",
+		"tw-old": "光榮布帽"
+	},
+	{
+		"enUS": "Duskdeep",
+		"tw-new": "黃昏深處",
+		"tw-old": "黃昏深處"
+	},
+	{
+		"enUS": "Wormskull",
+		"tw-new": "蠕蟲頭骨",
+		"tw-old": "溫暖骷髏"
+	},
+	{
+		"enUS": "Howltusk",
+		"tw-new": "怒號長牙",
+		"tw-old": "怒號長牙"
+	},
+	{
+		"enUS": "Undead Crown",
+		"tw-new": "不死皇冠",
+		"tw-old": "不死皇冠"
+	},
+	{
+		"enUS": "The Face of Horror",
+		"tw-new": "恐懼之臉",
+		"tw-old": "恐懼之臉"
+	},
+	{
+		"enUS": "Greyform",
+		"tw-new": "灰暮之形",
+		"tw-old": "薄暮外觀"
+	},
+	{
+		"enUS": "Blinkbat's Form",
+		"tw-new": "閃蝠之軀",
+		"tw-old": "眨眼蝙蝠的外觀"
+	},
+	{
+		"enUS": "The Centurion",
+		"tw-new": "百夫長",
+		"tw-old": "百夫長"
+	},
+	{
+		"enUS": "Twitchthroe",
+		"tw-new": "抽動掙扎",
+		"tw-old": "抽動的掙扎"
+	},
+	{
+		"enUS": "Darkglow",
+		"tw-new": "暗光",
+		"tw-old": "擴散黑暗"
+	},
+	{
+		"enUS": "Hawkmail",
+		"tw-new": "鷹甲",
+		"tw-old": "鷹甲"
+	},
+	{
+		"enUS": "Sparking Mail",
+		"tw-new": "電光之甲",
+		"tw-old": "火花之甲"
+	},
+	{
+		"enUS": "Venom Ward",
+		"tw-new": "毒之守禦",
+		"tw-old": "毒液牢房"
+	},
+	{
+		"enUS": "Iceblink",
+		"tw-new": "冰晶",
+		"tw-old": "冰雪眨眼"
+	},
+	{
+		"enUS": "Boneflesh",
+		"tw-new": "骨肉",
+		"tw-old": "骨肉"
+	},
+	{
+		"enUS": "Rockfleece",
+		"tw-new": "石羊毛",
+		"tw-old": "石之毛"
+	},
+	{
+		"enUS": "Rattlecage",
+		"tw-new": "震骨",
+		"tw-old": "作響之籠"
+	},
+	{
+		"enUS": "Goldskin",
+		"tw-new": "黃金之膚",
+		"tw-old": "黃金之皮"
+	},
+	{
+		"enUS": "Silks of the Victor",
+		"tw-new": "勝利者的絲綢",
+		"tw-old": "勝利者之絲綢"
+	},
+	{
+		"enUS": "Heavenly Garb",
+		"tw-new": "天堂裝束",
+		"tw-old": "天堂裝束"
+	},
+	{
+		"enUS": "Pelta Lunata",
+		"tw-new": "新月小盾",
+		"tw-old": "新月小盾"
+	},
+	{
+		"enUS": "Umbral Disk",
+		"tw-new": "陰影圓盤",
+		"tw-old": "陰影圓盤"
+	},
+	{
+		"enUS": "Stormguild",
+		"tw-new": "風暴同盟",
+		"tw-old": "暴風公會"
+	},
+	{
+		"enUS": "Wall of the Eyeless",
+		"tw-new": "無眼者之牆",
+		"tw-old": "無眼之牆"
+	},
+	{
+		"enUS": "Swordback Hold",
+		"tw-new": "劍棘之盾",
+		"tw-old": "劍背之架"
+	},
+	{
+		"enUS": "Steelclash",
+		"tw-new": "鋼鐵衝擊",
+		"tw-old": "作響的金屬"
+	},
+	{
+		"enUS": "Bverrit Keep",
+		"tw-new": "布雷維特要塞",
+		"tw-old": "貝弗提的紀念"
+	},
+	{
+		"enUS": "The Ward",
+		"tw-new": "庇護結界",
+		"tw-old": "囚房"
+	},
+	{
+		"enUS": "The Hand of Broc",
+		"tw-new": "柏克之手",
+		"tw-old": "柏克之手"
+	},
+	{
+		"enUS": "Bloodfist",
+		"tw-new": "血拳",
+		"tw-old": "血拳"
+	},
+	{
+		"enUS": "Chance Guards",
+		"tw-new": "運氣守護",
+		"tw-old": "運氣守護"
+	},
+	{
+		"enUS": "Magefist",
+		"tw-new": "法師之拳",
+		"tw-old": "法師之拳"
+	},
+	{
+		"enUS": "Frostburn",
+		"tw-new": "霜燃",
+		"tw-old": "霜燃"
+	},
+	{
+		"enUS": "Hotspur",
+		"tw-new": "熱靴刺",
+		"tw-old": "熱靴刺"
+	},
+	{
+		"enUS": "Gorefoot",
+		"tw-new": "血腳",
+		"tw-old": "血腳"
+	},
+	{
+		"enUS": "Treads of Cthon",
+		"tw-new": "凱松的足靴",
+		"tw-old": "凱松的征服"
+	},
+	{
+		"enUS": "Goblin Toe",
+		"tw-new": "哥布林腳趾",
+		"tw-old": "小妖精腳趾"
+	},
+	{
+		"enUS": "Tearhaunch",
+		"tw-new": "裂臀",
+		"tw-old": "淚之臀"
+	},
+	{
+		"enUS": "Lenymo",
+		"tw-new": "雷尼摩",
+		"tw-old": "雷尼摩"
+	},
+	{
+		"enUS": "Snakecord",
+		"tw-new": "蛇索",
+		"tw-old": "蛇索"
+	},
+	{
+		"enUS": "Nightsmoke",
+		"tw-new": "夜煙",
+		"tw-old": "夜煙"
+	},
+	{
+		"enUS": "Goldwrap",
+		"tw-new": "黃金裹腰",
+		"tw-old": "金色包袱"
+	},
+	{
+		"enUS": "Bladebuckle",
+		"tw-new": "刀鋒扣帶",
+		"tw-old": "鋒利扣帶"
+	},
+	{
+		"enUS": "Nokozan Relic",
+		"tw-new": "諾科藍遺物",
+		"tw-old": "諾科藍遺物"
+	},
+	{
+		"enUS": "The Eye of Etlich",
+		"tw-new": "艾利曲之眼",
+		"tw-old": "艾利屈之眼"
+	},
+	{
+		"enUS": "The Mahim-Oak Curio",
+		"tw-new": "瑪哈姆橡木古董",
+		"tw-old": "瑪哈姆橡木古董"
+	},
+	{
+		"enUS": "Nagelring",
+		"tw-new": "拿各的戒指",
+		"tw-old": "拿各的戒指"
+	},
+	{
+		"enUS": "Manald Heal",
+		"tw-new": "瑪那德的治療",
+		"tw-old": "瑪那得的治療"
+	},
+	{
+		"enUS": "Gorgethroat",
+		"tw-new": "吞喉",
+		"tw-old": "喉部頸甲"
+	},
+	{
+		"enUS": "Amulet of the Viper",
+		"tw-new": "蝮蛇護符",
+		"tw-old": "蝮蛇護符"
+	},
+	{
+		"enUS": "Staff of Kings",
+		"tw-new": "國王之杖",
+		"tw-old": "國王之杖"
+	},
+	{
+		"enUS": "Horadric Staff",
+		"tw-new": "赫拉迪姆之杖",
+		"tw-old": "赫拉迪克法杖"
+	},
+	{
+		"enUS": "Hell Forge Hammer",
+		"tw-new": "地獄熔爐之鎚",
+		"tw-old": "地獄熔爐鐵鎚"
+	},
+	{
+		"enUS": "The Stone of Jordan",
+		"tw-new": "喬丹之石",
+		"tw-old": "喬丹之石"
+	},
+	{
+		"enUS": "Cain's Gibbet",
+		"tw-new": "凱恩的絞架",
+		"tw-old": "凱恩的絞架"
+	},
+	{
+		"enUS": "Horazon's Journal",
+		"tw-new": "赫拉森的日誌",
+		"tw-old": "赫拉森的日記"
+	},
+	{
+		"enUS": "Jug",
+		"tw-new": "罐子",
+		"tw-old": "水罐"
+	},
+	{
+		"enUS": "Rat's Nest",
+		"tw-new": "老鼠窩",
+		"tw-old": "老鼠窩"
+	},
+	{
+		"enUS": "Bed",
+		"tw-new": "床",
+		"tw-old": "床"
+	},
+	{
+		"enUS": "Horazon's Journal",
+		"tw-new": "赫拉森的日誌",
+		"tw-old": "赫拉森的日記"
+	},
+	{
+		"enUS": "Wirt's body",
+		"tw-new": "維特的屍體",
+		"tw-old": "維特的屍體"
+	},
+	{
+		"enUS": "Bartuc's Cut-Throat",
+		"tw-new": "霸圖克的割喉爪",
+		"tw-old": "巴特克的猛擊"
+	},
+	{
+		"enUS": "Winged Helm",
+		"tw-new": "翼盔",
+		"tw-old": "翼盔"
+	},
+	{
+		"enUS": "Hsarus' Defense",
+		"tw-new": "海沙魯的鐵禦",
+		"tw-old": "哈斯拉柏的防禦"
+	},
+	{
+		"enUS": "Civerb's Ward",
+		"tw-new": "克維雷布的防護",
+		"tw-old": "希弗柏的防護"
+	},
+	{
+		"enUS": "Civerb's Icon",
+		"tw-new": "克維雷布的聖像",
+		"tw-old": "希弗伯的圖案"
+	},
+	{
+		"enUS": "Civerb's Cudgel",
+		"tw-new": "克維雷布的短棍",
+		"tw-old": "希弗伯的短棍"
+	},
+	{
+		"enUS": "Hsarus' Iron Heel",
+		"tw-new": "海沙魯的鐵跟",
+		"tw-old": "哈斯拉柏的鐵後跟"
+	},
+	{
+		"enUS": "Hsarus' Iron Fist",
+		"tw-new": "海沙魯的鐵拳",
+		"tw-old": "哈斯拉柏的鐵拳"
+	},
+	{
+		"enUS": "Hsarus' Iron Stay",
+		"tw-new": "海沙魯的鐵扣",
+		"tw-old": "哈斯拉柏的鐵胸衣"
+	},
+	{
+		"enUS": "Cleglaw's Tooth",
+		"tw-new": "克雷德勞之牙",
+		"tw-old": "克雷得勞之牙"
+	},
+	{
+		"enUS": "Cleglaw's Claw",
+		"tw-new": "克雷德勞之爪",
+		"tw-old": "克雷得勞之爪"
+	},
+	{
+		"enUS": "Cleglaw's Pincers",
+		"tw-new": "克雷德勞之鉗",
+		"tw-old": "克雷得勞之鉗"
+	},
+	{
+		"enUS": "Iratha's Cord",
+		"tw-new": "依雷撒的腰繩",
+		"tw-old": "依雷撒之繩"
+	},
+	{
+		"enUS": "Iratha's Coil",
+		"tw-new": "依雷撒的盤頂",
+		"tw-old": "依雷撒的線圈"
+	},
+	{
+		"enUS": "Iratha's Cuff",
+		"tw-new": "依雷撒的袖銬",
+		"tw-old": "依雷撒的袖口"
+	},
+	{
+		"enUS": "Iratha's Collar",
+		"tw-new": "依雷撒的項圈",
+		"tw-old": "依雷撒的項圈"
+	},
+	{
+		"enUS": "Isenhart's Horns",
+		"tw-new": "依森哈特的角盔",
+		"tw-old": "依森哈德的號角"
+	},
+	{
+		"enUS": "Isenhart's Case",
+		"tw-new": "依森哈特的外殼",
+		"tw-old": "依森哈德的外殼"
+	},
+	{
+		"enUS": "Isenhart's Parry",
+		"tw-new": "依森哈特的招架",
+		"tw-old": "依森哈德的閃避"
+	},
+	{
+		"enUS": "Isenhart's Lightbrand",
+		"tw-new": "依森哈特的光之烙鐵",
+		"tw-old": "依森哈德的光之烙鐵"
+	},
+	{
+		"enUS": "Vidala's Snare",
+		"tw-new": "維達拉的圈套",
+		"tw-old": "維達拉的陷阱"
+	},
+	{
+		"enUS": "Vidala's Ambush",
+		"tw-new": "維達拉的突襲",
+		"tw-old": "維達拉的突襲"
+	},
+	{
+		"enUS": "Vidala's Fetlock",
+		"tw-new": "維達拉的足距",
+		"tw-old": "維達拉的距毛"
+	},
+	{
+		"enUS": "Vidala's Barb",
+		"tw-new": "維達拉的倒刺",
+		"tw-old": "維達拉之倒刺"
+	},
+	{
+		"enUS": "Milabrega's Robe",
+		"tw-new": "米拉伯佳外袍",
+		"tw-old": "米拉伯佳之袍"
+	},
+	{
+		"enUS": "Milabrega's Diadem",
+		"tw-new": "米拉伯佳權冠",
+		"tw-old": "米拉伯佳的王冠"
+	},
+	{
+		"enUS": "Milabrega's Rod",
+		"tw-new": "米拉伯佳節杖",
+		"tw-old": "米拉伯佳之杖"
+	},
+	{
+		"enUS": "Milabrega's Orb",
+		"tw-new": "米拉伯佳之球",
+		"tw-old": "米拉伯佳之球"
+	},
+	{
+		"enUS": "Cathan's Seal",
+		"tw-new": "卡珊的封印",
+		"tw-old": "卡珊的封印"
+	},
+	{
+		"enUS": "Cathan's Sigil",
+		"tw-new": "卡珊的魔咒",
+		"tw-old": "卡珊的魔咒"
+	},
+	{
+		"enUS": "Cathan's Visage",
+		"tw-new": "卡珊的容貌",
+		"tw-old": "卡珊的容貌"
+	},
+	{
+		"enUS": "Cathan's Mesh",
+		"tw-new": "卡珊的網衣",
+		"tw-old": "卡珊之網"
+	},
+	{
+		"enUS": "Cathan's Rule",
+		"tw-new": "卡珊的尺杖",
+		"tw-old": "卡珊之尺"
+	},
+	{
+		"enUS": "Tancred's Crowbill",
+		"tw-new": "坦克雷的鴉嘴鎬",
+		"tw-old": "坦克雷的鴉嘴鉗"
+	},
+	{
+		"enUS": "Tancred's Spine",
+		"tw-new": "坦克雷的脊柱",
+		"tw-old": "坦克雷的脊柱"
+	},
+	{
+		"enUS": "Tancred's Hobnails",
+		"tw-new": "坦克雷的釘靴",
+		"tw-old": "坦克雷的平頭釘"
+	},
+	{
+		"enUS": "Tancred's Weird",
+		"tw-new": "坦克雷的怪誕",
+		"tw-old": "坦克雷的怪誕"
+	},
+	{
+		"enUS": "Tancred's Skull",
+		"tw-new": "坦克雷的顱骨",
+		"tw-old": "坦克雷之骷髏"
+	},
+	{
+		"enUS": "Sigon's Visor",
+		"tw-new": "西剛的護面",
+		"tw-old": "西剛之面甲"
+	},
+	{
+		"enUS": "Sigon's Shelter",
+		"tw-new": "西剛的庇護",
+		"tw-old": "西剛的遮蔽"
+	},
+	{
+		"enUS": "Sigon's Gage",
+		"tw-new": "西剛的挑戰",
+		"tw-old": "西剛的挑戰"
+	},
+	{
+		"enUS": "Sigon's Sabot",
+		"tw-new": "西剛的硬靴",
+		"tw-old": "西剛的木鞋"
+	},
+	{
+		"enUS": "Sigon's Wrap",
+		"tw-new": "西剛的裹腰",
+		"tw-old": "西剛的披肩"
+	},
+	{
+		"enUS": "Sigon's Guard",
+		"tw-new": "西剛的守護",
+		"tw-old": "西剛的守護"
+	},
+	{
+		"enUS": "Infernal Cranium",
+		"tw-new": "煉獄頭骨",
+		"tw-old": "地獄頭骨"
+	},
+	{
+		"enUS": "Infernal Torch",
+		"tw-new": "煉獄火炬",
+		"tw-old": "地獄火炬"
+	},
+	{
+		"enUS": "Infernal Sign",
+		"tw-new": "煉獄符印",
+		"tw-old": "地獄符號"
+	},
+	{
+		"enUS": "Berserker's Headgear",
+		"tw-new": "狂戰士頭盔",
+		"tw-old": "狂戰士的頭戴"
+	},
+	{
+		"enUS": "Berserker's Hauberk",
+		"tw-new": "狂戰士鎖子甲",
+		"tw-old": "狂戰士的鎖子甲"
+	},
+	{
+		"enUS": "Berserker's Hatchet",
+		"tw-new": "狂戰士手斧",
+		"tw-old": "狂戰士的手斧"
+	},
+	{
+		"enUS": "Death's Hand",
+		"tw-new": "死亡之手",
+		"tw-old": "死亡之手"
+	},
+	{
+		"enUS": "Death's Guard",
+		"tw-new": "死亡之護",
+		"tw-old": "死亡的守護"
+	},
+	{
+		"enUS": "Death's Touch",
+		"tw-new": "死亡之觸",
+		"tw-old": "死亡之觸"
+	},
+	{
+		"enUS": "Angelic Sickle",
+		"tw-new": "天使的鐮刀",
+		"tw-old": "天使的鐮刀"
+	},
+	{
+		"enUS": "Angelic Mantle",
+		"tw-new": "天使的披風",
+		"tw-old": "天使的披風"
+	},
+	{
+		"enUS": "Angelic Halo",
+		"tw-new": "天使的光暈",
+		"tw-old": "天使之光"
+	},
+	{
+		"enUS": "Angelic Wings",
+		"tw-new": "天使的翅膀",
+		"tw-old": "天使之翼"
+	},
+	{
+		"enUS": "Arctic Horn",
+		"tw-new": "北極號角",
+		"tw-old": "北極號角"
+	},
+	{
+		"enUS": "Arctic Furs",
+		"tw-new": "北極毛皮",
+		"tw-old": "北極毛皮"
+	},
+	{
+		"enUS": "Arctic Binding",
+		"tw-new": "北極捆索",
+		"tw-old": "北極捆縛"
+	},
+	{
+		"enUS": "Arctic Mitts",
+		"tw-new": "北極手套",
+		"tw-old": "北極手套"
+	},
+	{
+		"enUS": "Arcanna's Sign",
+		"tw-new": "阿卡娜的符印",
+		"tw-old": "阿卡娜的符號"
+	},
+	{
+		"enUS": "Arcanna's Deathwand",
+		"tw-new": "阿卡娜的死亡之杖",
+		"tw-old": "阿卡娜的死亡之杖"
+	},
+	{
+		"enUS": "Arcanna's Head",
+		"tw-new": "阿卡娜的頭",
+		"tw-old": "阿卡娜的頭"
+	},
+	{
+		"enUS": "Arcanna's Flesh",
+		"tw-new": "阿卡娜的血肉",
+		"tw-old": "阿卡娜的血肉"
+	},
+	{
+		"enUS": "Witchwild String",
+		"tw-new": "狂巫之弦",
+		"tw-old": "狂野之弦"
+	},
+	{
+		"enUS": "Hellspawn Skull",
+		"tw-new": "地獄爪牙顱骨",
+		"tw-old": "地獄爪牙之骨"
+	},
+	{
+		"enUS": "Legendary Mallet",
+		"tw-new": "傳說戰鎚",
+		"tw-old": "傳說之鎚"
+	},
+	{
+		"enUS": "Berserker Axe",
+		"tw-new": "狂戰斧",
+		"tw-old": "狂戰士斧"
+	},
+	{
+		"enUS": "War Gauntlets",
+		"tw-new": "征戰護手",
+		"tw-old": "巨戰手套"
+	},
+	{
+		"enUS": "Stiletto",
+		"tw-new": "窄刃匕首",
+		"tw-old": "小劍"
+	},
+	{
+		"enUS": "Key of Terror",
+		"tw-new": "恐懼之鑰",
+		"tw-old": "恐懼之鑰"
+	},
+	{
+		"enUS": "Key of Hate",
+		"tw-new": "憎恨之鑰",
+		"tw-old": "憎恨之鑰"
+	},
+	{
+		"enUS": "Key of Destruction",
+		"tw-new": "毀滅之鑰",
+		"tw-old": "毀滅之鑰"
+	},
+	{
+		"enUS": "Diablo's Horn",
+		"tw-new": "迪亞布羅之角",
+		"tw-old": "暗黑破壞神之角"
+	},
+	{
+		"enUS": "Baal's Eye",
+		"tw-new": "巴爾之眼",
+		"tw-old": "巴爾之眼"
+	},
+	{
+		"enUS": "Mephisto's Brain",
+		"tw-new": "墨菲斯托之腦",
+		"tw-old": "墨菲斯托之腦"
+	},
+	{
+		"enUS": "Standard of Heroes",
+		"tw-new": "英雄旗幟",
+		"tw-old": "英雄旗幟"
+	},
+	{
+		"enUS": "Hellfire Torch",
+		"tw-new": "地獄火炬",
+		"tw-old": "地獄火炬"
+	},
+	{
+		"enUS": "Twisted Essence of Suffering",
+		"tw-new": "扭曲的苦怨精華",
+		"tw-old": "扭曲的苦痛精華"
+	},
+	{
+		"enUS": "Charged Essence of Hatred",
+		"tw-new": "充盈的憎恨精華",
+		"tw-old": "充盈的憎恨精華"
+	},
+	{
+		"enUS": "Burning Essence of Terror",
+		"tw-new": "燃燒的恐懼精華",
+		"tw-old": "燃燒的恐懼精華"
+	},
+	{
+		"enUS": "Festering Essence of Destruction",
+		"tw-new": "潰爛的毀滅精華",
+		"tw-old": "潰爛的毀滅精華"
+	},
+	{
+		"enUS": "Katar",
+		"tw-new": "拳刃",
+		"tw-old": "拳劍"
+	},
+	{
+		"enUS": "Wrist Blade",
+		"tw-new": "腕刃",
+		"tw-old": "腕刃"
+	},
+	{
+		"enUS": "Cestus",
+		"tw-new": "刃拳",
+		"tw-old": "腰刀"
+	},
+	{
+		"enUS": "Claws",
+		"tw-new": "爪",
+		"tw-old": "爪"
+	},
+	{
+		"enUS": "Blade Talons",
+		"tw-new": "刃爪",
+		"tw-old": "刃爪"
+	},
+	{
+		"enUS": "Scissors Katar",
+		"tw-new": "剪刃",
+		"tw-old": "剪咬刃"
+	},
+	{
+		"enUS": "Quhab",
+		"tw-new": "格鬥刃",
+		"tw-old": "格鬥刃"
+	},
+	{
+		"enUS": "Wrist Spike",
+		"tw-new": "腕刺",
+		"tw-old": "腕刺"
+	},
+	{
+		"enUS": "Fascia",
+		"tw-new": "格鬥爪",
+		"tw-old": "格鬥爪"
+	},
+	{
+		"enUS": "Hand Scythe",
+		"tw-new": "手鐮",
+		"tw-old": "手鐮"
+	},
+	{
+		"enUS": "Greater Claws",
+		"tw-new": "巨爪",
+		"tw-old": "巨爪"
+	},
+	{
+		"enUS": "Greater Talons",
+		"tw-new": "巨鷹爪",
+		"tw-old": "巨鷹爪"
+	},
+	{
+		"enUS": "Scissors Quhab",
+		"tw-new": "格鬥剪刃",
+		"tw-old": "格鬥剪"
+	},
+	{
+		"enUS": "Suwayyah",
+		"tw-new": "穿擊拳刃",
+		"tw-old": "近身刃"
+	},
+	{
+		"enUS": "Wrist Sword",
+		"tw-new": "腕劍",
+		"tw-old": "腕劍"
+	},
+	{
+		"enUS": "War Fist",
+		"tw-new": "征戰拳套",
+		"tw-old": "戰拳"
+	},
+	{
+		"enUS": "Battle Cestus",
+		"tw-new": "戰鬥刃拳",
+		"tw-old": "鬥腰刀"
+	},
+	{
+		"enUS": "Feral Claws",
+		"tw-new": "蠻獸爪",
+		"tw-old": "猛禽爪"
+	},
+	{
+		"enUS": "Runic Talons",
+		"tw-new": "符紋爪",
+		"tw-old": "符紋爪"
+	},
+	{
+		"enUS": "Scissors Suwayyah",
+		"tw-new": "穿擊剪刃",
+		"tw-old": "近身剪"
+	},
+	{
+		"enUS": "Tomahawk",
+		"tw-new": "輕斧",
+		"tw-old": "戰鉞 "
+	},
+	{
+		"enUS": "Small Crescent",
+		"tw-new": "彎月斧",
+		"tw-old": "彎月斧"
+	},
+	{
+		"enUS": "Ettin Axe",
+		"tw-new": "雙頭斧",
+		"tw-old": "雙頭斧"
+	},
+	{
+		"enUS": "War Spike",
+		"tw-new": "征戰鎬",
+		"tw-old": "戰刺"
+	},
+	{
+		"enUS": "Feral Axe",
+		"tw-new": "蠻野斧",
+		"tw-old": "猛禽斧"
+	},
+	{
+		"enUS": "Silver-edged Axe",
+		"tw-new": "銀刃斧",
+		"tw-old": "銀刃斧"
+	},
+	{
+		"enUS": "Decapitator",
+		"tw-new": "斬首斧",
+		"tw-old": "斬首斧"
+	},
+	{
+		"enUS": "Champion Axe",
+		"tw-new": "豪傑斧",
+		"tw-old": "豪傑斧"
+	},
+	{
+		"enUS": "Glorious Axe",
+		"tw-new": "榮光斧",
+		"tw-old": "榮光之斧"
+	},
+	{
+		"enUS": "Polished Wand",
+		"tw-new": "拋光魔杖",
+		"tw-old": "洗鍊法杖"
+	},
+	{
+		"enUS": "Ghost Wand",
+		"tw-new": "鬼魂魔杖",
+		"tw-old": "鬼魂法杖"
+	},
+	{
+		"enUS": "Lich Wand",
+		"tw-new": "巫妖魔杖",
+		"tw-old": "巫妖法杖"
+	},
+	{
+		"enUS": "Unearthed Wand",
+		"tw-new": "埋骨魔杖",
+		"tw-old": "破隱法杖"
+	},
+	{
+		"enUS": "Truncheon",
+		"tw-new": "打擊棍",
+		"tw-old": "戰儀杖"
+	},
+	{
+		"enUS": "Mighty Scepter",
+		"tw-new": "強威權杖",
+		"tw-old": "強威權杖"
+	},
+	{
+		"enUS": "Seraph Rod",
+		"tw-new": "熾天使節杖",
+		"tw-old": "熾天使法杖"
+	},
+	{
+		"enUS": "Caduceus",
+		"tw-new": "神使權杖",
+		"tw-old": "神使之杖"
+	},
+	{
+		"enUS": "Tyrant Club",
+		"tw-new": "暴君棍棒",
+		"tw-old": "暴君之棒"
+	},
+	{
+		"enUS": "Reinforced Mace",
+		"tw-new": "強化釘鎚",
+		"tw-old": "強化釘頭錘"
+	},
+	{
+		"enUS": "Devil Star",
+		"tw-new": "妖鬼釘頭鎚",
+		"tw-old": "惡魔流星錘"
+	},
+	{
+		"enUS": "Scourge",
+		"tw-new": "罪罰連枷",
+		"tw-old": "天罰之錘"
+	},
+	{
+		"enUS": "Legendary Mallet",
+		"tw-new": "傳說戰鎚",
+		"tw-old": "傳說之鎚"
+	},
+	{
+		"enUS": "Ogre Maul",
+		"tw-new": "巨魔重鎚",
+		"tw-old": "食人魔之錘"
+	},
+	{
+		"enUS": "Thunder Maul",
+		"tw-new": "雷霆重鎚",
+		"tw-old": "雷錘"
+	},
+	{
+		"enUS": "Falcata",
+		"tw-new": "法卡塔劍",
+		"tw-old": "短劍"
+	},
+	{
+		"enUS": "Ataghan",
+		"tw-new": "土耳其彎刀",
+		"tw-old": "土耳其劍"
+	},
+	{
+		"enUS": "Elegant Blade",
+		"tw-new": "典雅彎刀",
+		"tw-old": "優雅之劍"
+	},
+	{
+		"enUS": "Hydra Edge",
+		"tw-new": "多頭蛇刃",
+		"tw-old": "九頭蛇刃"
+	},
+	{
+		"enUS": "Phase Blade",
+		"tw-new": "幻化之刃",
+		"tw-old": "幻化之刃"
+	},
+	{
+		"enUS": "Conquest Sword",
+		"tw-new": "征服之劍",
+		"tw-old": "征服之劍"
+	},
+	{
+		"enUS": "Cryptic Sword",
+		"tw-new": "絕秘劍",
+		"tw-old": "神秘之劍"
+	},
+	{
+		"enUS": "Mythical Sword",
+		"tw-new": "秘儀劍",
+		"tw-old": "秘儀之劍"
+	},
+	{
+		"enUS": "Legend Sword",
+		"tw-new": "傳說劍",
+		"tw-old": "傳說之劍"
+	},
+	{
+		"enUS": "Highland Blade",
+		"tw-new": "高地劍",
+		"tw-old": "高地之劍"
+	},
+	{
+		"enUS": "Balrog Blade",
+		"tw-new": "炎魔之刃",
+		"tw-old": "炎魔之刃"
+	},
+	{
+		"enUS": "Champion Sword",
+		"tw-new": "豪傑大劍",
+		"tw-old": "冠軍之劍"
+	},
+	{
+		"enUS": "Colossus Sword",
+		"tw-new": "巨神劍",
+		"tw-old": "巨神之劍"
+	},
+	{
+		"enUS": "Colossus Blade",
+		"tw-new": "巨神刃",
+		"tw-old": "巨神之刃"
+	},
+	{
+		"enUS": "Bone Knife",
+		"tw-new": "骸骨小刀",
+		"tw-old": "骸骨小刀"
+	},
+	{
+		"enUS": "Mithril Point",
+		"tw-new": "秘銀尖刀",
+		"tw-old": "秘銀小刀"
+	},
+	{
+		"enUS": "Fanged Knife",
+		"tw-new": "尖齒小刀",
+		"tw-old": "齒緣小刀"
+	},
+	{
+		"enUS": "Legend Spike",
+		"tw-new": "傳說尖刀",
+		"tw-old": "傳說尖刺"
+	},
+	{
+		"enUS": "Flying Knife",
+		"tw-new": "高速飛刀",
+		"tw-old": "飛刀"
+	},
+	{
+		"enUS": "Flying Axe",
+		"tw-new": "高速飛斧",
+		"tw-old": "飛斧"
+	},
+	{
+		"enUS": "Winged Knife",
+		"tw-new": "刃翼飛刀",
+		"tw-old": "翼刀"
+	},
+	{
+		"enUS": "Winged Axe",
+		"tw-new": "刃翼飛斧",
+		"tw-old": "翼斧"
+	},
+	{
+		"enUS": "Hyperion Javelin",
+		"tw-new": "亥伯龍標槍",
+		"tw-old": "亥伯龍之槍"
+	},
+	{
+		"enUS": "Stygian Pilum",
+		"tw-new": "冥河標槍",
+		"tw-old": "冥河標槍"
+	},
+	{
+		"enUS": "Balrog Spear",
+		"tw-new": "炎魔長矛",
+		"tw-old": "炎魔長矛"
+	},
+	{
+		"enUS": "Ghost Glaive",
+		"tw-new": "鬼魂刃槍",
+		"tw-old": "鬼魂尖槍"
+	},
+	{
+		"enUS": "Winged Harpoon",
+		"tw-new": "飛翼魚叉",
+		"tw-old": "翼魚叉"
+	},
+	{
+		"enUS": "Hyperion Spear",
+		"tw-new": "亥伯龍矛",
+		"tw-old": "亥伯龍之矛"
+	},
+	{
+		"enUS": "Stygian Pike",
+		"tw-new": "冥河戰矛",
+		"tw-old": "冥河之槍"
+	},
+	{
+		"enUS": "Mancatcher",
+		"tw-new": "捕人叉",
+		"tw-old": "刺人槍"
+	},
+	{
+		"enUS": "Ghost Spear",
+		"tw-new": "鬼魂長矛",
+		"tw-old": "鬼魂之矛"
+	},
+	{
+		"enUS": "War Pike",
+		"tw-new": "征戰長槍",
+		"tw-old": "戰槍"
+	},
+	{
+		"enUS": "Ogre Axe",
+		"tw-new": "巨魔斧",
+		"tw-old": "食人魔之斧"
+	},
+	{
+		"enUS": "Colossus Voulge",
+		"tw-new": "巨神長柄斧",
+		"tw-old": "巨神之斧"
+	},
+	{
+		"enUS": "Thresher",
+		"tw-new": "斬鐮",
+		"tw-old": "銳利之斧"
+	},
+	{
+		"enUS": "Cryptic Axe",
+		"tw-new": "絕秘斧",
+		"tw-old": "神秘之斧"
+	},
+	{
+		"enUS": "Great Poleaxe",
+		"tw-new": "巨型長柄斧",
+		"tw-old": "巨長斧"
+	},
+	{
+		"enUS": "Giant Thresher",
+		"tw-new": "巨型斬鐮",
+		"tw-old": "鮫尾巨斧"
+	},
+	{
+		"enUS": "Walking Stick",
+		"tw-new": "手杖",
+		"tw-old": "手杖"
+	},
+	{
+		"enUS": "Stalagmite",
+		"tw-new": "鐘乳石杖",
+		"tw-old": "鐘乳石之杖"
+	},
+	{
+		"enUS": "Elder Staff",
+		"tw-new": "長者法杖",
+		"tw-old": "長老之杖"
+	},
+	{
+		"enUS": "Shillelagh",
+		"tw-new": "節瘤木杖",
+		"tw-old": "樹皮之杖"
+	},
+	{
+		"enUS": "Archon Staff",
+		"tw-new": "統御者法杖",
+		"tw-old": "執政官之杖"
+	},
+	{
+		"enUS": "Spider Bow",
+		"tw-new": "蜘蛛弓",
+		"tw-old": "蜘蛛弓"
+	},
+	{
+		"enUS": "Blade Bow",
+		"tw-new": "刀鋒弓",
+		"tw-old": "刀鋒弓"
+	},
+	{
+		"enUS": "Shadow Bow",
+		"tw-new": "暗影弓",
+		"tw-old": "陰影弓"
+	},
+	{
+		"enUS": "Great Bow",
+		"tw-new": "巨弓",
+		"tw-old": "巨弓"
+	},
+	{
+		"enUS": "Diamond Bow",
+		"tw-new": "鑽石弓",
+		"tw-old": "鑽石弓"
+	},
+	{
+		"enUS": "Crusader Bow",
+		"tw-new": "聖教軍長弓",
+		"tw-old": "十字軍之弓"
+	},
+	{
+		"enUS": "Ward Bow",
+		"tw-new": "庇護弓",
+		"tw-old": "庇護之弓"
+	},
+	{
+		"enUS": "Hydra Bow",
+		"tw-new": "多頭蛇弓",
+		"tw-old": "九頭蛇弓"
+	},
+	{
+		"enUS": "Pellet Bow",
+		"tw-new": "彈丸弩",
+		"tw-old": "彈丸弓"
+	},
+	{
+		"enUS": "Gorgon Crossbow",
+		"tw-new": "蛇魔弩",
+		"tw-old": "蛇魔女十字弓"
+	},
+	{
+		"enUS": "Colossus Crossbow",
+		"tw-new": "巨神弩",
+		"tw-old": "巨神十字弓"
+	},
+	{
+		"enUS": "Demon Crossbow",
+		"tw-new": "惡魔弩",
+		"tw-old": "惡魔十字弓"
+	},
+	{
+		"enUS": "Eagle Orb",
+		"tw-new": "鷹之法珠",
+		"tw-old": "鷹之法珠"
+	},
+	{
+		"enUS": "Sacred Globe",
+		"tw-new": "神聖天球",
+		"tw-old": "神聖天球"
+	},
+	{
+		"enUS": "Smoked Sphere",
+		"tw-new": "攏煙之球",
+		"tw-old": "攏煙之球"
+	},
+	{
+		"enUS": "Clasped Orb",
+		"tw-new": "握扣法珠",
+		"tw-old": "握扣法珠"
+	},
+	{
+		"enUS": "Wraps",
+		"tw-new": "纏布",
+		"tw-old": "纏布"
+	},
+	{
+		"enUS": "Knuckles",
+		"tw-new": "手指虎",
+		"tw-old": "手指虎"
+	},
+	{
+		"enUS": "Slashers",
+		"tw-new": "斬刃",
+		"tw-old": "拳刃"
+	},
+	{
+		"enUS": "Splay",
+		"tw-new": "展戟刃",
+		"tw-old": "展戟刃"
+	},
+	{
+		"enUS": "Hook",
+		"tw-new": "勾",
+		"tw-old": "勾"
+	},
+	{
+		"enUS": "Shank",
+		"tw-new": "鑽",
+		"tw-old": "鑽"
+	},
+	{
+		"enUS": "Claws",
+		"tw-new": "爪",
+		"tw-old": "爪"
+	},
+	{
+		"enUS": "Stag Bow",
+		"tw-new": "獵鹿弓",
+		"tw-old": "男性之弓"
+	},
+	{
+		"enUS": "Reflex Bow",
+		"tw-new": "反射弓",
+		"tw-old": "反射之弓"
+	},
+	{
+		"enUS": "Maiden Spear",
+		"tw-new": "女戰長矛",
+		"tw-old": "女士之矛"
+	},
+	{
+		"enUS": "Maiden Pike",
+		"tw-new": "女戰長槍",
+		"tw-old": "女士長矛"
+	},
+	{
+		"enUS": "Maiden Javelin",
+		"tw-new": "女戰標槍",
+		"tw-old": "女士鏢槍"
+	},
+	{
+		"enUS": "Glowing Orb",
+		"tw-new": "靈光法珠",
+		"tw-old": "靈光法珠"
+	},
+	{
+		"enUS": "Crystalline Globe",
+		"tw-new": "水晶天球",
+		"tw-old": "水晶天球"
+	},
+	{
+		"enUS": "Cloudy Sphere",
+		"tw-new": "雲霧之球",
+		"tw-old": "雲霧之球"
+	},
+	{
+		"enUS": "Sparkling Ball",
+		"tw-new": "閃耀之球",
+		"tw-old": "閃耀之球"
+	},
+	{
+		"enUS": "Swirling Crystal",
+		"tw-new": "渦流水晶",
+		"tw-old": "渦流水晶"
+	},
+	{
+		"enUS": "Ashwood Bow",
+		"tw-new": "梣木弓",
+		"tw-old": "灰木之弓"
+	},
+	{
+		"enUS": "Ceremonial Bow",
+		"tw-new": "儀禮弓",
+		"tw-old": "祭典之弓"
+	},
+	{
+		"enUS": "Ceremonial Spear",
+		"tw-new": "儀禮長矛",
+		"tw-old": "祭典之矛"
+	},
+	{
+		"enUS": "Ceremonial Pike",
+		"tw-new": "儀禮長槍",
+		"tw-old": "祭典之長矛"
+	},
+	{
+		"enUS": "Ceremonial Javelin",
+		"tw-new": "儀禮標槍",
+		"tw-old": "祭典之鏢槍"
+	},
+	{
+		"enUS": "Heavenly Stone",
+		"tw-new": "天堂之石",
+		"tw-old": "天堂之石"
+	},
+	{
+		"enUS": "Eldritch Orb",
+		"tw-new": "異能法珠",
+		"tw-old": "怪異之球"
+	},
+	{
+		"enUS": "Demon Heart",
+		"tw-new": "惡魔心石",
+		"tw-old": "惡魔之心"
+	},
+	{
+		"enUS": "Vortex Orb",
+		"tw-new": "漩渦法珠",
+		"tw-old": "漩渦球"
+	},
+	{
+		"enUS": "Dimensional Shard",
+		"tw-new": "次元法珠",
+		"tw-old": "次元碎片"
+	},
+	{
+		"enUS": "Matriarchal Bow",
+		"tw-new": "女傑之弓",
+		"tw-old": "女族長之弓"
+	},
+	{
+		"enUS": "Grand Matron Bow",
+		"tw-new": "主母之弓",
+		"tw-old": "大院長之弓"
+	},
+	{
+		"enUS": "Matriarchal Spear",
+		"tw-new": "女傑長矛",
+		"tw-old": "女族長之矛"
+	},
+	{
+		"enUS": "Matriarchal Pike",
+		"tw-new": "女傑長槍",
+		"tw-old": "女族長之長矛"
+	},
+	{
+		"enUS": "Matriarchal Javelin",
+		"tw-new": "女傑標槍",
+		"tw-old": "女族長之鏢槍"
+	},
+	{
+		"enUS": "Falcon Mask",
+		"tw-new": "獵鷹面具",
+		"tw-old": "獵鷹面具"
+	},
+	{
+		"enUS": "Hawk Helm",
+		"tw-new": "飛鷹頭盔",
+		"tw-old": "飛鷹頭盔"
+	},
+	{
+		"enUS": "Antlers",
+		"tw-new": "巨角獸帽",
+		"tw-old": "鹿角"
+	},
+	{
+		"enUS": "Wolf Head",
+		"tw-new": "狼頭獸帽",
+		"tw-old": "狼頭"
+	},
+	{
+		"enUS": "Spirit Mask",
+		"tw-new": "靈狼面具",
+		"tw-old": "靈魂狼頭面具"
+	},
+	{
+		"enUS": "Jawbone Cap",
+		"tw-new": "顎骨帽",
+		"tw-old": "顎骨帽"
+	},
+	{
+		"enUS": "Fanged Helm",
+		"tw-new": "尖牙頭盔",
+		"tw-old": "尖牙盔"
+	},
+	{
+		"enUS": "Horned Helm",
+		"tw-new": "尖角頭盔",
+		"tw-old": "角盔"
+	},
+	{
+		"enUS": "Assault Helmet",
+		"tw-new": "突擊頭盔",
+		"tw-old": "突擊盔"
+	},
+	{
+		"enUS": "Avenger Guard",
+		"tw-new": "復仇者護盔",
+		"tw-old": "復仇者之盔"
+	},
+	{
+		"enUS": "Targe",
+		"tw-new": "小盾",
+		"tw-old": "小盾"
+	},
+	{
+		"enUS": "Rondache",
+		"tw-new": "輕圓盾",
+		"tw-old": "輕圓盾"
+	},
+	{
+		"enUS": "Heraldic Shield",
+		"tw-new": "紋章盾",
+		"tw-old": "紋章盾"
+	},
+	{
+		"enUS": "Aerin Shield",
+		"tw-new": "艾文之盾",
+		"tw-old": "艾文之盾"
+	},
+	{
+		"enUS": "Crown Shield",
+		"tw-new": "冠冕之盾",
+		"tw-old": "皇冠之盾"
+	},
+	{
+		"enUS": "Preserved Head",
+		"tw-new": "防腐頭顱",
+		"tw-old": "防腐之首"
+	},
+	{
+		"enUS": "Zombie Head",
+		"tw-new": "殭屍頭顱",
+		"tw-old": "僵屍之首"
+	},
+	{
+		"enUS": "Unraveller Head",
+		"tw-new": "解繃者頭顱",
+		"tw-old": "揭露者之首"
+	},
+	{
+		"enUS": "Gargoyle Head",
+		"tw-new": "石像鬼頭顱",
+		"tw-old": "石像鬼之首"
+	},
+	{
+		"enUS": "Demon Head",
+		"tw-new": "惡魔頭顱",
+		"tw-old": "惡魔之首"
+	},
+	{
+		"enUS": "Circlet",
+		"tw-new": "頭環",
+		"tw-old": "頭飾"
+	},
+	{
+		"enUS": "Coronet",
+		"tw-new": "寶冠",
+		"tw-old": "寶冠"
+	},
+	{
+		"enUS": "Tiara",
+		"tw-new": "頭冠",
+		"tw-old": "三重冠"
+	},
+	{
+		"enUS": "Diadem",
+		"tw-new": "權冠",
+		"tw-old": "權冠"
+	},
+	{
+		"enUS": "Shako",
+		"tw-new": "軍帽",
+		"tw-old": "軍帽"
+	},
+	{
+		"enUS": "Hydraskull",
+		"tw-new": "多頭蛇顱盔",
+		"tw-old": "九頭蛇頭蓋骨圓帽"
+	},
+	{
+		"enUS": "Armet",
+		"tw-new": "覆頰盔",
+		"tw-old": "活動頭盔"
+	},
+	{
+		"enUS": "Giant Conch",
+		"tw-new": "巨螺盔",
+		"tw-old": "巨貝頭盔"
+	},
+	{
+		"enUS": "Spired Helm",
+		"tw-new": "巨角頭盔",
+		"tw-old": "螺旋頭盔"
+	},
+	{
+		"enUS": "Corona",
+		"tw-new": "日冕之冠",
+		"tw-old": "頭冠"
+	},
+	{
+		"enUS": "Demonhead",
+		"tw-new": "惡魔頭骨",
+		"tw-old": "惡魔頭蓋骨面具"
+	},
+	{
+		"enUS": "Dusk Shroud",
+		"tw-new": "灰暮罩衣",
+		"tw-old": "灰暮罩衣"
+	},
+	{
+		"enUS": "Wyrmhide",
+		"tw-new": "龍皮甲",
+		"tw-old": "古龍皮"
+	},
+	{
+		"enUS": "Scarab Husk",
+		"tw-new": "聖甲蟲殼皮甲",
+		"tw-old": "聖甲蟲殼皮甲"
+	},
+	{
+		"enUS": "Wire Fleece",
+		"tw-new": "鋼線毛皮甲",
+		"tw-old": "線羊毛皮甲"
+	},
+	{
+		"enUS": "Diamond Mail",
+		"tw-new": "鑽石鎖甲",
+		"tw-old": "鑽石鎖子甲"
+	},
+	{
+		"enUS": "Loricated Mail",
+		"tw-new": "綴鱗戰甲",
+		"tw-old": "甲殼鎧鱗甲"
+	},
+	{
+		"enUS": "Boneweave",
+		"tw-new": "骸骨網甲",
+		"tw-old": "骸骨鏈甲"
+	},
+	{
+		"enUS": "Great Hauberk",
+		"tw-new": "鱗鎧胸甲",
+		"tw-old": "巨型鱗鎧胸甲"
+	},
+	{
+		"enUS": "Balrog Skin",
+		"tw-new": "炎魔皮板甲",
+		"tw-old": "炎魔皮板甲"
+	},
+	{
+		"enUS": "Hellforge Plate",
+		"tw-new": "地獄鍛甲",
+		"tw-old": "地獄鍛甲"
+	},
+	{
+		"enUS": "Kraken Shell",
+		"tw-new": "海怪之殼",
+		"tw-old": "海妖殼甲"
+	},
+	{
+		"enUS": "Lacquered Plate",
+		"tw-new": "漆護鎧甲",
+		"tw-old": "漆甲"
+	},
+	{
+		"enUS": "Shadow Plate",
+		"tw-new": "暗影鎧甲",
+		"tw-old": "陰影鎧甲"
+	},
+	{
+		"enUS": "Sacred Armor",
+		"tw-new": "神聖戰甲",
+		"tw-old": "神聖盔甲"
+	},
+	{
+		"enUS": "Archon Plate",
+		"tw-new": "統御者鎧甲",
+		"tw-old": "執政官鎧甲"
+	},
+	{
+		"enUS": "Heater",
+		"tw-new": "斗盾",
+		"tw-old": "防寒圓盾"
+	},
+	{
+		"enUS": "Luna",
+		"tw-new": "圓月盾",
+		"tw-old": "月精靈護盾"
+	},
+	{
+		"enUS": "Hyperion",
+		"tw-new": "亥伯龍盾",
+		"tw-old": "亥伯龍盾"
+	},
+	{
+		"enUS": "Monarch",
+		"tw-new": "君主盾",
+		"tw-old": "統治者大盾"
+	},
+	{
+		"enUS": "Aegis",
+		"tw-new": "禦塔盾",
+		"tw-old": "塔盾"
+	},
+	{
+		"enUS": "Ward",
+		"tw-new": "庇護盾",
+		"tw-old": "保護盾牌"
+	},
+	{
+		"enUS": "Bramble Mitts",
+		"tw-new": "荊棘手套",
+		"tw-old": "荊棘連指手套"
+	},
+	{
+		"enUS": "Vampirebone Gloves",
+		"tw-new": "吸血鬼骸骨手套",
+		"tw-old": "吸血鬼骸骨手套"
+	},
+	{
+		"enUS": "Vambraces",
+		"tw-new": "護臂",
+		"tw-old": "吸血鬼手套"
+	},
+	{
+		"enUS": "Crusader Gauntlets",
+		"tw-new": "聖教軍護手",
+		"tw-old": "十字軍鐵手套"
+	},
+	{
+		"enUS": "Ogre Gauntlets",
+		"tw-new": "巨魔護手",
+		"tw-old": "食人魔鐵手套"
+	},
+	{
+		"enUS": "Wyrmhide Boots",
+		"tw-new": "龍皮靴",
+		"tw-old": "飛龍皮靴"
+	},
+	{
+		"enUS": "Scarabshell Boots",
+		"tw-new": "聖甲蟲殼皮靴",
+		"tw-old": "聖甲蟲殼靴"
+	},
+	{
+		"enUS": "Boneweave Boots",
+		"tw-new": "骸骨網靴",
+		"tw-old": "骸骨靴"
+	},
+	{
+		"enUS": "Mirrored Boots",
+		"tw-new": "幻鏡戰靴",
+		"tw-old": "鏡化靴"
+	},
+	{
+		"enUS": "Myrmidon Greaves",
+		"tw-new": "勇士護脛",
+		"tw-old": "極速靴"
+	},
+	{
+		"enUS": "Spiderweb Sash",
+		"tw-new": "蛛網束帶",
+		"tw-old": "蛛網腰帶"
+	},
+	{
+		"enUS": "Vampirefang Belt",
+		"tw-new": "吸血鬼牙腰帶",
+		"tw-old": "吸血鬼燎牙腰帶"
+	},
+	{
+		"enUS": "Mithril Coil",
+		"tw-new": "秘銀腰帶",
+		"tw-old": "秘銀腰帶"
+	},
+	{
+		"enUS": "Troll Belt",
+		"tw-new": "食人妖腰帶",
+		"tw-old": "洞穴巨魔腰帶"
+	},
+	{
+		"enUS": "Colossus Girdle",
+		"tw-new": "巨神腰帶",
+		"tw-old": "巨神腰帶"
+	},
+	{
+		"enUS": "Bone Visage",
+		"tw-new": "骸骨面罩",
+		"tw-old": "骸骨面罩"
+	},
+	{
+		"enUS": "Troll Nest",
+		"tw-new": "食人妖骨盾",
+		"tw-old": "洞穴巨魔巢穴骨盾"
+	},
+	{
+		"enUS": "Blade Barrier",
+		"tw-new": "刀刃刺盾",
+		"tw-old": "刀刃刺盾"
+	},
+	{
+		"enUS": "Sacred Feathers",
+		"tw-new": "聖羽頭飾",
+		"tw-old": "神聖羽毛頭帶"
+	},
+	{
+		"enUS": "Griffon Headdress",
+		"tw-new": "獅鷲獸頭飾",
+		"tw-old": "獅鷲獸頭帶"
+	},
+	{
+		"enUS": "Hunter's Guise",
+		"tw-new": "獵人面罩",
+		"tw-old": "獵人的偽裝"
+	},
+	{
+		"enUS": "Alpha Helm",
+		"tw-new": "猛狼頭盔",
+		"tw-old": "阿爾發頭盔"
+	},
+	{
+		"enUS": "Totemic Mask",
+		"tw-new": "圖騰面具",
+		"tw-old": "圖騰面具狼盔"
+	},
+	{
+		"enUS": "Jawbone Visor",
+		"tw-new": "顎骨面甲",
+		"tw-old": "顎骨面甲"
+	},
+	{
+		"enUS": "Lion Helm",
+		"tw-new": "獅牙頭盔",
+		"tw-old": "獅頭尖盔"
+	},
+	{
+		"enUS": "Rage Mask",
+		"tw-new": "狂怒面具",
+		"tw-old": "狂怒面具刺盔"
+	},
+	{
+		"enUS": "Savage Helmet",
+		"tw-new": "凶蠻頭盔",
+		"tw-old": "蠻族頭盔"
+	},
+	{
+		"enUS": "Slayer Guard",
+		"tw-new": "殺手護盔",
+		"tw-old": "殺手防護面甲"
+	},
+	{
+		"enUS": "Akaran Targe",
+		"tw-new": "阿卡拉圓盾",
+		"tw-old": "亞克南圓盾"
+	},
+	{
+		"enUS": "Akaran Rondache",
+		"tw-new": "阿卡拉輕圓盾",
+		"tw-old": "亞克南輕圓盾"
+	},
+	{
+		"enUS": "Protector Shield",
+		"tw-new": "守護之盾",
+		"tw-old": "防護者盾牌"
+	},
+	{
+		"enUS": "Gilded Shield",
+		"tw-new": "金紋盾",
+		"tw-old": "飾金盾牌"
+	},
+	{
+		"enUS": "Royal Shield",
+		"tw-new": "皇家盾",
+		"tw-old": "皇家盾牌"
+	},
+	{
+		"enUS": "Mummified Trophy",
+		"tw-new": "木乃伊首級",
+		"tw-old": "木乃伊印記"
+	},
+	{
+		"enUS": "Fetish Trophy",
+		"tw-new": "鬼娃首級",
+		"tw-old": "物神印記"
+	},
+	{
+		"enUS": "Sexton Trophy",
+		"tw-new": "司事首級",
+		"tw-old": "司事印記"
+	},
+	{
+		"enUS": "Cantor Trophy",
+		"tw-new": "領唱者首級",
+		"tw-old": "領唱者印記"
+	},
+	{
+		"enUS": "Hierophant Trophy",
+		"tw-new": "祭司首級",
+		"tw-old": "祭司印記"
+	},
+	{
+		"enUS": "Sky Spirit",
+		"tw-new": "天翔靈獸帽",
+		"tw-old": "天空之靈"
+	},
+	{
+		"enUS": "Sun Spirit",
+		"tw-new": "日陽靈獸帽",
+		"tw-old": "太陽之靈"
+	},
+	{
+		"enUS": "Earth Spirit",
+		"tw-new": "地土靈獸帽",
+		"tw-old": "大地之靈"
+	},
+	{
+		"enUS": "Blood Spirit",
+		"tw-new": "血系靈獸帽",
+		"tw-old": "血腥之靈"
+	},
+	{
+		"enUS": "Dream Spirit",
+		"tw-new": "幽夢靈獸帽",
+		"tw-old": "幽夢之靈"
+	},
+	{
+		"enUS": "Carnage Helm",
+		"tw-new": "屠殺頭盔",
+		"tw-old": "屠殺頭盔"
+	},
+	{
+		"enUS": "Fury Visor",
+		"tw-new": "暴怒面甲",
+		"tw-old": "暴怒面甲"
+	},
+	{
+		"enUS": "Destroyer Helm",
+		"tw-new": "毀滅者頭盔",
+		"tw-old": "毀滅者頭盔"
+	},
+	{
+		"enUS": "Conqueror Crown",
+		"tw-new": "征服者盔冠",
+		"tw-old": "征服者皇冠面甲"
+	},
+	{
+		"enUS": "Guardian Crown",
+		"tw-new": "守護者盔冠",
+		"tw-old": "守護者皇冠面甲"
+	},
+	{
+		"enUS": "Sacred Targe",
+		"tw-new": "神聖小盾",
+		"tw-old": "神聖小盾"
+	},
+	{
+		"enUS": "Sacred Rondache",
+		"tw-new": "神聖輕圓盾",
+		"tw-old": "神聖輕圓盾"
+	},
+	{
+		"enUS": "Zakarum Shield",
+		"tw-new": "撒卡蘭姆盾",
+		"tw-old": "撒卡蘭姆盾牌"
+	},
+	{
+		"enUS": "Vortex Shield",
+		"tw-new": "渦旋盾",
+		"tw-old": "旋風盾"
+	},
+	{
+		"enUS": "Minion Skull",
+		"tw-new": "僕從顱骨",
+		"tw-old": "隨侍之骨"
+	},
+	{
+		"enUS": "Hellspawn Skull",
+		"tw-new": "地獄爪牙顱骨",
+		"tw-old": "地獄爪牙之骨"
+	},
+	{
+		"enUS": "Overseer Skull",
+		"tw-new": "督軍顱骨",
+		"tw-old": "監視者之骨"
+	},
+	{
+		"enUS": "Succubus Skull",
+		"tw-new": "魅魔顱骨",
+		"tw-old": "女妖之骨"
+	},
+	{
+		"enUS": "Bloodlord Skull",
+		"tw-new": "鮮血之王顱骨",
+		"tw-old": "血王之骨"
+	},
+	{
+		"enUS": "Jewel",
+		"tw-new": "珠寶",
+		"tw-old": "寶石"
+	},
+	{
+		"enUS": "Herb",
+		"tw-new": "藥草",
+		"tw-old": "藥草"
+	},
+	{
+		"enUS": "Small Charm",
+		"tw-new": "小型咒符",
+		"tw-old": "小護身符"
+	},
+	{
+		"enUS": "Large Charm",
+		"tw-new": "大型咒符",
+		"tw-old": "大型護身符"
+	},
+	{
+		"enUS": "Grand Charm",
+		"tw-new": "特大咒符",
+		"tw-old": "超大型護身符"
+	},
+	{
+		"enUS": "Spleen",
+		"tw-new": "脾臟",
+		"tw-old": "脾臟"
+	},
+	{
+		"enUS": "Scalp",
+		"tw-new": "頭皮",
+		"tw-old": "頭皮"
+	},
+	{
+		"enUS": "Soul",
+		"tw-new": "靈魂",
+		"tw-old": "靈魂"
+	},
+	{
+		"enUS": "Quill",
+		"tw-new": "刺針",
+		"tw-old": "硬毛"
+	},
+	{
+		"enUS": "Fang",
+		"tw-new": "尖牙",
+		"tw-old": "尖牙"
+	},
+	{
+		"enUS": "Flag",
+		"tw-new": "旗幟",
+		"tw-old": "旗幟"
+	},
+	{
+		"enUS": "Tail",
+		"tw-new": "尾巴",
+		"tw-old": "尾巴"
+	},
+	{
+		"enUS": "Horn",
+		"tw-new": "尖角",
+		"tw-old": "角"
+	},
+	{
+		"enUS": "Eye",
+		"tw-new": "眼球",
+		"tw-old": "眼球"
+	},
+	{
+		"enUS": "Jawbone",
+		"tw-new": "顎骨",
+		"tw-old": "顎骨"
+	},
+	{
+		"enUS": "Brain",
+		"tw-new": "腦",
+		"tw-old": "腦"
+	},
+	{
+		"enUS": "Heart",
+		"tw-new": "心臟",
+		"tw-old": "心臟"
+	},
+	{
+		"enUS": "Coldkill",
+		"tw-new": "冷殺",
+		"tw-old": "冷殺"
+	},
+	{
+		"enUS": "Butcher's Cleaver",
+		"tw-new": "屠夫切肉刀",
+		"tw-old": "屠夫切肉刀"
+	},
+	{
+		"enUS": "Butcher's Pupil",
+		"tw-new": "屠夫的徒弟",
+		"tw-old": "屠夫之瞳"
+	},
+	{
+		"enUS": "Islestrike",
+		"tw-new": "島擊",
+		"tw-old": "島擊"
+	},
+	{
+		"enUS": "Pompeii's Wrath",
+		"tw-new": "龐貝之怒",
+		"tw-old": "龐貝之怒"
+	},
+	{
+		"enUS": "Guardian Naga",
+		"tw-new": "那伽守護者",
+		"tw-old": "蛇神守護者"
+	},
+	{
+		"enUS": "Warlord's Trust",
+		"tw-new": "戰爵之證",
+		"tw-old": "戰爵之證"
+	},
+	{
+		"enUS": "Spellsteel",
+		"tw-new": "鋼鐵魔咒",
+		"tw-old": "鋼鐵魔咒"
+	},
+	{
+		"enUS": "Stormrider",
+		"tw-new": "暴風騎士",
+		"tw-old": "暴風騎士"
+	},
+	{
+		"enUS": "Boneslayer Blade",
+		"tw-new": "斬骨者之斧",
+		"tw-old": "碎骨者之刃"
+	},
+	{
+		"enUS": "The Minotaur",
+		"tw-new": "牛頭怪",
+		"tw-old": "牛頭怪"
+	},
+	{
+		"enUS": "Suicide Branch",
+		"tw-new": "自殘枝椏",
+		"tw-old": "自殺支系"
+	},
+	{
+		"enUS": "Cairn Shard",
+		"tw-new": "凱林碎片",
+		"tw-old": "石塚碎片"
+	},
+	{
+		"enUS": "Arm of King Leoric",
+		"tw-new": "李奧瑞克王的手骨",
+		"tw-old": "李奧瑞克王的武器"
+	},
+	{
+		"enUS": "Blackhand Key",
+		"tw-new": "黑手之鑰",
+		"tw-old": "黑手之鑰"
+	},
+	{
+		"enUS": "Dark Clan Crusher",
+		"tw-new": "闇族碎滅者",
+		"tw-old": "闇族碎滅者"
+	},
+	{
+		"enUS": "Drulan's Tongue",
+		"tw-new": "杜蘭之舌",
+		"tw-old": "杜蘭之舌"
+	},
+	{
+		"enUS": "Zakarum's Hand",
+		"tw-new": "撒卡蘭姆之手",
+		"tw-old": "撒卡蘭姆之手"
+	},
+	{
+		"enUS": "The Fetid Sprinkler",
+		"tw-new": "惡臭散佈者",
+		"tw-old": "惡臭散佈者"
+	},
+	{
+		"enUS": "Hand of Blessed Light",
+		"tw-new": "聖光之手",
+		"tw-old": "祝福之光之手"
+	},
+	{
+		"enUS": "Fleshrender",
+		"tw-new": "血肉撕裂者",
+		"tw-old": "血肉裁決者"
+	},
+	{
+		"enUS": "Sureshrill Frost",
+		"tw-new": "尖嘯冰霜",
+		"tw-old": "尖嘯冰霜"
+	},
+	{
+		"enUS": "Moonfall",
+		"tw-new": "月落",
+		"tw-old": "落月"
+	},
+	{
+		"enUS": "Baezil's Vortex",
+		"tw-new": "貝西爾的漩渦",
+		"tw-old": "貝西爾的漩渦"
+	},
+	{
+		"enUS": "Earthshaker",
+		"tw-new": "震地者",
+		"tw-old": "撼地者"
+	},
+	{
+		"enUS": "Bloodtree Stump",
+		"tw-new": "血樹殘株",
+		"tw-old": "血樹殘株"
+	},
+	{
+		"enUS": "The Gavel of Pain",
+		"tw-new": "痛苦之槌",
+		"tw-old": "痛苦木槌"
+	},
+	{
+		"enUS": "Bloodletter",
+		"tw-new": "放血者",
+		"tw-old": "血書"
+	},
+	{
+		"enUS": "Coldsteal Eye",
+		"tw-new": "竊冷之眼",
+		"tw-old": "竊冷之眼"
+	},
+	{
+		"enUS": "Hexfire",
+		"tw-new": "妖火",
+		"tw-old": "六角之火"
+	},
+	{
+		"enUS": "Blade of Ali Baba",
+		"tw-new": "阿里巴巴之刃",
+		"tw-old": "阿里巴巴之刃"
+	},
+	{
+		"enUS": "Riftslash",
+		"tw-new": "烈斬",
+		"tw-old": "烈斬"
+	},
+	{
+		"enUS": "Headstriker",
+		"tw-new": "擊頭者",
+		"tw-old": "擊頭者"
+	},
+	{
+		"enUS": "Plague Bearer",
+		"tw-new": "疫病帶原者",
+		"tw-old": "疫病帶原者"
+	},
+	{
+		"enUS": "The Atlantean",
+		"tw-new": "亞特蘭提恩",
+		"tw-old": "亞特拉斯"
+	},
+	{
+		"enUS": "Crainte Vomir",
+		"tw-new": "恐懼之嘔",
+		"tw-old": "克林鐵‧弗姆"
+	},
+	{
+		"enUS": "Bing Sz Wang",
+		"tw-new": "冰之王",
+		"tw-old": "兵之王"
+	},
+	{
+		"enUS": "The Vile Husk",
+		"tw-new": "兇邪軀殼",
+		"tw-old": "卑劣軀殼"
+	},
+	{
+		"enUS": "Cloudcrack",
+		"tw-new": "雲裂",
+		"tw-old": "雲裂"
+	},
+	{
+		"enUS": "Todesfaelle Flamme",
+		"tw-new": "死落之火",
+		"tw-old": "特迪斯法雷‧芙法米"
+	},
+	{
+		"enUS": "Swordguard",
+		"tw-new": "劍衛",
+		"tw-old": "劍衛"
+	},
+	{
+		"enUS": "Spineripper",
+		"tw-new": "裂脊者",
+		"tw-old": "裂脊者"
+	},
+	{
+		"enUS": "Heart Carver",
+		"tw-new": "刨心者",
+		"tw-old": "刻心者"
+	},
+	{
+		"enUS": "Blackbog's Sharp",
+		"tw-new": "黑沼之鋒",
+		"tw-old": "黑沼之鋒"
+	},
+	{
+		"enUS": "Stormspike",
+		"tw-new": "暴風尖刺",
+		"tw-old": "暴風尖刺"
+	},
+	{
+		"enUS": "The Impaler",
+		"tw-new": "刺穿者",
+		"tw-old": "穿刺者"
+	},
+	{
+		"enUS": "Kelpie Snare",
+		"tw-new": "水魔陷阱",
+		"tw-old": "水魔陷阱"
+	},
+	{
+		"enUS": "Soulfeast Tine",
+		"tw-new": "噬魂叉",
+		"tw-old": "噬魂叉"
+	},
+	{
+		"enUS": "Hone Sundan",
+		"tw-new": "骨寸斷",
+		"tw-old": "宏‧森丹"
+	},
+	{
+		"enUS": "Spire of Honor",
+		"tw-new": "榮耀尖塔",
+		"tw-old": "榮耀的尖塔"
+	},
+	{
+		"enUS": "The Meat Scraper",
+		"tw-new": "刮肉者",
+		"tw-old": "刮肉者"
+	},
+	{
+		"enUS": "Blackleach Blade",
+		"tw-new": "黑蛭長刀",
+		"tw-old": "黑水之刃"
+	},
+	{
+		"enUS": "Athena's Wrath",
+		"tw-new": "雅典娜之怒",
+		"tw-old": "雅典娜的忿怒"
+	},
+	{
+		"enUS": "Pierre Tombale Couant",
+		"tw-new": "墓石長戟",
+		"tw-old": "皮爾‧通把‧考恩特"
+	},
+	{
+		"enUS": "Husoldal Evo",
+		"tw-new": "血肉吞食者",
+		"tw-old": "胡索丹‧依弗"
+	},
+	{
+		"enUS": "Grim's Burning Dead",
+		"tw-new": "懼焰亡靈",
+		"tw-old": "驚怖焰亡靈"
+	},
+	{
+		"enUS": "Ribcracker",
+		"tw-new": "肋骨粉碎者",
+		"tw-old": "肋骨粉碎者"
+	},
+	{
+		"enUS": "Chromatic Ire",
+		"tw-new": "炫彩之怒",
+		"tw-old": "五彩的怒氣"
+	},
+	{
+		"enUS": "Warpspear",
+		"tw-new": "扭曲之矛",
+		"tw-old": "扭曲之矛"
+	},
+	{
+		"enUS": "Skull Collector",
+		"tw-new": "骷髏收集者",
+		"tw-old": "骷髏收集者"
+	},
+	{
+		"enUS": "Skystrike",
+		"tw-new": "天擊",
+		"tw-old": "天擊"
+	},
+	{
+		"enUS": "Kuko Shakaku",
+		"tw-new": "社角久子",
+		"tw-old": "社角久子"
+	},
+	{
+		"enUS": "Endlesshail",
+		"tw-new": "無盡冰雹",
+		"tw-old": "無盡的冰雹"
+	},
+	{
+		"enUS": "Goldstrike Arch",
+		"tw-new": "金擊之拱",
+		"tw-old": "金擊圓弧"
+	},
+	{
+		"enUS": "Langer Briser",
+		"tw-new": "蘭古布利薩",
+		"tw-old": "蘭格‧布里瑟"
+	},
+	{
+		"enUS": "Pus Spitter",
+		"tw-new": "吐膿毒弩",
+		"tw-old": "毒液怪"
+	},
+	{
+		"enUS": "Buriza-Do Kyanon",
+		"tw-new": "暴雪砲弩",
+		"tw-old": "布理撒‧多‧凱南"
+	},
+	{
+		"enUS": "Vampire Gaze",
+		"tw-new": "吸血鬼的凝視",
+		"tw-old": "吸血鬼的凝視"
+	},
+	{
+		"enUS": "String of Ears",
+		"tw-new": "長串之耳",
+		"tw-old": "長串之耳"
+	},
+	{
+		"enUS": "Gore Rider",
+		"tw-new": "蝕肉騎士",
+		"tw-old": "蝕肉騎士"
+	},
+	{
+		"enUS": "Lava Gout",
+		"tw-new": "熔岩之痛",
+		"tw-old": "熔岩角羊"
+	},
+	{
+		"enUS": "Venom Grip",
+		"tw-new": "劇毒之握",
+		"tw-old": "劇毒之抓"
+	},
+	{
+		"enUS": "Visceratuant",
+		"tw-new": "維斯爾坦特",
+		"tw-old": "維斯爾坦特"
+	},
+	{
+		"enUS": "Guardian Angel",
+		"tw-new": "守護天使",
+		"tw-old": "守護天使"
+	},
+	{
+		"enUS": "Shaftstop",
+		"tw-new": "箭止",
+		"tw-old": "謝夫特斯坦布"
+	},
+	{
+		"enUS": "Skin of the Vipermagi",
+		"tw-new": "蛇魔法師之皮",
+		"tw-old": "蛇魔法師之皮"
+	},
+	{
+		"enUS": "Blackhorn",
+		"tw-new": "黑角",
+		"tw-old": "黑角"
+	},
+	{
+		"enUS": "Valkyrie Wing",
+		"tw-new": "女武神之翼",
+		"tw-old": "女武神之翼"
+	},
+	{
+		"enUS": "Peasant Crown",
+		"tw-new": "農夫王冠",
+		"tw-old": "粗野之冠"
+	},
+	{
+		"enUS": "Demon Machine",
+		"tw-new": "惡魔機弩",
+		"tw-old": "惡魔機器"
+	},
+	{
+		"enUS": "Magewrath",
+		"tw-new": "巫師之怒",
+		"tw-old": "巫師之怒"
+	},
+	{
+		"enUS": "Cliffkiller",
+		"tw-new": "懸崖殺手",
+		"tw-old": "岩壁殺手"
+	},
+	{
+		"enUS": "Riphook",
+		"tw-new": "撕裂之鉤",
+		"tw-old": "撕裂之鉤"
+	},
+	{
+		"enUS": "Razorswitch",
+		"tw-new": "剃刀杖",
+		"tw-old": "擺動剃刀"
+	},
+	{
+		"enUS": "Meatscrape",
+		"tw-new": "削肉",
+		"tw-old": "削肉"
+	},
+	{
+		"enUS": "Coldsteel Eye",
+		"tw-new": "冰鋼之眼",
+		"tw-old": "冰鋼之眼"
+	},
+	{
+		"enUS": "Pitblood Thirst",
+		"tw-new": "血之狂慾",
+		"tw-old": "血之狂慾"
+	},
+	{
+		"enUS": "Gaya Wand",
+		"tw-new": "加耶魔杖",
+		"tw-old": "加耶之杖"
+	},
+	{
+		"enUS": "Ondal's Wisdom",
+		"tw-new": "溫達的智慧",
+		"tw-old": "安戴爾的智慧"
+	},
+	{
+		"enUS": "Geronimo's Fury",
+		"tw-new": "吉拉尼莫的忿怒",
+		"tw-old": "吉拉尼莫的忿怒"
+	},
+	{
+		"enUS": "Charsi's Favor",
+		"tw-new": "恰西的恩惠",
+		"tw-old": "恰西的恩惠"
+	},
+	{
+		"enUS": "Doppleganger's Shadow",
+		"tw-new": "變形怪之影",
+		"tw-old": "變形怪之影"
+	},
+	{
+		"enUS": "Deathbit",
+		"tw-new": "死亡尖鑽",
+		"tw-old": "死亡碎片"
+	},
+	{
+		"enUS": "Warshrike",
+		"tw-new": "戰爭之鳥",
+		"tw-old": "戰爭之鳥"
+	},
+	{
+		"enUS": "Gut Siphon",
+		"tw-new": "內臟吸管",
+		"tw-old": "內臟吸管"
+	},
+	{
+		"enUS": "Razor's Edge",
+		"tw-new": "剃刀銳斧",
+		"tw-old": "刀鋒邊緣"
+	},
+	{
+		"enUS": "Stone Rattle",
+		"tw-new": "響石",
+		"tw-old": "自響之石"
+	},
+	{
+		"enUS": "Marrow Grinder",
+		"tw-new": "磨髓者",
+		"tw-old": "磨骨者"
+	},
+	{
+		"enUS": "Gore Ripper",
+		"tw-new": "血腥撕裂者",
+		"tw-old": "血塊撕裂者"
+	},
+	{
+		"enUS": "Bush Wacker",
+		"tw-new": "伐木刀",
+		"tw-old": "伐木刀"
+	},
+	{
+		"enUS": "Demon Limb",
+		"tw-new": "惡魔肢體",
+		"tw-old": "惡魔爪牙"
+	},
+	{
+		"enUS": "Steel Shade",
+		"tw-new": "鋼影",
+		"tw-old": "鋼影"
+	},
+	{
+		"enUS": "Tomb Reaver",
+		"tw-new": "盜墓者",
+		"tw-old": "盜墓者"
+	},
+	{
+		"enUS": "Death's Web",
+		"tw-new": "死亡之網",
+		"tw-old": "死亡之網"
+	},
+	{
+		"enUS": "Gaia's Wrath",
+		"tw-new": "蓋亞之怒",
+		"tw-old": "蓋亞之怒"
+	},
+	{
+		"enUS": "Khalim's Vengeance",
+		"tw-new": "克林姆的復仇",
+		"tw-old": "克林姆的復仇"
+	},
+	{
+		"enUS": "Angel's Song",
+		"tw-new": "天使之歌",
+		"tw-old": "天使之歌"
+	},
+	{
+		"enUS": "The Redeemer",
+		"tw-new": "懺悔者",
+		"tw-old": "懺悔者"
+	},
+	{
+		"enUS": "Fleshbone",
+		"tw-new": "血肉之骨",
+		"tw-old": "血肉之骨"
+	},
+	{
+		"enUS": "Odium",
+		"tw-new": "厭憎",
+		"tw-old": "厭惡"
+	},
+	{
+		"enUS": "Blood Comet",
+		"tw-new": "血彗星",
+		"tw-old": "血之彗星"
+	},
+	{
+		"enUS": "Bonehew",
+		"tw-new": "破骨",
+		"tw-old": "破骨"
+	},
+	{
+		"enUS": "Steelrend",
+		"tw-new": "碎鋼",
+		"tw-old": "碎鋼"
+	},
+	{
+		"enUS": "Stone Crusher",
+		"tw-new": "碎石者",
+		"tw-old": "碎石者"
+	},
+	{
+		"enUS": "Bul-Kathos' Might",
+		"tw-new": "布爾凱索之力",
+		"tw-old": "布爾凱索之力"
+	},
+	{
+		"enUS": "Arioc's Needle",
+		"tw-new": "愛理歐克之針",
+		"tw-old": "愛理歐克之針"
+	},
+	{
+		"enUS": "Shadow Dancer",
+		"tw-new": "影舞者",
+		"tw-old": "影舞者"
+	},
+	{
+		"enUS": "Indiego's Fancy",
+		"tw-new": "印地哥的幻想",
+		"tw-old": "印地哥的幻想"
+	},
+	{
+		"enUS": "Aladdin's Eviscerator",
+		"tw-new": "阿拉丁的刈骨刀",
+		"tw-old": "古代人的內臟"
+	},
+	{
+		"enUS": "Tyrael's Mercy",
+		"tw-new": "泰瑞爾的慈悲",
+		"tw-old": "泰瑞爾的慈悲"
+	},
+	{
+		"enUS": "Soul Drainer",
+		"tw-new": "吸魂者",
+		"tw-old": "吸魂者"
+	},
+	{
+		"enUS": "Rune Master",
+		"tw-new": "符文大師",
+		"tw-old": "符文大師"
+	},
+	{
+		"enUS": "Death Cleaver",
+		"tw-new": "死亡劈斧",
+		"tw-old": "死亡之刀"
+	},
+	{
+		"enUS": "Executioner's Justice",
+		"tw-new": "劊子手的裁決",
+		"tw-old": "劊子手的裁決"
+	},
+	{
+		"enUS": "Wallace's Tear",
+		"tw-new": "華萊士之淚",
+		"tw-old": "華萊士之淚"
+	},
+	{
+		"enUS": "Leviathan",
+		"tw-new": "利維坦",
+		"tw-old": "海王利維亞桑"
+	},
+	{
+		"enUS": "The Wanderer's Blade",
+		"tw-new": "流浪者之刃",
+		"tw-old": "流浪者之刀"
+	},
+	{
+		"enUS": "Qual-Khek's Enforcer",
+		"tw-new": "夸爾凱克執法者",
+		"tw-old": "夸爾凱克執法者"
+	},
+	{
+		"enUS": "Dawn Bringer",
+		"tw-new": "黃昏降臨者",
+		"tw-old": "黃昏降臨者"
+	},
+	{
+		"enUS": "Dragontooth",
+		"tw-new": "龍牙",
+		"tw-old": "龍牙"
+	},
+	{
+		"enUS": "Wisp Projector",
+		"tw-new": "鬼火投射者",
+		"tw-old": "鬼火投射者"
+	},
+	{
+		"enUS": "Gargoyle's Bite",
+		"tw-new": "石像鬼之噬",
+		"tw-old": "石像鬼之噬"
+	},
+	{
+		"enUS": "Lacerator",
+		"tw-new": "撕裂者",
+		"tw-old": "撕裂者"
+	},
+	{
+		"enUS": "Mang Song's Lesson",
+		"tw-new": "曼宋的教誨",
+		"tw-old": "梅格之歌的教訓"
+	},
+	{
+		"enUS": "Viperfork",
+		"tw-new": "蛇魔叉",
+		"tw-old": "蝮蛇叉"
+	},
+	{
+		"enUS": "Blood Chalice",
+		"tw-new": "血杯",
+		"tw-old": "血杯"
+	},
+	{
+		"enUS": "El Espiritu",
+		"tw-new": "魂靈",
+		"tw-old": "愛爾‧衣斯普利特"
+	},
+	{
+		"enUS": "The Longest Rod",
+		"tw-new": "極長之棍",
+		"tw-old": "長棒"
+	},
+	{
+		"enUS": "Demonhorn's Edge",
+		"tw-new": "惡魔角尖",
+		"tw-old": "惡魔號角的邊緣"
+	},
+	{
+		"enUS": "The Ensanguinator",
+		"tw-new": "染血者",
+		"tw-old": "血紅之人"
+	},
+	{
+		"enUS": "The Reaper's Toll",
+		"tw-new": "死神喪鐘",
+		"tw-old": "死神的喪鐘"
+	},
+	{
+		"enUS": "Spirit Keeper",
+		"tw-new": "魂靈守衛者",
+		"tw-old": "靈魂看守者"
+	},
+	{
+		"enUS": "Hellrack",
+		"tw-new": "地獄刑具",
+		"tw-old": "地獄拷問"
+	},
+	{
+		"enUS": "Alma Negra",
+		"tw-new": "黑魂",
+		"tw-old": "阿爾瑪‧尼格拉"
+	},
+	{
+		"enUS": "Darkforce Spawn",
+		"tw-new": "魔力肇生",
+		"tw-old": "魔力肇生"
+	},
+	{
+		"enUS": "Rockhew",
+		"tw-new": "削石",
+		"tw-old": "石塊切割"
+	},
+	{
+		"enUS": "Sankekur's Resurrection",
+		"tw-new": "桑克庫爾的復活",
+		"tw-old": "桑坎克的復活"
+	},
+	{
+		"enUS": "Erion's Bonehandle",
+		"tw-new": "愛力恩的骨柄",
+		"tw-old": "愛力恩的骨柄"
+	},
+	{
+		"enUS": "The Achron Magus",
+		"tw-new": "大法師",
+		"tw-old": "大法師"
+	},
+	{
+		"enUS": "Widowmaker",
+		"tw-new": "絕命",
+		"tw-old": "戮夫刃"
+	},
+	{
+		"enUS": "Catgut",
+		"tw-new": "腸線",
+		"tw-old": "腸線"
+	},
+	{
+		"enUS": "Ghostflame",
+		"tw-new": "鬼火",
+		"tw-old": "鬼火焰"
+	},
+	{
+		"enUS": "Shadow Killer",
+		"tw-new": "影殺者",
+		"tw-old": "影殺者"
+	},
+	{
+		"enUS": "Bling Bling",
+		"tw-new": "閃亮亮",
+		"tw-old": "布林布林"
+	},
+	{
+		"enUS": "Nebuchadnezzar's Storm",
+		"tw-new": "尼布甲尼撒的風暴",
+		"tw-old": "拿布坎瑟的風暴"
+	},
+	{
+		"enUS": "Griffon's Eye",
+		"tw-new": "獅鷲之眼",
+		"tw-old": "格利風之眼"
+	},
+	{
+		"enUS": "Eaglewind",
+		"tw-new": "鷹之風",
+		"tw-old": "老鷹之風"
+	},
+	{
+		"enUS": "Windhammer",
+		"tw-new": "風之鎚",
+		"tw-old": "風之鎚"
+	},
+	{
+		"enUS": "Thunderstroke",
+		"tw-new": "雷霆之擊",
+		"tw-old": "雷擊"
+	},
+	{
+		"enUS": "Giant Maimer",
+		"tw-new": "重殘",
+		"tw-old": "重殘"
+	},
+	{
+		"enUS": "Demon's Arch",
+		"tw-new": "惡魔之拱",
+		"tw-old": "惡魔之王"
+	},
+	{
+		"enUS": "The Scalper",
+		"tw-new": "頭皮剝斧",
+		"tw-old": "圓鑿"
+	},
+	{
+		"enUS": "Bloodmoon",
+		"tw-new": "血月",
+		"tw-old": "血月"
+	},
+	{
+		"enUS": "Djinn Slayer",
+		"tw-new": "巨靈殺手",
+		"tw-old": "魔靈殺手"
+	},
+	{
+		"enUS": "Cranebeak",
+		"tw-new": "鶴嘴",
+		"tw-old": "鶴嘴"
+	},
+	{
+		"enUS": "Iansang's Frenzy",
+		"tw-new": "伊安森的狂怒",
+		"tw-old": "伊安森的狂怒"
+	},
+	{
+		"enUS": "Warhound",
+		"tw-new": "戰爭獵犬",
+		"tw-old": "戰爭獵犬"
+	},
+	{
+		"enUS": "Gulletwound",
+		"tw-new": "咽喉之傷",
+		"tw-old": "咽喉之傷"
+	},
+	{
+		"enUS": "Head Hunter's Glory",
+		"tw-new": "獵頭者的榮耀",
+		"tw-old": "獵頭人的榮耀"
+	},
+	{
+		"enUS": "Mordoc's Marauder",
+		"tw-new": "馬德克的掠奪者",
+		"tw-old": "馬德克的盜賊"
+	},
+	{
+		"enUS": "Talberd's Law",
+		"tw-new": "泰爾柏德的律法",
+		"tw-old": "泰爾柏德的律法"
+	},
+	{
+		"enUS": "Amodeus' Manipulator",
+		"tw-new": "阿姆德思的操弄者",
+		"tw-old": "阿姆德思的操弄器"
+	},
+	{
+		"enUS": "Darksoul",
+		"tw-new": "幽闇魔靈",
+		"tw-old": "幽闇魔靈"
+	},
+	{
+		"enUS": "The Black Adder",
+		"tw-new": "闇蛇",
+		"tw-old": "闇蛇"
+	},
+	{
+		"enUS": "Earth Shifter",
+		"tw-new": "撼地者",
+		"tw-old": "大地變形者"
+	},
+	{
+		"enUS": "Nature's Peace",
+		"tw-new": "自然祥和",
+		"tw-old": "大自然的和平"
+	},
+	{
+		"enUS": "Horazon's Chalice",
+		"tw-new": "赫拉森之杯",
+		"tw-old": "赫拉森之杯"
+	},
+	{
+		"enUS": "Seraph's Hymn",
+		"tw-new": "熾天使之韻",
+		"tw-old": "熾天使之韻"
+	},
+	{
+		"enUS": "Zakarum's Salvation",
+		"tw-new": "撒卡蘭姆的救贖",
+		"tw-old": "撒卡蘭姆的救贖"
+	},
+	{
+		"enUS": "Fleshripper",
+		"tw-new": "裂肉者",
+		"tw-old": "裂肉者"
+	},
+	{
+		"enUS": "Stonerage",
+		"tw-new": "石之狂怒",
+		"tw-old": "石之狂怒"
+	},
+	{
+		"enUS": "Blood Rain",
+		"tw-new": "血雨",
+		"tw-old": "血雨"
+	},
+	{
+		"enUS": "Horizon's Tornado",
+		"tw-new": "地平線的龍捲風",
+		"tw-old": "地平線的颱風"
+	},
+	{
+		"enUS": "Nord's Tenderizer",
+		"tw-new": "北地肉鎚",
+		"tw-old": "諾德的蝕肉藥"
+	},
+	{
+		"enUS": "Wrath of Cain",
+		"tw-new": "凱恩之怒",
+		"tw-old": "凱恩之怒"
+	},
+	{
+		"enUS": "Siren's Call",
+		"tw-new": "賽蓮的呼喚",
+		"tw-old": "賽蓮的呼喚"
+	},
+	{
+		"enUS": "Jade Talon",
+		"tw-new": "碧玉爪",
+		"tw-old": "碧玉爪"
+	},
+	{
+		"enUS": "Wraithfang",
+		"tw-new": "怨靈之牙",
+		"tw-old": "死靈之牙"
+	},
+	{
+		"enUS": "Blade Master",
+		"tw-new": "刀刃之王",
+		"tw-old": "刀刃之王"
+	},
+	{
+		"enUS": "Cerebus' Bite",
+		"tw-new": "地獄犬之咬",
+		"tw-old": "地獄之吻"
+	},
+	{
+		"enUS": "Arch-angel's Deliverance",
+		"tw-new": "大天使的救助",
+		"tw-old": "大天使的救助"
+	},
+	{
+		"enUS": "Sinblade",
+		"tw-new": "原罪之刃",
+		"tw-old": "原罪之刃"
+	},
+	{
+		"enUS": "Rune Slayer",
+		"tw-new": "符文殺手",
+		"tw-old": "符文殺手"
+	},
+	{
+		"enUS": "Excalibur",
+		"tw-new": "石中劍",
+		"tw-old": "石中劍"
+	},
+	{
+		"enUS": "Fuego Del Sol",
+		"tw-new": "日火",
+		"tw-old": "夫得勾‧迪爾‧索"
+	},
+	{
+		"enUS": "Stoneraven",
+		"tw-new": "石鴉",
+		"tw-old": "石烏鴉"
+	},
+	{
+		"enUS": "El Infierno",
+		"tw-new": "妖獄之火",
+		"tw-old": "妖精地獄火"
+	},
+	{
+		"enUS": "Moonrend",
+		"tw-new": "碎月",
+		"tw-old": "破碎之月"
+	},
+	{
+		"enUS": "Larzuk's Champion",
+		"tw-new": "拉蘇克的鬥士",
+		"tw-old": "拉蘇克的鬥士"
+	},
+	{
+		"enUS": "Nightsummon",
+		"tw-new": "夜之召喚",
+		"tw-old": "夜之召喚"
+	},
+	{
+		"enUS": "Bonescalpel",
+		"tw-new": "骨刀",
+		"tw-old": "骨刀"
+	},
+	{
+		"enUS": "Rabbit Slayer",
+		"tw-new": "白兔殺手",
+		"tw-old": "白兔殺手"
+	},
+	{
+		"enUS": "Pagan's Athame",
+		"tw-new": "異教儀式刀",
+		"tw-old": "異教的啊沙梅"
+	},
+	{
+		"enUS": "The Swashbuckler",
+		"tw-new": "暴徒",
+		"tw-old": "暴徒"
+	},
+	{
+		"enUS": "Kang's Virtue",
+		"tw-new": "坎格的美德",
+		"tw-old": "坎格的美德"
+	},
+	{
+		"enUS": "Snake Tongue",
+		"tw-new": "蛇信",
+		"tw-old": "蛇之舌"
+	},
+	{
+		"enUS": "Lifechoke",
+		"tw-new": "生命之扼",
+		"tw-old": "窒息生命"
+	},
+	{
+		"enUS": "Ethereal Edge",
+		"tw-new": "無形之刃",
+		"tw-old": "永恆邊緣"
+	},
+	{
+		"enUS": "Palo Grande",
+		"tw-new": "派羅‧格蘭德",
+		"tw-old": "派羅大公"
+	},
+	{
+		"enUS": "Carnage Leaver",
+		"tw-new": "屠殺遺留者",
+		"tw-old": "背離屠殺者"
+	},
+	{
+		"enUS": "Ghost Leach",
+		"tw-new": "濾魂",
+		"tw-old": "濾魂"
+	},
+	{
+		"enUS": "Soul Reaper",
+		"tw-new": "奪魂者",
+		"tw-old": "靈魂收割者"
+	},
+	{
+		"enUS": "Samuel's Caretaker",
+		"tw-new": "山姆的照護者",
+		"tw-old": "山姆的管理員"
+	},
+	{
+		"enUS": "Hell Whisper",
+		"tw-new": "地獄呢喃",
+		"tw-old": "地獄呢喃者"
+	},
+	{
+		"enUS": "The Harvester",
+		"tw-new": "收割者",
+		"tw-old": "收割者"
+	},
+	{
+		"enUS": "Raiden's Crutch",
+		"tw-new": "雷電拐杖",
+		"tw-old": "雷電拐杖"
+	},
+	{
+		"enUS": "The Treentster",
+		"tw-new": "崔恩斯特",
+		"tw-old": "崔恩斯特"
+	},
+	{
+		"enUS": "Stormwillow",
+		"tw-new": "暴風柳木",
+		"tw-old": "暴風柳木"
+	},
+	{
+		"enUS": "Moon Shadow",
+		"tw-new": "月之影",
+		"tw-old": "月之影"
+	},
+	{
+		"enUS": "Demonweb",
+		"tw-new": "惡魔之網",
+		"tw-old": "惡魔之網"
+	},
+	{
+		"enUS": "Blood Raven's Charge",
+		"tw-new": "血鴉之擊",
+		"tw-old": "血鴉的襲擊"
+	},
+	{
+		"enUS": "Shade Falcon",
+		"tw-new": "陰影之鷹",
+		"tw-old": "陰影之鷹"
+	},
+	{
+		"enUS": "Robin's Yolk",
+		"tw-new": "知更之卵",
+		"tw-old": "知更之蛋"
+	},
+	{
+		"enUS": "Glimmershred",
+		"tw-new": "微光裂片",
+		"tw-old": "微光碎片"
+	},
+	{
+		"enUS": "Wraith Flight",
+		"tw-new": "死靈夜翔",
+		"tw-old": "死靈夜翔"
+	},
+	{
+		"enUS": "Lestron's Mark",
+		"tw-new": "里斯崙的印記",
+		"tw-old": "里斯崙的印記"
+	},
+	{
+		"enUS": "Banshee's Wail",
+		"tw-new": "女妖嚎哭",
+		"tw-old": "女妖嚎哭"
+	},
+	{
+		"enUS": "Windstrike",
+		"tw-new": "風之擊",
+		"tw-old": "風之擊"
+	},
+	{
+		"enUS": "Medusa's Gaze",
+		"tw-new": "梅杜莎的凝視",
+		"tw-old": "梅杜莎的凝視"
+	},
+	{
+		"enUS": "Titan's Fist",
+		"tw-new": "泰坦之拳",
+		"tw-old": "泰坦之拳"
+	},
+	{
+		"enUS": "Hadeshorn",
+		"tw-new": "黑帝斯號角",
+		"tw-old": "黑帝斯號角"
+	},
+	{
+		"enUS": "Rockstopper",
+		"tw-new": "石禦",
+		"tw-old": "岩石制動器"
+	},
+	{
+		"enUS": "Stealskull",
+		"tw-new": "盜竊顱盔",
+		"tw-old": "偷取骷髏"
+	},
+	{
+		"enUS": "Darksight Helm",
+		"tw-new": "暗視之盔",
+		"tw-old": "暗視之盔"
+	},
+	{
+		"enUS": "Crown of Thieves",
+		"tw-new": "盜賊皇冠",
+		"tw-old": "盜賊皇冠"
+	},
+	{
+		"enUS": "Blackhorn's Face",
+		"tw-new": "黑荊角面具",
+		"tw-old": "黑角面具"
+	},
+	{
+		"enUS": "The Spirit Shroud",
+		"tw-new": "靈魂帷幕",
+		"tw-old": "靈魂帷幕"
+	},
+	{
+		"enUS": "Skin of Flayed One",
+		"tw-new": "剝皮者之皮",
+		"tw-old": "剝皮者之皮"
+	},
+	{
+		"enUS": "Iron Pelt",
+		"tw-new": "鋼鐵獸皮",
+		"tw-old": "擲鐵"
+	},
+	{
+		"enUS": "Spirit Forge",
+		"tw-new": "靈魂熔爐",
+		"tw-old": "靈魂熔爐"
+	},
+	{
+		"enUS": "Crow Caw",
+		"tw-new": "鴉啼",
+		"tw-old": "鴉鳴"
+	},
+	{
+		"enUS": "Duriel's Shell",
+		"tw-new": "都瑞爾之殼",
+		"tw-old": "都瑞爾的殼"
+	},
+	{
+		"enUS": "Skullder's Ire",
+		"tw-new": "斯寇德的憤怒",
+		"tw-old": "詩寇蒂的憤怒"
+	},
+	{
+		"enUS": "Toothrow",
+		"tw-new": "排齒",
+		"tw-old": "排齒"
+	},
+	{
+		"enUS": "Atma's Wail",
+		"tw-new": "亞特瑪的哭喊",
+		"tw-old": "亞特瑪的哭喊"
+	},
+	{
+		"enUS": "Black Hades",
+		"tw-new": "黑色黑帝斯",
+		"tw-old": "黑色黑帝斯"
+	},
+	{
+		"enUS": "Corpsemourn",
+		"tw-new": "屍慟",
+		"tw-old": "屍體的哀傷"
+	},
+	{
+		"enUS": "Que-Hegan's Wisdom",
+		"tw-new": "教宗的智慧",
+		"tw-old": "魁黑剛的智慧"
+	},
+	{
+		"enUS": "Moser's Blessed Circle",
+		"tw-new": "摩瑟的祝福之圓",
+		"tw-old": "摩西祝福之環"
+	},
+	{
+		"enUS": "Stormchaser",
+		"tw-new": "風暴追逐者",
+		"tw-old": "風暴追逐者"
+	},
+	{
+		"enUS": "Tiamat's Rebuke",
+		"tw-new": "魔龍的非難",
+		"tw-old": "魔龍的非難"
+	},
+	{
+		"enUS": "Gerke's Sanctuary",
+		"tw-new": "基爾克的聖堂",
+		"tw-old": "基爾克的聖堂"
+	},
+	{
+		"enUS": "Radament's Sphere",
+		"tw-new": "羅達門特的領域",
+		"tw-old": "羅達門特之球體"
+	},
+	{
+		"enUS": "Gravepalm",
+		"tw-new": "墓穴手掌",
+		"tw-old": "墓穴的撫弄"
+	},
+	{
+		"enUS": "Ghoulhide",
+		"tw-new": "食屍鬼之皮",
+		"tw-old": "食屍鬼外皮"
+	},
+	{
+		"enUS": "Hellmouth",
+		"tw-new": "地獄之口",
+		"tw-old": "地獄之嘴"
+	},
+	{
+		"enUS": "Infernostride",
+		"tw-new": "地獄闊步",
+		"tw-old": "地獄闊步"
+	},
+	{
+		"enUS": "Waterwalk",
+		"tw-new": "水上飄",
+		"tw-old": "水上飄"
+	},
+	{
+		"enUS": "Silkweave",
+		"tw-new": "紗織",
+		"tw-old": "紗織"
+	},
+	{
+		"enUS": "War Traveler",
+		"tw-new": "戰爭旅者",
+		"tw-old": "戰爭旅者"
+	},
+	{
+		"enUS": "Razortail",
+		"tw-new": "剃刀之尾",
+		"tw-old": "剃刀之尾"
+	},
+	{
+		"enUS": "Gloom's Trap",
+		"tw-new": "陰影陷阱",
+		"tw-old": "陰影陷阱"
+	},
+	{
+		"enUS": "Snowclash",
+		"tw-new": "冰雪交織",
+		"tw-old": "雪之衝突"
+	},
+	{
+		"enUS": "Thundergod's Vigor",
+		"tw-new": "雷神之力",
+		"tw-old": "雷神之力"
+	},
+	{
+		"enUS": "Lidless Wall",
+		"tw-new": "警戒之牆",
+		"tw-old": "警戒之牆"
+	},
+	{
+		"enUS": "Lance Guard",
+		"tw-new": "長槍守衛",
+		"tw-old": "長槍警衛"
+	},
+	{
+		"enUS": "Squire's Cover",
+		"tw-new": "侍從的掩護",
+		"tw-old": "護衛的掩護"
+	},
+	{
+		"enUS": "Boneflame",
+		"tw-new": "骨焰",
+		"tw-old": "骨焰"
+	},
+	{
+		"enUS": "Steel Pillar",
+		"tw-new": "鋼鐵之柱",
+		"tw-old": "鐵柱"
+	},
+	{
+		"enUS": "Nightwing's Veil",
+		"tw-new": "夜翼面紗",
+		"tw-old": "夜翼面紗"
+	},
+	{
+		"enUS": "Hightower's Watch",
+		"tw-new": "高塔哨衛",
+		"tw-old": "高塔之視"
+	},
+	{
+		"enUS": "Crown of Ages",
+		"tw-new": "歲月之冠",
+		"tw-old": "年紀之冠"
+	},
+	{
+		"enUS": "Andariel's Visage",
+		"tw-new": "安達莉爾的面貌",
+		"tw-old": "安達莉爾的面貌"
+	},
+	{
+		"enUS": "Darkfear",
+		"tw-new": "黑暗恐懼",
+		"tw-old": "黑暗恐懼"
+	},
+	{
+		"enUS": "Dragonscale",
+		"tw-new": "龍鱗",
+		"tw-old": "龍鱗"
+	},
+	{
+		"enUS": "Steel Carapace",
+		"tw-new": "鋼鐵甲殼",
+		"tw-old": "鋼鐵鎧甲"
+	},
+	{
+		"enUS": "Asheara's Wired Frame",
+		"tw-new": "艾席拉的金屬框",
+		"tw-old": "艾席拉的精神迷幻"
+	},
+	{
+		"enUS": "Rainbow Facet",
+		"tw-new": "彩虹刻面",
+		"tw-old": "彩虹刻面"
+	},
+	{
+		"enUS": "Ravenlore",
+		"tw-new": "掠鴉之王",
+		"tw-old": "烏鴉之王"
+	},
+	{
+		"enUS": "Boneshade",
+		"tw-new": "骸骨陰影",
+		"tw-old": "白骨陰影"
+	},
+	{
+		"enUS": "Nethercrow",
+		"tw-new": "冥府烏鴉",
+		"tw-old": "冥府烏鴉"
+	},
+	{
+		"enUS": "Hell Warden's Husk",
+		"tw-new": "地獄刑長之殼",
+		"tw-old": "地獄刑長之殼"
+	},
+	{
+		"enUS": "Flamebellow",
+		"tw-new": "火嚎",
+		"tw-old": "火焰號叫"
+	},
+	{
+		"enUS": "Death's Fathom",
+		"tw-new": "死亡深度",
+		"tw-old": "死亡深度"
+	},
+	{
+		"enUS": "Wolfhowl",
+		"tw-new": "狼嚎",
+		"tw-old": "狼嚎"
+	},
+	{
+		"enUS": "Spirit Ward",
+		"tw-new": "魂系結界",
+		"tw-old": "魂系結界"
+	},
+	{
+		"enUS": "Kira's Guardian",
+		"tw-new": "奇拉的守護",
+		"tw-old": "奇拉的守護"
+	},
+	{
+		"enUS": "Ormus' Robe",
+		"tw-new": "奧瑪斯之袍",
+		"tw-old": "奧瑪斯之袍"
+	},
+	{
+		"enUS": "Gheed's Fortune",
+		"tw-new": "基德的財運",
+		"tw-old": "基德的運氣"
+	},
+	{
+		"enUS": "The Vicar",
+		"tw-new": "代牧者",
+		"tw-old": "代理教皇"
+	},
+	{
+		"enUS": "Stormlash",
+		"tw-new": "暴風之鞭",
+		"tw-old": "暴風之結"
+	},
+	{
+		"enUS": "Halaberd's Reign",
+		"tw-new": "海拉柏德的國度",
+		"tw-old": "海拉柏得的國度"
+	},
+	{
+		"enUS": "Parkersor's Calm",
+		"tw-new": "派克索爾的冷靜",
+		"tw-old": "派克索爾的冷靜"
+	},
+	{
+		"enUS": "Warriv's Warder",
+		"tw-new": "瓦瑞夫的護盾",
+		"tw-old": "瓦瑞夫的權杖"
+	},
+	{
+		"enUS": "Spike Thorn",
+		"tw-new": "尖刺荊棘",
+		"tw-old": "尖刺根源"
+	},
+	{
+		"enUS": "Dracul's Grasp",
+		"tw-new": "德古拉之握",
+		"tw-old": "卓古拉之握"
+	},
+	{
+		"enUS": "Frostwind",
+		"tw-new": "霜風",
+		"tw-old": "冰霜之風"
+	},
+	{
+		"enUS": "Templar's Might",
+		"tw-new": "聖堂騎士之力",
+		"tw-old": "聖堂武士的力量"
+	},
+	{
+		"enUS": "Eschuta's Temper",
+		"tw-new": "艾斯屈塔的憤怒",
+		"tw-old": "艾斯屈塔的脾氣"
+	},
+	{
+		"enUS": "Firelizard's Talons",
+		"tw-new": "火蜥蜴之爪",
+		"tw-old": "火蜥蜴之爪"
+	},
+	{
+		"enUS": "Sandstorm Trek",
+		"tw-new": "沙暴之旅",
+		"tw-old": "沙暴之旅"
+	},
+	{
+		"enUS": "Marrowwalk",
+		"tw-new": "骨髓行走",
+		"tw-old": "骨髓行走"
+	},
+	{
+		"enUS": "Heaven's Light",
+		"tw-new": "天堂之光",
+		"tw-old": "天堂之光"
+	},
+	{
+		"enUS": "Merman's Sprocket",
+		"tw-new": "人魚的鍊輪靴",
+		"tw-old": "人魚的齒輪"
+	},
+	{
+		"enUS": "Arachnid Mesh",
+		"tw-new": "蜘蛛之網",
+		"tw-old": "蜘蛛之網"
+	},
+	{
+		"enUS": "Nosferatu's Coil",
+		"tw-new": "吸血鬼王之圈",
+		"tw-old": "吸血聖王之圈"
+	},
+	{
+		"enUS": "Metalite's Girth",
+		"tw-new": "梅塔萊特的束腰",
+		"tw-old": "梅塔利絲的腰"
+	},
+	{
+		"enUS": "Verdungo's Hearty Cord",
+		"tw-new": "伐頓戈的強韌腰索",
+		"tw-old": "維爾登戈的心結"
+	},
+	{
+		"enUS": "Siggard's Stealth",
+		"tw-new": "席嘉德的隱藏",
+		"tw-old": "席嘉德的隱藏"
+	},
+	{
+		"enUS": "Carrion Wind",
+		"tw-new": "腐肉之風",
+		"tw-old": "腐肉之風"
+	},
+	{
+		"enUS": "Giant Skull",
+		"tw-new": "巨大顱骨",
+		"tw-old": "巨骷髏"
+	},
+	{
+		"enUS": "Astreon's Iron Ward",
+		"tw-new": "愛斯特龍的鐵衛",
+		"tw-old": "愛斯特龍之鐵的保護區"
+	},
+	{
+		"enUS": "Gillian's Brazier",
+		"tw-new": "吉莉安的火盆",
+		"tw-old": "吉利安之火盆"
+	},
+	{
+		"enUS": "Drakeflame",
+		"tw-new": "龍獸之焰",
+		"tw-old": "龍獸之焰"
+	},
+	{
+		"enUS": "Dust Storm",
+		"tw-new": "沙塵暴",
+		"tw-old": "沙塵暴"
+	},
+	{
+		"enUS": "Skulltred",
+		"tw-new": "史古塔得",
+		"tw-old": "史古塔得"
+	},
+	{
+		"enUS": "Alma's Reflection",
+		"tw-new": "靈魂殘影",
+		"tw-old": "阿爾瑪的回憶"
+	},
+	{
+		"enUS": "Drulan's Tongue",
+		"tw-new": "杜蘭之舌",
+		"tw-old": "杜蘭之舌"
+	},
+	{
+		"enUS": "Sacred Charge",
+		"tw-new": "神聖職責",
+		"tw-old": "神聖突擊"
+	},
+	{
+		"enUS": "Bul-Kathos",
+		"tw-new": "布爾凱索",
+		"tw-old": "布爾凱索斯"
+	},
+	{
+		"enUS": "Saracen's Chance",
+		"tw-new": "薩拉森的機會",
+		"tw-old": "薩拉森的機會"
+	},
+	{
+		"enUS": "Highlord's Wrath",
+		"tw-new": "大君之怒",
+		"tw-old": "大君之怒"
+	},
+	{
+		"enUS": "Raven Frost",
+		"tw-new": "烏鴉之霜",
+		"tw-old": "烏鴉之霜"
+	},
+	{
+		"enUS": "Dwarf Star",
+		"tw-new": "矮人之星",
+		"tw-old": "矮人之星"
+	},
+	{
+		"enUS": "Atma's Scarab",
+		"tw-new": "亞特瑪的聖甲蟲",
+		"tw-old": "亞特瑪的聖甲蟲"
+	},
+	{
+		"enUS": "Mara's Kaleidoscope",
+		"tw-new": "馬拉的萬花筒",
+		"tw-old": "馬拉的萬花筒"
+	},
+	{
+		"enUS": "Crescent Moon",
+		"tw-new": "新月",
+		"tw-old": "新月"
+	},
+	{
+		"enUS": "The Rising Sun",
+		"tw-new": "旭日東升",
+		"tw-old": "旭日東昇"
+	},
+	{
+		"enUS": "The Cat's Eye",
+		"tw-new": "貓眼",
+		"tw-old": "貓眼"
+	},
+	{
+		"enUS": "Bul-Kathos' Wedding Band",
+		"tw-new": "布爾凱索的婚戒",
+		"tw-old": "布爾凱索之戒"
+	},
+	{
+		"enUS": "Rings",
+		"tw-new": "指環",
+		"tw-old": "指環"
+	},
+	{
+		"enUS": "Metalgrid",
+		"tw-new": "金屬網格",
+		"tw-old": "金屬網格"
+	},
+	{
+		"enUS": "Stormshield",
+		"tw-new": "暴風之盾",
+		"tw-old": "暴風之盾"
+	},
+	{
+		"enUS": "Blackoak Shield",
+		"tw-new": "黑橡樹盾",
+		"tw-old": "黑橡樹盾"
+	},
+	{
+		"enUS": "Ormus' Robes",
+		"tw-new": "奧瑪斯之袍",
+		"tw-old": "奧瑪斯的長袍"
+	},
+	{
+		"enUS": "Arkaine's Valor",
+		"tw-new": "阿凱尼的榮耀",
+		"tw-old": "阿凱尼的榮耀"
+	},
+	{
+		"enUS": "The Gladiator's Bane",
+		"tw-new": "鬥士之禍",
+		"tw-old": "鬥士的禍根"
+	},
+	{
+		"enUS": "Veil of Steel",
+		"tw-new": "鋼鐵面紗",
+		"tw-old": "鋼鐵面紗"
+	},
+	{
+		"enUS": "Harlequin Crest",
+		"tw-new": "諧角之冠",
+		"tw-old": "諧角之冠"
+	},
+	{
+		"enUS": "Lance Guard",
+		"tw-new": "長槍守衛",
+		"tw-old": "長槍守衛"
+	},
+	{
+		"enUS": "Gerke's Sanctuary",
+		"tw-new": "基爾克的聖堂",
+		"tw-old": "基爾克的聖堂"
+	},
+	{
+		"enUS": "Moser's Blessed Circle",
+		"tw-new": "摩瑟的祝福之圓",
+		"tw-old": "摩西祝福之環"
+	},
+	{
+		"enUS": "Que-Hegan's Wisdom",
+		"tw-new": "教宗的智慧",
+		"tw-old": "魁黑剛的智慧"
+	},
+	{
+		"enUS": "Guardian Angel",
+		"tw-new": "守護天使",
+		"tw-old": "守護天使"
+	},
+	{
+		"enUS": "Skin of the Flayed One",
+		"tw-new": "剝皮者之皮",
+		"tw-old": "剝皮者之皮"
+	},
+	{
+		"enUS": "Armor",
+		"tw-new": "護甲",
+		"tw-old": "裝甲"
+	},
+	{
+		"enUS": "Windforce",
+		"tw-new": "風之力",
+		"tw-old": "風之力"
+	},
+	{
+		"enUS": "Eaglehorn",
+		"tw-new": "鷹角弓",
+		"tw-old": "鷹號角"
+	},
+	{
+		"enUS": "Gimmershred",
+		"tw-new": "吉默削斧",
+		"tw-old": "碎片貪婪者"
+	},
+	{
+		"enUS": "Widowmaker",
+		"tw-new": "絕命",
+		"tw-old": "戮夫刃"
+	},
+	{
+		"enUS": "Stormspire",
+		"tw-new": "暴風尖塔",
+		"tw-old": "暴風尖塔"
+	},
+	{
+		"enUS": "Naj's Puzzler",
+		"tw-new": "娜吉的解謎杖",
+		"tw-old": "娜吉解迷杖"
+	},
+	{
+		"enUS": "Ethereal Edge",
+		"tw-new": "無形之刃",
+		"tw-old": "永恆邊界"
+	},
+	{
+		"enUS": "Wizardspike",
+		"tw-new": "巫師之刺",
+		"tw-old": "巫師之刺"
+	},
+	{
+		"enUS": "The Grandfather",
+		"tw-new": "高祖",
+		"tw-old": "祖父"
+	},
+	{
+		"enUS": "Doombringer",
+		"tw-new": "末日使者",
+		"tw-old": "末日毀滅者"
+	},
+	{
+		"enUS": "Tyrael's Might",
+		"tw-new": "泰瑞爾之力",
+		"tw-old": "泰瑞爾的力量"
+	},
+	{
+		"enUS": "Lightsabre",
+		"tw-new": "光之軍刀",
+		"tw-old": "光之軍刀"
+	},
+	{
+		"enUS": "The Cranium Basher",
+		"tw-new": "碎腦鎚",
+		"tw-old": "碎腦鎚"
+	},
+	{
+		"enUS": "Schaefer's Hammer",
+		"tw-new": "史恰佛之鎚",
+		"tw-old": "史恰佛之鎚"
+	},
+	{
+		"enUS": "Baranar's Star",
+		"tw-new": "巴拉那之星",
+		"tw-old": "巴拉那之星"
+	},
+	{
+		"enUS": "Death's Web",
+		"tw-new": "死亡之網",
+		"tw-old": "死亡之網"
+	},
+	{
+		"enUS": "Messerschmidt's Reaver",
+		"tw-new": "梅希斯密特之劫掠者",
+		"tw-old": "希梅斯特的掠奪"
+	},
+	{
+		"enUS": "Hellslayer",
+		"tw-new": "地獄殺戮者",
+		"tw-old": "地獄毀滅者"
+	},
+	{
+		"enUS": "Endlesshail",
+		"tw-new": "無盡冰雹",
+		"tw-old": "無休止的冰雹"
+	},
+	{
+		"enUS": "The Atlantean",
+		"tw-new": "亞特蘭提恩",
+		"tw-old": "亞特拉斯"
+	},
+	{
+		"enUS": "Riftlash",
+		"tw-new": "破裂之鞭",
+		"tw-old": "破裂之鞭"
+	},
+	{
+		"enUS": "Baezil's Vortex",
+		"tw-new": "貝西爾的漩渦",
+		"tw-old": "貝西爾的漩渦"
+	},
+	{
+		"enUS": "Zakarum's Hand",
+		"tw-new": "撒卡蘭姆之手",
+		"tw-old": "撒卡蘭姆之手"
+	},
+	{
+		"enUS": "Carin Shard",
+		"tw-new": "凱林碎片",
+		"tw-old": "凱恩碎片"
+	},
+	{
+		"enUS": "The Minotaur",
+		"tw-new": "牛頭怪",
+		"tw-old": "牛頭怪"
+	},
+	{
+		"enUS": "Trang-Oul's Avatar",
+		"tw-new": "塔格奧的化身",
+		"tw-old": "塔格奧的化身"
+	},
+	{
+		"enUS": "Trang-Oul's Guise",
+		"tw-new": "塔格奧之容",
+		"tw-old": "塔格奧之外裝"
+	},
+	{
+		"enUS": "Trang-Oul's Wing",
+		"tw-new": "塔格奧之翼",
+		"tw-old": "塔格奧之翼"
+	},
+	{
+		"enUS": "Trang-Oul's Mask",
+		"tw-new": "塔格奧面具",
+		"tw-old": "塔格奧之面具"
+	},
+	{
+		"enUS": "Trang-Oul's Scales",
+		"tw-new": "塔格奧之鱗",
+		"tw-old": "塔格奧之鱗"
+	},
+	{
+		"enUS": "Trang-Oul's Claws",
+		"tw-new": "塔格奧之爪",
+		"tw-old": "塔格奧之手"
+	},
+	{
+		"enUS": "Trang-Oul's Girth",
+		"tw-new": "塔格奧之腹",
+		"tw-old": "塔格奧之束帶"
+	},
+	{
+		"enUS": "Natalya's Odium",
+		"tw-new": "娜塔亞的非難",
+		"tw-old": "娜塔亞的非難"
+	},
+	{
+		"enUS": "Natalya's Totem",
+		"tw-new": "娜塔亞的圖騰",
+		"tw-old": "娜塔亞的圖騰"
+	},
+	{
+		"enUS": "Natalya's Mark",
+		"tw-new": "娜塔亞的印記",
+		"tw-old": "娜塔亞的記號"
+	},
+	{
+		"enUS": "Natalya's Shadow",
+		"tw-new": "娜塔亞的影子",
+		"tw-old": "娜塔亞的影子"
+	},
+	{
+		"enUS": "Natalya's Soul",
+		"tw-new": "娜塔亞的靈魂",
+		"tw-old": "娜塔亞的靈魂"
+	},
+	{
+		"enUS": "Griswold's Legacy",
+		"tw-new": "格里斯瓦德的傳奇",
+		"tw-old": "格瑞斯華爾德的傳奇"
+	},
+	{
+		"enUS": "Griswold's Redemption",
+		"tw-new": "格里斯瓦德的救贖",
+		"tw-old": "格瑞斯華爾德的救贖"
+	},
+	{
+		"enUS": "Griswold's Honor",
+		"tw-new": "格里斯瓦德的榮耀",
+		"tw-old": "格瑞斯華爾德的榮耀"
+	},
+	{
+		"enUS": "Griswold's Heart",
+		"tw-new": "格里斯瓦德之心",
+		"tw-old": "格瑞斯華爾德之心"
+	},
+	{
+		"enUS": "Griswold's Valor",
+		"tw-new": "格里斯瓦德的勇氣",
+		"tw-old": "格瑞斯華爾德的勇氣"
+	},
+	{
+		"enUS": "Tang's Imperial Robes",
+		"tw-new": "唐帝的皇袍",
+		"tw-old": "坦的皇者之袍"
+	},
+	{
+		"enUS": "Tang's Fore-Fathers",
+		"tw-new": "唐帝的祖先",
+		"tw-old": "坦的祖先"
+	},
+	{
+		"enUS": "Tang's Rule",
+		"tw-new": "唐帝的法則",
+		"tw-old": "坦的規則"
+	},
+	{
+		"enUS": "Tang's Throne",
+		"tw-new": "唐帝的王座",
+		"tw-old": "坦的王權"
+	},
+	{
+		"enUS": "Tang's Battle Standard",
+		"tw-new": "唐帝的戰旗",
+		"tw-old": "坦的戰鬥常規"
+	},
+	{
+		"enUS": "Ogun's Fierce Visage",
+		"tw-new": "奧崗的殘暴面孔",
+		"tw-old": "奧崗的殘暴面孔"
+	},
+	{
+		"enUS": "Ogun's Shadow",
+		"tw-new": "奧崗之影",
+		"tw-old": "奧崗之影"
+	},
+	{
+		"enUS": "Ogun's Lash",
+		"tw-new": "奧崗之鞭",
+		"tw-old": "奧崗之鞭"
+	},
+	{
+		"enUS": "Ogun's Vengeance",
+		"tw-new": "奧崗的復仇",
+		"tw-old": "奧崗的復仇"
+	},
+	{
+		"enUS": "Bul-Kathos' Warden",
+		"tw-new": "布爾凱索看守者",
+		"tw-old": "布爾凱索之長"
+	},
+	{
+		"enUS": "Bul-Kathos' Children",
+		"tw-new": "布爾凱索的子嗣",
+		"tw-old": "布爾凱索的孩子"
+	},
+	{
+		"enUS": "Bul-Kathos' Sacred Charge",
+		"tw-new": "布爾凱索的神聖職責",
+		"tw-old": "布爾凱索的神聖代價"
+	},
+	{
+		"enUS": "Bul-Kathos' Tribal Guardian",
+		"tw-new": "布爾凱索的部族守護",
+		"tw-old": "布爾凱索的部族守護"
+	},
+	{
+		"enUS": "Bul-Kathos' Custodian",
+		"tw-new": "布爾凱索捍衛者",
+		"tw-old": "布爾凱索的管理者"
+	},
+	{
+		"enUS": "Flowkrad's Howl",
+		"tw-new": "夫羅卡德的狂嚎",
+		"tw-old": "夫羅卡德的狂嚎"
+	},
+	{
+		"enUS": "Flowkrad's Grin",
+		"tw-new": "夫羅卡德的尖牙",
+		"tw-old": "夫羅卡德之牙"
+	},
+	{
+		"enUS": "Flowkrad's Fur",
+		"tw-new": "夫羅卡德的毛皮",
+		"tw-old": "夫羅卡德的毛皮"
+	},
+	{
+		"enUS": "Flowkrad's Paws",
+		"tw-new": "夫羅卡德的腳掌",
+		"tw-old": "夫羅卡德的腳掌"
+	},
+	{
+		"enUS": "Flowkrad's Sinew",
+		"tw-new": "夫羅卡德的肌腱",
+		"tw-old": "夫羅卡德之腱"
+	},
+	{
+		"enUS": "Aldur's Watchtower",
+		"tw-new": "艾爾多的守衛",
+		"tw-old": "艾爾多的守衛"
+	},
+	{
+		"enUS": "Aldur's Stony Gaze",
+		"tw-new": "艾爾多的冷酷凝視",
+		"tw-old": "艾爾多的冷酷凝視"
+	},
+	{
+		"enUS": "Aldur's Deception",
+		"tw-new": "艾爾多的欺暪",
+		"tw-old": "艾爾多的欺瞞"
+	},
+	{
+		"enUS": "Aldur's Gauntlet",
+		"tw-new": "艾爾多的護手",
+		"tw-old": "艾爾多的鐵手套"
+	},
+	{
+		"enUS": "Aldur's Advance",
+		"tw-new": "艾爾多的進擊",
+		"tw-old": "艾爾多的成長"
+	},
+	{
+		"enUS": "M'avina's Battle Hymn",
+		"tw-new": "馬維娜之戰鬥詩歌",
+		"tw-old": "馬維娜之戰鬥詩歌"
+	},
+	{
+		"enUS": "M'avina's True Sight",
+		"tw-new": "馬維娜的真實之眼",
+		"tw-old": "馬維娜的真實之眼"
+	},
+	{
+		"enUS": "M'avina's Embrace",
+		"tw-new": "馬維娜的擁抱",
+		"tw-old": "馬維娜的擁抱"
+	},
+	{
+		"enUS": "M'avina's Icy Clutch",
+		"tw-new": "馬維娜的冰握",
+		"tw-old": "馬維娜的冰握"
+	},
+	{
+		"enUS": "M'avina's Tenet",
+		"tw-new": "馬維娜的教義",
+		"tw-old": "馬維娜的教義"
+	},
+	{
+		"enUS": "M'avina's Caster",
+		"tw-new": "馬維娜的強弓",
+		"tw-old": "馬維娜的施展"
+	},
+	{
+		"enUS": "Sazabi's Grand Tribute",
+		"tw-new": "沙薩比的崇高禮讚",
+		"tw-old": "沙撒璧的雄偉貢品"
+	},
+	{
+		"enUS": "Sazabi's Cobalt Redeemer",
+		"tw-new": "沙薩比的救贖鈷劍",
+		"tw-old": "沙撒璧的懺悔之鈷"
+	},
+	{
+		"enUS": "Sazabi's Ghost Liberator",
+		"tw-new": "沙薩比的解靈框體",
+		"tw-old": "沙撒璧的鬼魂釋放者"
+	},
+	{
+		"enUS": "Sazabi's Mental Sheath",
+		"tw-new": "沙薩比的精神護罩",
+		"tw-old": "沙撒璧的精神之鞘"
+	},
+	{
+		"enUS": "Hwanin's Majesty",
+		"tw-new": "桓因的威嚴",
+		"tw-old": "華寧的威嚴"
+	},
+	{
+		"enUS": "Hwanin's Justice",
+		"tw-new": "桓因的制裁",
+		"tw-old": "華寧的正義"
+	},
+	{
+		"enUS": "Hwanin's Splendor",
+		"tw-new": "桓因的光輝",
+		"tw-old": "華寧的光輝"
+	},
+	{
+		"enUS": "Hwanin's Refuge",
+		"tw-new": "桓因的庇佑",
+		"tw-old": "華寧的保護"
+	},
+	{
+		"enUS": "Hwanin's Cordon",
+		"tw-new": "桓因的飾帶",
+		"tw-old": "華寧的飾帶"
+	},
+	{
+		"enUS": "The Disciple",
+		"tw-new": "門徒",
+		"tw-old": "門徒"
+	},
+	{
+		"enUS": "Telling of Beads",
+		"tw-new": "誦唸珠",
+		"tw-old": "述說之珠"
+	},
+	{
+		"enUS": "Laying of Hands",
+		"tw-new": "按手禮",
+		"tw-old": "手掌的安置"
+	},
+	{
+		"enUS": "Rite of Passage",
+		"tw-new": "入門式",
+		"tw-old": "儀式的走道"
+	},
+	{
+		"enUS": "Dark Adherent",
+		"tw-new": "隱門徒",
+		"tw-old": "黑暗信徒"
+	},
+	{
+		"enUS": "Credendum",
+		"tw-new": "守信條",
+		"tw-old": "信條"
+	},
+	{
+		"enUS": "Cow King's Leathers",
+		"tw-new": "牛王皮甲",
+		"tw-old": "牛魔王之皮甲"
+	},
+	{
+		"enUS": "Cow King's Horns",
+		"tw-new": "牛王之角",
+		"tw-old": "牛魔王之角"
+	},
+	{
+		"enUS": "Cow King's Hide",
+		"tw-new": "牛王之皮",
+		"tw-old": "牛魔王之皮"
+	},
+	{
+		"enUS": "Cow King's Hooves",
+		"tw-new": "牛王之蹄",
+		"tw-old": "牛魔王之蹄"
+	},
+	{
+		"enUS": "Aragon's Masterpiece",
+		"tw-new": "亞拉崗的曠世之作",
+		"tw-old": "亞拉崗的名作"
+	},
+	{
+		"enUS": "Aragon's Sunfire",
+		"tw-new": "亞拉崗的太陽之火",
+		"tw-old": "亞拉崗太陽火焰"
+	},
+	{
+		"enUS": "Aragon's Icy Stare",
+		"tw-new": "亞拉崗的冰寒之視",
+		"tw-old": "亞拉崗冰之凝視"
+	},
+	{
+		"enUS": "Aragon's Storm Cloud",
+		"tw-new": "亞拉崗的暴風之雲",
+		"tw-old": "亞拉崗暴風雲"
+	},
+	{
+		"enUS": "Orphan's Call",
+		"tw-new": "孤兒的呼喚",
+		"tw-old": "孤兒的呼喚"
+	},
+	{
+		"enUS": "Guillaume's Face",
+		"tw-new": "吉永之臉",
+		"tw-old": "吉永之臉"
+	},
+	{
+		"enUS": "Willhelm's Pride",
+		"tw-new": "魏爾海姆的自尊",
+		"tw-old": "魏爾海姆的自尊"
+	},
+	{
+		"enUS": "Magnus' Skin",
+		"tw-new": "馬格納斯之皮",
+		"tw-old": "馬格納斯之皮"
+	},
+	{
+		"enUS": "Whitstan's Guard",
+		"tw-new": "惠斯坦的守護",
+		"tw-old": "惠斯坦的武裝"
+	},
+	{
+		"enUS": "Titan's Revenge",
+		"tw-new": "泰坦的復仇",
+		"tw-old": "泰坦的復仇"
+	},
+	{
+		"enUS": "Shakabra's Crux",
+		"tw-new": "賽可伯的謎題",
+		"tw-old": "賽可伯的謎題"
+	},
+	{
+		"enUS": "Lycander's Aim",
+		"tw-new": "萊坎德的準頭",
+		"tw-old": "雷山德的指標"
+	},
+	{
+		"enUS": "Shadow Touch",
+		"tw-new": "影之觸",
+		"tw-old": "影之接觸"
+	},
+	{
+		"enUS": "The Prowler",
+		"tw-new": "遊盪者",
+		"tw-old": "遊盪者"
+	},
+	{
+		"enUS": "Mortal Crescent",
+		"tw-new": "死亡新月",
+		"tw-old": "死亡新月"
+	},
+	{
+		"enUS": "Bartuc's Chop Chop",
+		"tw-new": "霸圖克的猛擊",
+		"tw-old": "巴特克的猛擊"
+	},
+	{
+		"enUS": "Samurai Justice",
+		"tw-new": "武士的正義",
+		"tw-old": "武士的正義"
+	},
+	{
+		"enUS": "Annihilus",
+		"tw-new": "滅絕",
+		"tw-old": "毀滅"
+	},
+	{
+		"enUS": "Arreat's Face",
+		"tw-new": "亞瑞特的面容",
+		"tw-old": "亞瑞特的面容"
+	},
+	{
+		"enUS": "The Harbinger",
+		"tw-new": "先兆",
+		"tw-old": "先兆"
+	},
+	{
+		"enUS": "Doomseer",
+		"tw-new": "末日先知",
+		"tw-old": "末日先知"
+	},
+	{
+		"enUS": "Howling Visage",
+		"tw-new": "狂號面孔",
+		"tw-old": "狂號的面孔"
+	},
+	{
+		"enUS": "Terra's Guardian",
+		"tw-new": "提拉守護者",
+		"tw-old": "提拉守護者"
+	},
+	{
+		"enUS": "Triad's Foliage",
+		"tw-new": "三重葉",
+		"tw-old": "三重葉"
+	},
+	{
+		"enUS": "Jalal's Mane",
+		"tw-new": "加爾的鬃毛",
+		"tw-old": "加爾的長髮"
+	},
+	{
+		"enUS": "Malignant Skull",
+		"tw-new": "邪心骨",
+		"tw-old": "邪心骨"
+	},
+	{
+		"enUS": "Apothecary's Tote",
+		"tw-new": "藥劑師的袋子",
+		"tw-old": "藥商的計算器"
+	},
+	{
+		"enUS": "Apocrypha",
+		"tw-new": "離經叛道",
+		"tw-old": "偽經"
+	},
+	{
+		"enUS": "Foci of the Vizjerei",
+		"tw-new": "費斯傑利的焦點",
+		"tw-old": "費斯傑利的焦點"
+	},
+	{
+		"enUS": "Homunculus",
+		"tw-new": "魔胎",
+		"tw-old": "侏儒"
+	},
+	{
+		"enUS": "Aurora's Guard",
+		"tw-new": "奧羅拉的守護",
+		"tw-old": "奧羅拉的守護"
+	},
+	{
+		"enUS": "Crest of Morn",
+		"tw-new": "黎明徽章",
+		"tw-old": "黎明徽章"
+	},
+	{
+		"enUS": "Herald of Zakarum",
+		"tw-new": "撒卡蘭姆使者",
+		"tw-old": "撒卡蘭姆使者"
+	},
+	{
+		"enUS": "Akarat's Protector",
+		"tw-new": "阿卡拉特的保護者",
+		"tw-old": "阿卡拉特的保護者"
+	},
+	{
+		"enUS": "Ancient Eye",
+		"tw-new": "古代之眼",
+		"tw-old": "古代之眼"
+	},
+	{
+		"enUS": "Globe of the Vizjerei",
+		"tw-new": "費斯傑利之球",
+		"tw-old": "費斯傑利之球"
+	},
+	{
+		"enUS": "The Oculus",
+		"tw-new": "核瞳",
+		"tw-old": "眼球"
+	},
+	{
+		"enUS": "Phoenix Egg",
+		"tw-new": "鳳凰蛋",
+		"tw-old": "鳳凰蛋"
+	},
+	{
+		"enUS": "Xenos",
+		"tw-new": "異鄉",
+		"tw-old": "異地"
+	},
+	{
+		"enUS": "Nagas",
+		"tw-new": "蛇龍",
+		"tw-old": "蛇龍"
+	},
+	{
+		"enUS": "Wyvern's Head",
+		"tw-new": "飛龍首",
+		"tw-old": "翼龍首"
+	},
+	{
+		"enUS": "Sightless Veil",
+		"tw-new": "目盲面紗",
+		"tw-old": "目盲面紗"
+	},
+	{
+		"enUS": "%0 %1",
+		"tw-new": "%0%1",
+		"tw-old": "%0 %1"
+	},
+	{
+		"enUS": "Jared's Stone",
+		"tw-new": "傑瑞德之石",
+		"tw-old": "傑瑞德之石"
+	},
+	{
+		"enUS": "Kurast Shield",
+		"tw-new": "庫拉斯特盾",
+		"tw-old": "庫拉斯特之盾"
+	},
+	{
+		"enUS": "Hatchet Hands",
+		"tw-new": "斧手",
+		"tw-old": "斧手"
+	},
+	{
+		"enUS": "Class-specific",
+		"tw-new": "限定職業",
+		"tw-old": "指定職業"
+	},
+	{
+		"enUS": "Frozen Anya",
+		"tw-new": "冰凍的安亞",
+		"tw-old": "冰凍的安亞"
+	},
+	{
+		"enUS": "Scroll of Knowledge",
+		"tw-new": "知識卷軸",
+		"tw-old": "知識卷軸"
+	},
+	{
+		"enUS": "Tal Rasha's Wrappings",
+		"tw-new": "塔拉夏的外袍",
+		"tw-old": "塔.拉夏的外袍"
+	},
+	{
+		"enUS": "Tal Rasha's Fine-Spun Cloth",
+		"tw-new": "塔拉夏的精織腰布",
+		"tw-old": "塔.拉夏的纖細衣服"
+	},
+	{
+		"enUS": "Tal Rasha's Adjudication",
+		"tw-new": "塔拉夏的判決",
+		"tw-old": "塔.拉夏的判決"
+	},
+	{
+		"enUS": "Tal Rasha's Guardianship",
+		"tw-new": "塔拉夏的守護",
+		"tw-old": "塔.拉夏的守護"
+	},
+	{
+		"enUS": "Tal Rasha's Lidless Eye",
+		"tw-new": "塔拉夏的警惕之眼",
+		"tw-old": "塔.拉夏的判決"
+	},
+	{
+		"enUS": "Tal Rasha's Horadric Crest",
+		"tw-new": "塔拉夏的赫拉迪姆之冠",
+		"tw-old": "塔.拉夏的赫拉迪克紋章"
+	},
+	{
+		"enUS": "Hwanin's Blessing",
+		"tw-new": "桓因的祝福",
+		"tw-old": "華寧的祝福"
+	},
+	{
+		"enUS": "Heaven's Brethren",
+		"tw-new": "天堂的同胞",
+		"tw-old": "天堂的信徒"
+	},
+	{
+		"enUS": "Dangoon's Teaching",
+		"tw-new": "檀君的教導",
+		"tw-old": "丹弓的教導"
+	},
+	{
+		"enUS": "Ondal's Almighty",
+		"tw-new": "溫達的全靈",
+		"tw-old": "安戴爾的全靈"
+	},
+	{
+		"enUS": "Taebaek's Glory",
+		"tw-new": "太白山的榮光",
+		"tw-old": "泰比克的光榮"
+	},
+	{
+		"enUS": "Haemosu's Adamant",
+		"tw-new": "解慕漱的堅決",
+		"tw-old": "黑摩蘇的堅決"
+	},
+	{
+		"enUS": "Lycander's Flank",
+		"tw-new": "萊坎德的側翼",
+		"tw-old": "雷山德的側腹"
+	},
+	{
+		"enUS": "Constricting Ring",
+		"tw-new": "束縛之戒",
+		"tw-old": "收縮戒指"
+	},
+	{
+		"enUS": "Ginther's Rift",
+		"tw-new": "金瑟的裂隙",
+		"tw-old": "金瑟的裂縫"
+	},
+	{
+		"enUS": "Naj's Ancient Vestige",
+		"tw-new": "娜吉的上古遺物",
+		"tw-old": "娜吉的古代遺跡"
+	},
+	{
+		"enUS": "Naj's Light Plate",
+		"tw-new": "娜吉的輕鎧",
+		"tw-old": "娜吉的輕鎧甲"
+	},
+	{
+		"enUS": "Naj's Circlet",
+		"tw-new": "娜吉的頭環",
+		"tw-old": "娜吉的小環"
+	},
+	{
+		"enUS": "McAuley's Superstition",
+		"tw-new": "麥克奧雷的迷信",
+		"tw-old": "麥克奧雷的迷信"
+	},
+	{
+		"enUS": "McAuley's Taboo",
+		"tw-new": "麥克奧雷的禁忌",
+		"tw-old": "麥克奧雷的禁忌"
+	},
+	{
+		"enUS": "McAuley's Basis",
+		"tw-new": "麥克奧雷的碎石",
+		"tw-old": "麥克奧雷的碎石"
+	},
+	{
+		"enUS": "McAuley's Pledge",
+		"tw-new": "麥克奧雷的契約",
+		"tw-old": "麥克奧雷的契約"
+	},
+	{
+		"enUS": "McAuley's Folly",
+		"tw-new": "麥克奧雷的愚行",
+		"tw-old": "麥克奧雷的愚行"
+	},
+	{
+		"enUS": "Ghost Liberator",
+		"tw-new": "鬼魂解放者",
+		"tw-old": "鬼魂解放者"
+	},
+	{
+		"enUS": "Wilhelm's Pride",
+		"tw-new": "威廉的自尊",
+		"tw-old": "威廉的自尊"
+	},
+	{
+		"enUS": "Immortal King's Stone Crusher",
+		"tw-new": "不朽之王的碎魂者",
+		"tw-old": "不朽之王的碎魂者"
+	},
+	{
+		"enUS": "Immortal King's Pillar",
+		"tw-new": "不朽之王之柱",
+		"tw-old": "不朽之王之柱"
+	},
+	{
+		"enUS": "Immortal King's Forge",
+		"tw-new": "不朽之王的熔爐",
+		"tw-old": "不朽之王的融爐"
+	},
+	{
+		"enUS": "Immortal King's Detail",
+		"tw-new": "不朽之王的扈從",
+		"tw-old": "不朽之王的瑣事"
+	},
+	{
+		"enUS": "Immortal King's Soul Cage",
+		"tw-new": "不朽之王的靈魂牢籠",
+		"tw-old": "不朽之王的靈魂牢籠"
+	},
+	{
+		"enUS": "Immortal King's Will",
+		"tw-new": "不朽之王的意志",
+		"tw-old": "不朽之王的意志"
+	},
+	{
+		"enUS": "Immortal King",
+		"tw-new": "不朽之王",
+		"tw-old": "不朽之王"
+	},
+	{
+		"enUS": "Aldur's Rhythm",
+		"tw-new": "艾爾多的律動",
+		"tw-old": "艾爾多的律動"
+	},
+	{
+		"enUS": "Korlic the Protector",
+		"tw-new": "保衛者科力克",
+		"tw-old": "科力克的守護者"
+	},
+	{
+		"enUS": "Madawc the Guardian",
+		"tw-new": "守護者馬道克",
+		"tw-old": "馬道克守護者"
+	},
+	{
+		"enUS": "Talic the Defender",
+		"tw-new": "防禦者塔力克",
+		"tw-old": "塔力克防禦者"
+	},
+	{
+		"enUS": "The Butcher",
+		"tw-new": "屠夫",
+		"tw-old": "屠夫"
+	},
+	{
+		"enUS": "The Baker",
+		"tw-new": "烘烤者",
+		"tw-old": "烘烤者"
+	},
+	{
+		"enUS": "The Candlestick Maker",
+		"tw-new": "燭台製作者",
+		"tw-old": "燭台製作者"
+	},
+	{
+		"enUS": "Death Mage",
+		"tw-new": "死亡法師",
+		"tw-old": "死亡法師"
+	},
+	{
+		"enUS": "Festering Appendages",
+		"tw-new": "腐潰觸手",
+		"tw-old": "腐爛的附肢"
+	},
+	{
+		"enUS": "Sander's Superstition",
+		"tw-new": "山德的迷信",
+		"tw-old": "山德的迷信"
+	},
+	{
+		"enUS": "Sander's Taboo",
+		"tw-new": "山德的禁忌",
+		"tw-old": "山德的禁忌"
+	},
+	{
+		"enUS": "Sander's Riprap",
+		"tw-new": "山德的碎石",
+		"tw-old": "山德的碎石"
+	},
+	{
+		"enUS": "Sander's Paragon",
+		"tw-new": "山德的模範",
+		"tw-old": "山德的模範"
+	},
+	{
+		"enUS": "Sander's Folly",
+		"tw-new": "山德的愚行",
+		"tw-old": "山德的愚行"
+	},
+	{
+		"enUS": "Moe",
+		"tw-new": "莫",
+		"tw-old": "莫"
+	},
+
+
+
+
+	{
+		"enUS": "Io Rune",
+		"tw-new": "符文：埃歐",
+		"tw-old": "符文：破"
+	},
+	{
+		"enUS": "Io",
+		"tw-new": "埃歐",
+		"tw-old": "破"
+	},
+	{
+		"enUS": "Shael Rune",
+		"tw-new": "符文：夏",
+		"tw-old": "符文：夏"
+	},
+	{
+		"enUS": "Shael",
+		"tw-new": "夏",
+		"tw-old": "夏"
+	},
+	{
+		"enUS": "Jah Rune",
+		"tw-new": "符文：喬",
+		"tw-old": "符文：喬"
+	},
+	{
+		"enUS": "Jah",
+		"tw-new": "喬",
+		"tw-old": "喬"
+	},
+	{
+		"enUS": "Delirium",
+		"tw-new": "精神錯亂",
+		"tw-old": "迪勒瑞姆"
+	},
+	{
+		"enUS": "Zod Rune",
+		"tw-new": "符文：薩德",
+		"tw-old": "符文：薩德"
+	},
+	{
+		"enUS": "Cham Rune",
+		"tw-new": "符文：查姆",
+		"tw-old": "符文：查姆"
+	},
+	{
+		"enUS": "Ber Rune",
+		"tw-new": "符文：貝",
+		"tw-old": "符文：貝"
+	},
+	{
+		"enUS": "Sur Rune",
+		"tw-new": "符文：瑟",
+		"tw-old": "符文：瑟"
+	},
+	{
+		"enUS": "Lo Rune",
+		"tw-new": "符文：羅",
+		"tw-old": "符文：羅"
+	},
+	{
+		"enUS": "Ohm Rune",
+		"tw-new": "符文：歐姆",
+		"tw-old": "符文：歐姆"
+	},
+	{
+		"enUS": "Vex Rune",
+		"tw-new": "符文：伐克斯",
+		"tw-old": "符文：伐克斯"
+	},
+	{
+		"enUS": "Gul Rune",
+		"tw-new": "符文：古爾",
+		"tw-old": "符文：古爾"
+	},
+	{
+		"enUS": "Ist Rune",
+		"tw-new": "符文：伊司特",
+		"tw-old": "符文：伊司特"
+	},
+	{
+		"enUS": "Mal Rune",
+		"tw-new": "符文：馬爾",
+		"tw-old": "符文：馬爾"
+	},
+	{
+		"enUS": "Um Rune",
+		"tw-new": "符文：烏姆",
+		"tw-old": "符文：烏姆"
+	},
+	{
+		"enUS": "Pul Rune",
+		"tw-new": "符文：普爾",
+		"tw-old": "符文：普爾"
+	},
+	{
+		"enUS": "Lem Rune",
+		"tw-new": "符文：藍姆",
+		"tw-old": "符文：藍姆"
+	},
+	{
+		"enUS": "Fal Rune",
+		"tw-new": "符文：法爾",
+		"tw-old": "符文：法爾"
+	},
+	{
+		"enUS": "Ko Rune",
+		"tw-new": "符文：科",
+		"tw-old": "符文：科"
+	},
+	{
+		"enUS": "Lum Rune",
+		"tw-new": "符文：盧姆",
+		"tw-old": "符文：盧姆"
+	},
+	{
+		"enUS": "Hel Rune",
+		"tw-new": "符文：海爾",
+		"tw-old": "符文：海爾"
+	},
+	{
+		"enUS": "Dol Rune",
+		"tw-new": "符文：多爾",
+		"tw-old": "符文：多爾"
+	},
+	{
+		"enUS": "Sol Rune",
+		"tw-new": "符文：索爾",
+		"tw-old": "符文：索爾"
+	},
+	{
+		"enUS": "Amn Rune",
+		"tw-new": "符文：安姆",
+		"tw-old": "符文：安姆"
+	},
+	{
+		"enUS": "Thul Rune",
+		"tw-new": "符文：書爾",
+		"tw-old": "符文：書爾"
+	},
+	{
+		"enUS": "Ort Rune",
+		"tw-new": "符文：歐特",
+		"tw-old": "符文：歐特"
+	},
+	{
+		"enUS": "Ral Rune",
+		"tw-new": "符文：拉爾",
+		"tw-old": "符文：拉爾"
+	},
+	{
+		"enUS": "Tal Rune",
+		"tw-new": "符文：塔爾",
+		"tw-old": "符文：塔爾"
+	},
+	{
+		"enUS": "Ith Rune",
+		"tw-new": "符文：伊司",
+		"tw-old": "符文：伊司"
+	},
+	{
+		"enUS": "Eth Rune",
+		"tw-new": "符文：愛斯",
+		"tw-old": "符文：愛斯"
+	},
+	{
+		"enUS": "Nef Rune",
+		"tw-new": "符文：那夫",
+		"tw-old": "符文：那夫"
+	},
+	{
+		"enUS": "Tir Rune",
+		"tw-new": "符文：特爾",
+		"tw-old": "符文：特爾"
+	},
+	{
+		"enUS": "Eld Rune",
+		"tw-new": "符文：艾德",
+		"tw-old": "符文：艾德"
+	},
+	{
+		"enUS": "El Rune",
+		"tw-new": "符文：艾爾",
+		"tw-old": "符文：艾爾"
+	},
+	{
+		"enUS": "Zod",
+		"tw-new": "薩德",
+		"tw-old": "薩德"
+	},
+	{
+		"enUS": "Cham",
+		"tw-new": "查姆",
+		"tw-old": "查姆"
+	},
+	{
+		"enUS": "Ber",
+		"tw-new": "貝",
+		"tw-old": "貝"
+	},
+	{
+		"enUS": "Sur",
+		"tw-new": "瑟",
+		"tw-old": "瑟"
+	},
+	{
+		"enUS": "Lo",
+		"tw-new": "羅",
+		"tw-old": "羅"
+	},
+	{
+		"enUS": "Ohm",
+		"tw-new": "歐姆",
+		"tw-old": "歐姆"
+	},
+	{
+		"enUS": "Vex",
+		"tw-new": "伐克斯",
+		"tw-old": "伐克斯"
+	},
+	{
+		"enUS": "Gul",
+		"tw-new": "古爾",
+		"tw-old": "古爾"
+	},
+	{
+		"enUS": "Ist",
+		"tw-new": "伊司特",
+		"tw-old": "伊司特"
+	},
+	{
+		"enUS": "Mal",
+		"tw-new": "馬爾",
+		"tw-old": "馬爾"
+	},
+	{
+		"enUS": "Um",
+		"tw-new": "烏姆",
+		"tw-old": "烏姆"
+	},
+	{
+		"enUS": "Pul",
+		"tw-new": "普爾",
+		"tw-old": "普爾"
+	},
+	{
+		"enUS": "Lem",
+		"tw-new": "藍姆",
+		"tw-old": "藍姆"
+	},
+	{
+		"enUS": "Fal",
+		"tw-new": "法爾",
+		"tw-old": "法爾"
+	},
+	{
+		"enUS": "Ko",
+		"tw-new": "科",
+		"tw-old": "科"
+	},
+	{
+		"enUS": "Lum",
+		"tw-new": "盧姆",
+		"tw-old": "盧姆"
+	},
+	{
+		"enUS": "Hel",
+		"tw-new": "海爾",
+		"tw-old": "海爾"
+	},
+	{
+		"enUS": "Dol",
+		"tw-new": "多爾",
+		"tw-old": "多爾"
+	},
+	{
+		"enUS": "Sol",
+		"tw-new": "索爾",
+		"tw-old": "索爾"
+	},
+	{
+		"enUS": "Amn",
+		"tw-new": "安姆",
+		"tw-old": "安姆"
+	},
+	{
+		"enUS": "Thul",
+		"tw-new": "書爾",
+		"tw-old": "書爾"
+	},
+	{
+		"enUS": "Ort",
+		"tw-new": "歐特",
+		"tw-old": "歐特"
+	},
+	{
+		"enUS": "Ral",
+		"tw-new": "拉爾",
+		"tw-old": "拉爾"
+	},
+	{
+		"enUS": "Tal",
+		"tw-new": "塔爾",
+		"tw-old": "塔爾"
+	},
+	{
+		"enUS": "Ith",
+		"tw-new": "伊司",
+		"tw-old": "伊司"
+	},
+	{
+		"enUS": "Eth",
+		"tw-new": "愛斯",
+		"tw-old": "愛斯"
+	},
+	{
+		"enUS": "Nef",
+		"tw-new": "那夫",
+		"tw-old": "那夫"
+	},
+	{
+		"enUS": "Tir",
+		"tw-new": "特爾",
+		"tw-old": "特爾"
+	},
+	{
+		"enUS": "Eld",
+		"tw-new": "艾德",
+		"tw-old": "艾德"
+	},
+	{
+		"enUS": "El",
+		"tw-new": "艾爾",
+		"tw-old": "艾爾"
+	},
+	{
+		"enUS": "'",
+		"tw-new": "'",
+		"tw-old": ""
+	},
+	{
+		"enUS": "Ancients' Pledge",
+		"tw-new": "先祖之契",
+		"tw-old": "古代人的契約"
+	},
+	{
+		"enUS": "Armageddon",
+		"tw-new": "毀天滅地",
+		"tw-old": "毀天滅地"
+	},
+	{
+		"enUS": "Authority",
+		"tw-new": "權威",
+		"tw-old": "權威"
+	},
+	{
+		"enUS": "Beast",
+		"tw-new": "野獸",
+		"tw-old": "野獸"
+	},
+	{
+		"enUS": "Beauty",
+		"tw-new": "美貌",
+		"tw-old": "美貌"
+	},
+	{
+		"enUS": "Black",
+		"tw-new": "黑錘",
+		"tw-old": "黑色"
+	},
+	{
+		"enUS": "Blood",
+		"tw-new": "鮮血",
+		"tw-old": "血腥"
+	},
+	{
+		"enUS": "Bone",
+		"tw-new": "骸骨",
+		"tw-old": "白骨"
+	},
+	{
+		"enUS": "Bramble",
+		"tw-new": "刺藤",
+		"tw-old": "野薔薇"
+	},
+	{
+		"enUS": "Brand",
+		"tw-new": "烙印",
+		"tw-old": "品牌"
+	},
+	{
+		"enUS": "Breath of the Dying",
+		"tw-new": "死亡呼吸",
+		"tw-old": "死亡呼吸"
+	},
+	{
+		"enUS": "Broken Promise",
+		"tw-new": "破碎誓言",
+		"tw-old": "破碎的誓言"
+	},
+	{
+		"enUS": "Call to Arms",
+		"tw-new": "戰爭召喚",
+		"tw-old": "戰爭召喚"
+	},
+	{
+		"enUS": "Chains of Honor",
+		"tw-new": "榮耀之鍊",
+		"tw-old": "榮耀之鍊"
+	},
+	{
+		"enUS": "Chance",
+		"tw-new": "機會",
+		"tw-old": "機會"
+	},
+	{
+		"enUS": "Chaos",
+		"tw-new": "混沌",
+		"tw-old": "沌頓"
+	},
+	{
+		"enUS": "Crescent Moon",
+		"tw-new": "新月",
+		"tw-old": "新月"
+	},
+	{
+		"enUS": "Darkness",
+		"tw-new": "黑暗",
+		"tw-old": "黑暗"
+	},
+	{
+		"enUS": "Daylight",
+		"tw-new": "白晝",
+		"tw-old": "白天"
+	},
+	{
+		"enUS": "Death",
+		"tw-new": "死神",
+		"tw-old": "死神"
+	},
+	{
+		"enUS": "Deception",
+		"tw-new": "欺暪",
+		"tw-old": "欺暪"
+	},
+	{
+		"enUS": "Desire",
+		"tw-new": "渴望",
+		"tw-old": "渴望"
+	},
+	{
+		"enUS": "Despair",
+		"tw-new": "絕望",
+		"tw-old": "失望"
+	},
+	{
+		"enUS": "Destruction",
+		"tw-new": "毀滅",
+		"tw-old": "毀滅"
+	},
+	{
+		"enUS": "Doom",
+		"tw-new": "末日",
+		"tw-old": "末日"
+	},
+	{
+		"enUS": "Dragon",
+		"tw-new": "飛龍",
+		"tw-old": "飛龍"
+	},
+	{
+		"enUS": "Dread",
+		"tw-new": "恐懼",
+		"tw-old": "恐懼"
+	},
+	{
+		"enUS": "Dream",
+		"tw-new": "夢境",
+		"tw-old": "夢境"
+	},
+	{
+		"enUS": "Duress",
+		"tw-new": "強制",
+		"tw-old": "強制"
+	},
+	{
+		"enUS": "Edge",
+		"tw-new": "邊緣",
+		"tw-old": "邊緣"
+	},
+	{
+		"enUS": "Elation",
+		"tw-new": "興高彩烈",
+		"tw-old": "興高彩烈"
+	},
+	{
+		"enUS": "Enigma",
+		"tw-new": "謎團",
+		"tw-old": "謎團"
+	},
+	{
+		"enUS": "Enlightenment",
+		"tw-new": "教化",
+		"tw-old": "教化"
+	},
+	{
+		"enUS": "Envy",
+		"tw-new": "羨慕",
+		"tw-old": "羨慕"
+	},
+	{
+		"enUS": "Eternity",
+		"tw-new": "永恆",
+		"tw-old": "永恆"
+	},
+	{
+		"enUS": "Exile",
+		"tw-new": "流亡",
+		"tw-old": "流亡"
+	},
+	{
+		"enUS": "Faith",
+		"tw-new": "信心",
+		"tw-old": "信心"
+	},
+	{
+		"enUS": "Famine",
+		"tw-new": "饑荒",
+		"tw-old": "饑荒"
+	},
+	{
+		"enUS": "Flickering Flame",
+		"tw-new": "閃爍火焰",
+		"tw-old": "火焰"
+	},
+	{
+		"enUS": "Fortitude",
+		"tw-new": "剛毅",
+		"tw-old": "剛毅"
+	},
+	{
+		"enUS": "Fortune",
+		"tw-new": "機運",
+		"tw-old": "幸運"
+	},
+	{
+		"enUS": "Friendship",
+		"tw-new": "友情",
+		"tw-old": "友情"
+	},
+	{
+		"enUS": "Fury",
+		"tw-new": "狂怒",
+		"tw-old": "狂怒"
+	},
+	{
+		"enUS": "Gloom",
+		"tw-new": "幽暗",
+		"tw-old": "幽暗"
+	},
+	{
+		"enUS": "Glory",
+		"tw-new": "榮譽",
+		"tw-old": "榮譽"
+	},
+	{
+		"enUS": "Grief",
+		"tw-new": "悔恨",
+		"tw-old": "悔恨"
+	},
+	{
+		"enUS": "Hand of Justice",
+		"tw-new": "正義之手",
+		"tw-old": "正義之手"
+	},
+	{
+		"enUS": "Harmony",
+		"tw-new": "和諧",
+		"tw-old": "和諧"
+	},
+	{
+		"enUS": "Hatred",
+		"tw-new": "憎恨",
+		"tw-old": "憎恨"
+	},
+	{
+		"enUS": "Heart of the Oak",
+		"tw-new": "橡樹之心",
+		"tw-old": "橡樹之心"
+	},
+	{
+		"enUS": "Heaven's Will",
+		"tw-new": "天堂意志",
+		"tw-old": "天堂的意識"
+	},
+	{
+		"enUS": "Holy Tears",
+		"tw-new": "神聖之淚",
+		"tw-old": "神聖之淚"
+	},
+	{
+		"enUS": "Holy Thunder",
+		"tw-new": "神聖雷擊",
+		"tw-old": "神聖雷擊"
+	},
+	{
+		"enUS": "Honor",
+		"tw-new": "榮耀",
+		"tw-old": "榮耀"
+	},
+	{
+		"enUS": "Revenge",
+		"tw-new": "報復",
+		"tw-old": "復仇"
+	},
+	{
+		"enUS": "Humility",
+		"tw-new": "謙恭",
+		"tw-old": "謙恭"
+	},
+	{
+		"enUS": "Hunger",
+		"tw-new": "飢餓",
+		"tw-old": "飢餓"
+	},
+	{
+		"enUS": "Ice",
+		"tw-new": "寒冰",
+		"tw-old": "冰凍"
+	},
+	{
+		"enUS": "Infinity",
+		"tw-new": "無限",
+		"tw-old": "無限"
+	},
+	{
+		"enUS": "Innocence",
+		"tw-new": "純真",
+		"tw-old": "純潔"
+	},
+	{
+		"enUS": "Insight",
+		"tw-new": "靈光",
+		"tw-old": "眼光"
+	},
+	{
+		"enUS": "Jealousy",
+		"tw-new": "妒忌",
+		"tw-old": "妒忌"
+	},
+	{
+		"enUS": "Judgement",
+		"tw-new": "審判",
+		"tw-old": "審判"
+	},
+	{
+		"enUS": "King's Grace",
+		"tw-new": "王者的慈悲",
+		"tw-old": "王者的慈悲"
+	},
+	{
+		"enUS": "Kingslayer",
+		"tw-new": "弒王者",
+		"tw-old": "弒王者"
+	},
+	{
+		"enUS": "Knight's Vigil",
+		"tw-new": "騎士守望",
+		"tw-old": "騎士的警戒"
+	},
+	{
+		"enUS": "Knowledge",
+		"tw-new": "學識",
+		"tw-old": "知識"
+	},
+	{
+		"enUS": "Last Wish",
+		"tw-new": "最後遺願",
+		"tw-old": "最後希望"
+	},
+	{
+		"enUS": "Law",
+		"tw-new": "律法",
+		"tw-old": "法律"
+	},
+	{
+		"enUS": "Lawbringer",
+		"tw-new": "執法者",
+		"tw-old": "執法者"
+	},
+	{
+		"enUS": "Leaf",
+		"tw-new": "葉子",
+		"tw-old": "葉子"
+	},
+	{
+		"enUS": "Lightning",
+		"tw-new": "閃電",
+		"tw-old": "閃電"
+	},
+	{
+		"enUS": "Lionheart",
+		"tw-new": "獅子心",
+		"tw-old": "獅子心"
+	},
+	{
+		"enUS": "Lore",
+		"tw-new": "知識",
+		"tw-old": "知識"
+	},
+	{
+		"enUS": "Love",
+		"tw-new": "愛情",
+		"tw-old": "愛情"
+	},
+	{
+		"enUS": "Loyalty",
+		"tw-new": "忠誠",
+		"tw-old": "忠誠"
+	},
+	{
+		"enUS": "Lust",
+		"tw-new": "慾望",
+		"tw-old": "慾望"
+	},
+	{
+		"enUS": "Madness",
+		"tw-new": "瘋狂",
+		"tw-old": "瘋狂"
+	},
+	{
+		"enUS": "Malice",
+		"tw-new": "怨恨",
+		"tw-old": "怨恨"
+	},
+	{
+		"enUS": "Melody",
+		"tw-new": "旋律",
+		"tw-old": "旋律"
+	},
+	{
+		"enUS": "Memory",
+		"tw-new": "記憶",
+		"tw-old": "記憶"
+	},
+	{
+		"enUS": "Mist",
+		"tw-new": "迷霧",
+		"tw-old": "迷霧"
+	},
+	{
+		"enUS": "Morning",
+		"tw-new": "清晨",
+		"tw-old": "早晨"
+	},
+	{
+		"enUS": "Mystery",
+		"tw-new": "神秘",
+		"tw-old": "神秘"
+	},
+	{
+		"enUS": "Myth",
+		"tw-new": "神話",
+		"tw-old": "神話"
+	},
+	{
+		"enUS": "Nadir",
+		"tw-new": "天底",
+		"tw-old": "天底"
+	},
+	{
+		"enUS": "Nature's Kingdom",
+		"tw-new": "自然王國",
+		"tw-old": "天然的王國"
+	},
+	{
+		"enUS": "Night",
+		"tw-new": "夜晚",
+		"tw-old": "夜晚"
+	},
+	{
+		"enUS": "Oath",
+		"tw-new": "誓約",
+		"tw-old": "誓約"
+	},
+	{
+		"enUS": "Obedience",
+		"tw-new": "遵從",
+		"tw-old": "遵從"
+	},
+	{
+		"enUS": "Oblivion",
+		"tw-new": "湮沒",
+		"tw-old": "湮沒"
+	},
+	{
+		"enUS": "Obsession",
+		"tw-new": "執念",
+		"tw-old": "著魔"
+	},
+	{
+		"enUS": "Passion",
+		"tw-new": "熱情",
+		"tw-old": "熱情"
+	},
+	{
+		"enUS": "Patience",
+		"tw-new": "耐心",
+		"tw-old": "忍耐"
+	},
+	{
+		"enUS": "Pattern",
+		"tw-new": "圖紋",
+		"tw-old": "啪噠"
+	},
+	{
+		"enUS": "Peace",
+		"tw-new": "和平",
+		"tw-old": "和平"
+	},
+	{
+		"enUS": "Voice of Reason",
+		"tw-new": "理性之聲",
+		"tw-old": "思考之聲"
+	},
+	{
+		"enUS": "Penitence",
+		"tw-new": "懺悔",
+		"tw-old": "懺悔"
+	},
+	{
+		"enUS": "Peril",
+		"tw-new": "危害",
+		"tw-old": "危害"
+	},
+	{
+		"enUS": "Pestilence",
+		"tw-new": "疫病",
+		"tw-old": "疫病"
+	},
+	{
+		"enUS": "Phoenix",
+		"tw-new": "鳳凰",
+		"tw-old": "鳳凰"
+	},
+	{
+		"enUS": "Piety",
+		"tw-new": "虔誠",
+		"tw-old": "虔誠"
+	},
+	{
+		"enUS": "Pillar of Faith",
+		"tw-new": "信念之柱",
+		"tw-old": "信念之柱"
+	},
+	{
+		"enUS": "Plague",
+		"tw-new": "瘟疫",
+		"tw-old": "瘟疫"
+	},
+	{
+		"enUS": "Praise",
+		"tw-new": "頌揚",
+		"tw-old": "頌揚"
+	},
+	{
+		"enUS": "Prayer",
+		"tw-new": "祈禱",
+		"tw-old": "祈禱"
+	},
+	{
+		"enUS": "Pride",
+		"tw-new": "驕傲",
+		"tw-old": "驕傲"
+	},
+	{
+		"enUS": "Principle",
+		"tw-new": "原則",
+		"tw-old": "原理"
+	},
+	{
+		"enUS": "Prowess in Battle",
+		"tw-new": "勇戰之力",
+		"tw-old": "戰鬥中的勇氣"
+	},
+	{
+		"enUS": "Prudence",
+		"tw-new": "謹慎",
+		"tw-old": "謹重"
+	},
+	{
+		"enUS": "Punishment",
+		"tw-new": "懲罰",
+		"tw-old": "懲罰"
+	},
+	{
+		"enUS": "Purity",
+		"tw-new": "純潔",
+		"tw-old": "純潔"
+	},
+	{
+		"enUS": "Question",
+		"tw-new": "疑問",
+		"tw-old": "疑問"
+	},
+	{
+		"enUS": "Radiance",
+		"tw-new": "光輝",
+		"tw-old": "光輝"
+	},
+	{
+		"enUS": "Rain",
+		"tw-new": "降雨",
+		"tw-old": "降雨"
+	},
+	{
+		"enUS": "Reason",
+		"tw-new": "理由",
+		"tw-old": "理由"
+	},
+	{
+		"enUS": "Red",
+		"tw-new": "鮮紅",
+		"tw-old": "鮮紅"
+	},
+	{
+		"enUS": "Rhyme",
+		"tw-new": "聲韻",
+		"tw-old": "押韻"
+	},
+	{
+		"enUS": "Rift",
+		"tw-new": "裂隙",
+		"tw-old": "裂縫"
+	},
+	{
+		"enUS": "Sanctuary",
+		"tw-new": "聖堂",
+		"tw-old": "聖堂"
+	},
+	{
+		"enUS": "Serendipity",
+		"tw-new": "機緣",
+		"tw-old": "奇遇"
+	},
+	{
+		"enUS": "Shadow",
+		"tw-new": "暗影",
+		"tw-old": "影子"
+	},
+	{
+		"enUS": "Shadow of Doubt",
+		"tw-new": "懷疑之影",
+		"tw-old": "懷疑之影"
+	},
+	{
+		"enUS": "Silence",
+		"tw-new": "寂靜",
+		"tw-old": "寂靜"
+	},
+	{
+		"enUS": "Siren's Song",
+		"tw-new": "賽蓮之歌",
+		"tw-old": "賽連之歌"
+	},
+	{
+		"enUS": "Smoke",
+		"tw-new": "煙霧",
+		"tw-old": "煙霧"
+	},
+	{
+		"enUS": "Sorrow",
+		"tw-new": "哀傷",
+		"tw-old": "哀傷"
+	},
+	{
+		"enUS": "Spirit",
+		"tw-new": "精神",
+		"tw-old": "精神"
+	},
+	{
+		"enUS": "Splendor",
+		"tw-new": "燦爛",
+		"tw-old": "燦爛"
+	},
+	{
+		"enUS": "Starlight",
+		"tw-new": "星光",
+		"tw-old": "星光"
+	},
+	{
+		"enUS": "Stealth",
+		"tw-new": "隱密",
+		"tw-old": "隱密"
+	},
+	{
+		"enUS": "Steel",
+		"tw-new": "鋼鐵",
+		"tw-old": "鋼鐵"
+	},
+	{
+		"enUS": "Still Water",
+		"tw-new": "寂靜之水",
+		"tw-old": "寂靜之水"
+	},
+	{
+		"enUS": "Sting",
+		"tw-new": "螫刺",
+		"tw-old": "刺傷"
+	},
+	{
+		"enUS": "Stone",
+		"tw-new": "石塊",
+		"tw-old": "石塊"
+	},
+	{
+		"enUS": "Storm",
+		"tw-new": "風暴",
+		"tw-old": "風暴"
+	},
+	{
+		"enUS": "Strength",
+		"tw-new": "力量",
+		"tw-old": "力量"
+	},
+	{
+		"enUS": "Tempest",
+		"tw-new": "暴風雨",
+		"tw-old": "暴風雨"
+	},
+	{
+		"enUS": "Temptation",
+		"tw-new": "誘惑",
+		"tw-old": "誘惑"
+	},
+	{
+		"enUS": "Terror",
+		"tw-new": "恐佈",
+		"tw-old": "恐佈"
+	},
+	{
+		"enUS": "Thirst",
+		"tw-new": "飢渴",
+		"tw-old": "飢餓"
+	},
+	{
+		"enUS": "Thought",
+		"tw-new": "思維",
+		"tw-old": "思維"
+	},
+	{
+		"enUS": "Thunder",
+		"tw-new": "雷霆",
+		"tw-old": "雷電"
+	},
+	{
+		"enUS": "Time",
+		"tw-new": "時間",
+		"tw-old": "時間"
+	},
+	{
+		"enUS": "Tradition",
+		"tw-new": "傳統",
+		"tw-old": "傳統"
+	},
+	{
+		"enUS": "Treachery",
+		"tw-new": "背信",
+		"tw-old": "背信"
+	},
+	{
+		"enUS": "Trust",
+		"tw-new": "信任",
+		"tw-old": "信任"
+	},
+	{
+		"enUS": "Truth",
+		"tw-new": "真理",
+		"tw-old": "真實"
+	},
+	{
+		"enUS": "Unbending Will",
+		"tw-new": "不屈意志",
+		"tw-old": "堅定意志"
+	},
+	{
+		"enUS": "Valor",
+		"tw-new": "英勇",
+		"tw-old": "英勇"
+	},
+	{
+		"enUS": "Vengeance",
+		"tw-new": "復仇",
+		"tw-old": "復仇"
+	},
+	{
+		"enUS": "Venom",
+		"tw-new": "劇毒",
+		"tw-old": "毒牙"
+	},
+	{
+		"enUS": "Victory",
+		"tw-new": "勝利",
+		"tw-old": "勝利"
+	},
+	{
+		"enUS": "Voice",
+		"tw-new": "聲音",
+		"tw-old": "聲音"
+	},
+	{
+		"enUS": "Void",
+		"tw-new": "虛無",
+		"tw-old": "虛無之"
+	},
+	{
+		"enUS": "War",
+		"tw-new": "戰爭",
+		"tw-old": "戰爭"
+	},
+	{
+		"enUS": "Water",
+		"tw-new": "清水",
+		"tw-old": "清水"
+	},
+	{
+		"enUS": "Wealth",
+		"tw-new": "財富",
+		"tw-old": "財富"
+	},
+	{
+		"enUS": "Whisper",
+		"tw-new": "低語",
+		"tw-old": "低語"
+	},
+	{
+		"enUS": "White",
+		"tw-new": "蒼白",
+		"tw-old": "白色"
+	},
+	{
+		"enUS": "Wind",
+		"tw-new": "輕風",
+		"tw-old": "輕風"
+	},
+	{
+		"enUS": "Wings of Hope",
+		"tw-new": "希望之翼",
+		"tw-old": "希望之翼"
+	},
+	{
+		"enUS": "Wisdom",
+		"tw-new": "智慧",
+		"tw-old": "智慧"
+	},
+	{
+		"enUS": "Woe",
+		"tw-new": "悲痛",
+		"tw-old": "悲痛"
+	},
+	{
+		"enUS": "Wonder",
+		"tw-new": "驚奇",
+		"tw-old": "驚奇"
+	},
+	{
+		"enUS": "Wrath",
+		"tw-new": "憤怒",
+		"tw-old": "憤怒"
+	},
+	{
+		"enUS": "Youth",
+		"tw-new": "年輕",
+		"tw-old": "年輕"
+	},
+	{
+		"enUS": "Zephyr",
+		"tw-new": "和風",
+		"tw-old": "和風"
+	}
+]
