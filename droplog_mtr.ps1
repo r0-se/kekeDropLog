@@ -106,7 +106,7 @@ function Get-Mod-Translation {
             return Get-Mod-Translation -original "$pre $($s.en) $post".Trim()
         }
     }
-
+    
     foreach ($s in $regexmaps) {
         if ($original -match $s.cn) {
             $result = $s.en
@@ -296,6 +296,8 @@ function Watch-Folder {
                 $AmountofNewItems = $compare - $($o.ItemCount)
                 $loopervar = $($o.ItemCount)
                 $o.ItemCount = (get-itemcount -Path $o.Path)
+                #regex map refresh here while workingon it so that dont have to restart script for changes
+                $global:regexmaps = Import-Csv $PSScriptRoot\regex.txt -Delimiter ";" -Header cn,en
                 write-verbose -message "$($o.name) has changed with $AmountofNewItems var is $loopervar and $compare"
                 for ($loopervar; $loopervar -lt $compare; $loopervar++) {
                     Write-verbose -Message "lets get $($o.Path) -Index $loopervar"
