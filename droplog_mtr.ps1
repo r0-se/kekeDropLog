@@ -1,28 +1,19 @@
-﻿Get-Content "$PSScriptRoot\config.ini" | foreach-object -begin {$h=@{}} -process { $k = [regex]::split($_,'='); if(($k[0].CompareTo("") -ne 0) -and ($k[0].StartsWith("[") -ne $True)) { $h.Add($k[0], $k[1]) } }
-
-$Path = $h.Get_Item("savepath")
-$hookurl = $h.Get_Item("hookurl")
-
-$IgnoreItems = @('Tir Rune', 'Ko Rune', 'Ral Rune', 'Ort Rune', 'Nef Rune', 'Sol Rune', 'Hel Rune', 'Lem Rune', 'Amn Rune', 'Tal Rune', 'Thul Rune')
-$magic_exceptions= @('銳利之斧')
-
-$dict_source = "https://gist.githubusercontent.com/r0-se/4f72452ac805fde9ff018df81867b49d/raw"
-$dict_file = "twdict.txt"
-
-$DiscColor=@{
-    "white" = 16777215;
-    "gold" = 13351039; 
-    "green" = 65280;
+﻿$DiscColor = @{
+    "white"  = 16777215;
+    "gold"   = 13351039; 
+    "green"  = 65280;
     "yellow" = 15658613;
-    "blue" = 8421619;
+    "blue"   = 8421619;
     "orange" = 15628803;
-    "grey" = 5592405;
+    "grey"   = 5592405;
 }
+$IgnoreItems = @('Tir Rune', 'Ko Rune', 'Ral Rune', 'Ort Rune', 'Nef Rune', 'Sol Rune', 'Hel Rune', 'Lem Rune', 'Amn Rune', 'Tal Rune', 'Thul Rune')
+$magic_exceptions = @('銳利之斧')
 function Get-rare-item {
     param([string]$name)
     $splitted = $name.split(" ")
 
-    if($splitted.Count -eq 2) {
+    if ($splitted.Count -eq 2) {
         if ($prefix_rare.cn.Contains($splitted[0]) -and $suffix_rare.cn.Contains($splitted[1])) {
             return ($prefix_rare | Where-Object CN -eq $splitted[0]).en + " " + ($suffix_rare | Where-Object CN -eq $splitted[1]).en
         }
@@ -34,15 +25,15 @@ function Get-magic-item {
     param([string]$name)
     $splitted = $name.split(" ")
     
-    if($splitted.Count -eq 1) {
+    if ($splitted.Count -eq 1) {
         #stupid workaround for itemnames which match <prefix><type> but are actually white
-        if($magic_exceptions.Contains($name)){
+        if ($magic_exceptions.Contains($name)) {
             break
         }
 
         #this is for names in the form "<prefix><type>" - NOT separated by a space
         #example 魚叉手之超大型護身符 harpoonists(魚叉手之) grand charm(超大型護身符)
-        foreach($prefix in $prefix_magic){
+        foreach ($prefix in $prefix_magic) {
             if ($name.StartsWith($prefix.cn)) {
                 $splitted = $name.insert($prefix.cn.length, ' ').split(" ")
                 break
@@ -50,16 +41,16 @@ function Get-magic-item {
         }
 
         #example 小護身符幸運 small charm (小護身符) of luck(幸運)
-        foreach($suffix in $suffix_magic){
+        foreach ($suffix in $suffix_magic) {
             if ($name.EndsWith($suffix.cn)) {
                 #also turns around the order so this is processed by the translation later
-                $splitted = ($suffix.cn, $name.Substring(0,$name.length-$suffix.cn.length))
+                $splitted = ($suffix.cn, $name.Substring(0, $name.length - $suffix.cn.length))
                 break
             }
         }
     }
 
-    if($splitted.Count -eq 2) {
+    if ($splitted.Count -eq 2) {
         #this is for names in the form "<prefix> <type>" - separated by a space
         if ($prefix_magic.cn.Contains($splitted[0])) {
             $type = Get-Name-Translation -original $splitted[1]
@@ -70,14 +61,14 @@ function Get-magic-item {
         #this is for names in the form "<suffix> <type>" - separated by a space -> not sure if that even happens naturally anymore
         if ($suffix_magic.cn.Contains($splitted[0])) {
             $type = Get-Name-Translation -original $splitted[1]
-            $current_suffix = ($suffix_magic | Where-Object cn -eq $splitted[0]| Select-Object -Last 1).en 
+            $current_suffix = ($suffix_magic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en 
             return "$type $current_suffix"
         }
     }
 
     #this is for names in the form "<suffix> <suffix> <type>" - separated by a space; this is weird yo
     #example 火光之 品質的 超大型護身符 sparking(火光之) of quality(品質的) grand charm(超大型護身符)
-    if($splitted.Count -eq 3) {
+    if ($splitted.Count -eq 3) {
         if ($prefix_magic.cn.Contains($splitted[0]) -and $suffix_magic.cn.Contains($splitted[1])) {
             $type = Get-Name-Translation -original $splitted[2]
             $current_prefix = ($prefix_magic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en
@@ -90,7 +81,7 @@ function Get-magic-item {
 function Get-Mod-Translation {
     param([string]$original)
 
-    if (-not (test-chinese-chars -string $original)){
+    if (-not (test-chinese-chars -string $original)) {
         return $original
     }
 
@@ -98,15 +89,16 @@ function Get-Mod-Translation {
     foreach ($s in $staticmaps) {
         if ($original.Contains($s.cn)) {
             $pre = Get-Name-Translation -original $original.Substring(0, $original.IndexOf($s.cn)).Trim()
-            $post = Get-Name-Translation -original $original.Substring($original.IndexOf($s.cn)+($s.cn.length)).Trim()
+            $post = Get-Name-Translation -original $original.Substring($original.IndexOf($s.cn) + ($s.cn.length)).Trim()
             return Get-Mod-Translation -original "$pre $($s.en) $post".Trim()
         }
     }
     
     foreach ($s in $regexmaps) {
+        Write-verbose "Checking $original vs $s.cn"
         if ($original -match $s.cn) {
             $result = $s.en
-            for($i=1;$i -lt $Matches.count;$i++) {
+            for ($i = 1; $i -lt $Matches.count; $i++) {
                 $result = $result -replace "\{$($i-1)\}", $Matches[$i]
             }
             return $result
@@ -123,7 +115,7 @@ function Get-Name-Translation {
     foreach ($s in $staticmaps) {
         if ($original.Contains($s.cn)) {
             $pre = Get-Name-Translation -original $original.Substring(0, $original.IndexOf($s.cn)).Trim()
-            $post = Get-Name-Translation -original $original.Substring($original.IndexOf($s.cn)+($s.cn.length)).Trim()
+            $post = Get-Name-Translation -original $original.Substring($original.IndexOf($s.cn) + ($s.cn.length)).Trim()
             return "$pre $($s.en) $post".Trim()
         }
     }
@@ -154,32 +146,35 @@ function itemintoobj {
 
     if ($item -match '.*(?=\d{4}\/)') {
         $returnItem.Name = $matches[0]
-        if($returnItem.Name.StartsWith("符文：")) {
+        if ($returnItem.Name.StartsWith("符文：")) {
             $returnItem.Color = $DiscColor.orange
         }
         $magic = Get-magic-item -name $returnItem.Name
         if ($magic) {
             $returnItem.Color = $DiscColor.blue
             $returnItem.NameEN = $magic
-        } else {
+        }
+        else {
             $returnItem.NameEN = Get-Name-Translation -original $returnItem.Name
         }
     }
 
     if ($item -match '(?<=\d{4}\/\d{2}\/\d{2} \d{2}:\d{2})[\s\S]*') {
-        $returnItem.Mods = New-Object System.Collections.ArrayList(,$matches[0].split("`n"))
+        $returnItem.Mods = New-Object System.Collections.ArrayList(, $matches[0].split("`n"))
         $returnItem.Mods.Reverse()
         
         #this happens for set items and maybe uniques (e.g. Tal Rashas Education - Amulet)
         #happens also for rare.. maybe blue
         # $returnItem.Mods[0] <-- name
         # $returnItem.Mods[1] <-- type
-        if ($returnItem.Name -eq $returnItem.Mods[1]+$returnItem.Mods[0]){
+        if ($returnItem.Name -eq $returnItem.Mods[1] + $returnItem.Mods[0]) {
             $rare = Get-rare-item -name $returnItem.Mods[0]
             if ($rare) {
                 $returnItem.NameEN = $rare
                 $returnItem.Color = $DiscColor.yellow
-            } else {
+            }
+            else {
+                "Setting color to gold"
                 $returnItem.Color = $DiscColor.gold
                 $returnItem.NameEN = Get-Name-Translation -original $returnItem.Mods[0]
             }
@@ -188,28 +183,30 @@ function itemintoobj {
         $returnItem.Mods.RemoveAt(0)
 
 
-        for($i=0;$i -lt $returnItem.mods.count;$i++){
-            if($returnItem.mods[$i] -eq ""){
+        for ($i = 0; $i -lt $returnItem.mods.count; $i++) {
+            if ($returnItem.mods[$i] -eq "") {
                 #kills set summary
                 $returnItem.Color = $DiscColor.green
-                $returnItem.mods.RemoveRange($i,$returnItem.mods.count-$i)
+                $returnItem.mods.RemoveRange($i, $returnItem.mods.count - $i)
                 break;
             }
 
             #handle the first line of mods
-            if($i -eq 0) {
+            if ($i -eq 0) {
                 #non named items (white blue yellow grey) have def or damage in the first line
-                if (($returnItem.mods[$i].StartsWith("雙手傷害：") -or $returnItem.mods[$i].StartsWith("防禦：") -or $returnItem.mods[$i].StartsWith("單手傷害："))){
-                    if ($returnItem.color -ne $DiscColor.blue -and $returnItem.color -ne $DiscColor.blue){
+                if (($returnItem.mods[$i].StartsWith("雙手傷害：") -or $returnItem.mods[$i].StartsWith("防禦：") -or $returnItem.mods[$i].StartsWith("單手傷害："))) {
+                    if ($returnItem.color -ne $DiscColor.blue -and $returnItem.color -ne $DiscColor.blue) {
                         $returnItem.Color = $DiscColor.white
                     }
                     $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i]))
-                } else {
+                }
+                else {
                     #colored item have itemtype as first attribute -> translate as name
                     $returnItem.ModsEN.Add((Get-Name-Translation -original $returnItem.mods[$i]))
                 }
                 
-            } else {
+            }
+            else {
                 #normal mod
                 $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i]))
             }
@@ -263,7 +260,7 @@ function Watch-Folder {
         Exit -1    
     }
 
-    write-host "Monitoring folders"
+    
     $mons = @()
     foreach ($c in $currentsize) {
         #had this match to ignore lvling accounts and only match mfers at one point like -match 'account1@email|account2@email.com'
@@ -274,12 +271,13 @@ function Watch-Folder {
                 Length    = $c.length
                 ItemCount = (get-itemcount -Path $c.PSPath)
             }
+            write-host "Adding $($obj.name) at $($obj.path.replace("Microsoft.PowerShell.Core\FileSystem::",'')) to monitor"
         
             $mons += $obj
         }
     }
-    
-    Write-Verbose "starting loop"
+
+    write-host "Starting monitor loop.. all should be well (:"
 
     while ($true) {
         Start-Sleep 5
@@ -293,7 +291,7 @@ function Watch-Folder {
                 $loopervar = $($o.ItemCount)
                 $o.ItemCount = (get-itemcount -Path $o.Path)
                 #regex map refresh here while workingon it so that dont have to restart script for changes
-                $global:regexmaps = Import-Csv $PSScriptRoot\regex.txt -Delimiter ";" -Header cn,en
+                $global:regexmaps = Import-Csv $PSScriptRoot\regex.txt -Delimiter ";" -Header cn, en
                 write-verbose -message "$($o.name) has changed with $AmountofNewItems var is $loopervar and $compare"
                 for ($loopervar; $loopervar -lt $compare; $loopervar++) {
                     Write-verbose -Message "lets get $($o.Path) -Index $loopervar"
@@ -332,21 +330,21 @@ function sendToWebhook {
     $name = $name.split("@")[0]
     $description = ""
     $title += "$($item.nameEN)`n"
-    for ($i=0;$i -lt $item.mods.length;$i++) {
-        if($i -eq 0){
-            $description+="`n"
+    for ($i = 0; $i -lt $item.mods.length; $i++) {
+        if ($i -eq 0) {
+            $description += "`n"
         }
-        $description+= $item.modsEN[$i]+"`n"
+        $description += $item.modsEN[$i] + "`n"
     }
     $description += "*$name $($item.Timestamp)*"
 
     #https://birdie0.github.io/discord-webhooks-guide/structure/embeds.html
     $payload = [PSCustomObject]@{
         embeds = @([PSCustomObject]@{
-            color = $item.Color
-            title = $title
-            description = $description
-        })
+                color       = $item.Color
+                title       = $title
+                description = $description
+            })
     }
     Invoke-RestMethod -Uri $hookUrl -Method Post -Body ($payload | ConvertTo-Json) -ContentType 'application/json; charset=utf-8' 
 }
@@ -358,28 +356,81 @@ Function Show-Item {
 }
 
 function helper {
+    $exit = $false
+    $requiredfiles = @(
+        "files\prefix_magic.txt",
+        "files\prefix_rare.txt",
+        "files\regex.txt",
+        "files\static-name.txt",
+        "files\suffix_magic.txt",
+        "files\suffix_rare.txt",
+        "files\twdict.txt"
+    )
     if ($PSVersionTable.PSVersion -le 7.1) {
-        return "This powershell version is too old! You need 7+" 
-    }
+        "This powershell version is too old! You need 7+" 
+        if ((Test-Path ("$env:programfiles\PowerShell\7\pwsh.exe"))) {
+            "Found newer powershell attempting to restart with it..."
+            $CommandLine = "-File `"" + $MyInvocation.ScriptName + "`" "
+            Start-Process -FilePath "$env:programfiles\PowerShell\7\pwsh.exe" -ArgumentList $CommandLine
+            write-host "Started with correct powershell version... closing in 5sec"
+            Start-Sleep 5
+            exit
+        }
+        else {
+            Write-host "You need a modern powershell to run this script`ndownload and rerun this script`nhttps://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3"
+            read-host "press enter to exit"
+            exit
 
-    if ($null -eq (Get-ChildItem $PSScriptRoot\$dict_file -ErrorAction SilentlyContinue)) {
-        Write-Warning "The translation file does not exist -> trying to download"
-        try {
-            invoke-RestMethod $dict_source -OutFile $dict_file
-        }
-        catch {
-            Write-Warning "Download seems to have failed -> terminating"
-            Exit -1
         }
     }
+    #Check that we havee required files
+    foreach ($file in $requiredfiles) {
+        if (-not (Test-Path $file)) {
+            "$file is missing!"
+            $exit = $true
+        }
+    }
+    #Try to initialize the variables
+    try {
+        $tw_dict = Get-Content $PSScriptRoot\files\twdict.txt -raw | ConvertFrom-Json
+        $global:staticmaps = Import-Csv $PSScriptRoot\files\static-name.txt -Header cn, en
+        $global:regexmaps = Import-Csv $PSScriptRoot\files\regex.txt -Delimiter ";" -Header cn, en
+        $global:prefix_rare = Import-Csv $PSScriptRoot\files\prefix_rare.txt -Header cn, en 
+        $global:suffix_rare = Import-Csv $PSScriptRoot\files\suffix_rare.txt -Header cn, en 
+        $global:prefix_magic = Import-Csv $PSScriptRoot\files\prefix_magic.txt -Header cn, en 
+        $global:suffix_magic = Import-Csv $PSScriptRoot\files\suffix_magic.txt -Header cn, en 
+    }
+    catch {
+        #Add some error msgs verbose peerhaps
+        write-host "Could not setup variables!"
+        Write-Host $_
+        $exit = $true
+    }
+    if ($exit) { 
+        Read-host "Could not start the script because of above issues, press enter key to exit"
+        exit
+    }
+    #Lets try to parse config.ini
+    if (-not (Test-path $psscriptroot\config.ini)) {
+        Write-Host "No config file found, lets create one..in"
+        New-Item -ItemType File "$psscriptroot\config.ini"
+        "[General]" | Out-File -FilePath "$psscriptroot\config.ini"
+        $url = Read-Host Enter your webhook URL
+        "hookurl=$url" | Out-File -FilePath "$psscriptroot\config.ini" -Append
+        $savepath = Read-Host Enter your savepath
+        "savepath=$savepath"  | Out-File -FilePath "$psscriptroot\config.ini" -Append
+    }
+    Get-Content "$PSScriptRoot\config.ini" | foreach-object -begin { $h = @{} } -process { $k = [regex]::split($_, '='); if (($k[0].CompareTo("") -ne 0) -and ($k[0].StartsWith("[") -ne $True)) { $h.Add($k[0], $k[1]) } } -ErrorAction SilentlyContinue
+    $Path = $h.Get_Item("savepath")
+    $hookurl = $h.Get_Item("hookurl")
+    #check if config has actual values
+    if (-not $path -or -not $hookurl)
+    {
+        write-host "config.ini is broken please fix!"
+        read-host 
+        exit
+    }
+    Write-host "Starting droplog monitoring`npath=$path`nurl=$hookurl"
+    Watch-Folder $path
 }
-
-$tw_dict = Get-Content $PSScriptRoot\twdict.txt -raw | ConvertFrom-Json
-$global:staticmaps = Import-Csv $PSScriptRoot\static-name.txt -Header cn,en
-$global:regexmaps = Import-Csv $PSScriptRoot\regex.txt -Delimiter ";" -Header cn,en
-$global:prefix_rare = Import-Csv $PSScriptRoot\prefix_rare.txt -Header cn,en 
-$global:suffix_rare = Import-Csv $PSScriptRoot\suffix_rare.txt -Header cn,en 
-$global:prefix_magic = Import-Csv $PSScriptRoot\prefix_magic.txt -Header cn,en 
-$global:suffix_magic = Import-Csv $PSScriptRoot\suffix_magic.txt -Header cn,en 
 helper
-Watch-Folder $path
