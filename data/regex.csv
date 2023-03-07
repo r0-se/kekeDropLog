@@ -1,3 +1,6 @@
+^留在物品欄中以獲得加乘效果$;Keep in Inventory to Gain Bonus
+^可以放入凹槽物品$;Can be Inserted into Socketed Items
+^不會損壞$;Indestructible
 ^([+-]\d+)% 增強傷害$;{0}% Enhanced Damage
 ^投擲傷害：(\d+) 到 (\d+)$;Throw Damage: {0} to {1}
 ^需要等級： (\d+)$;Required Level: {0}
@@ -8,6 +11,8 @@
 ^([+-]\d+) 最大傷害值$;{0} to Maximum Damage
 ^增加的空間$;Increased Stack Size
 ^回復數量$;Replenishes quantity
+^冰寒吸收 (\d+)%$;Cold Absorb +{0}%
+^無法冰凍$;Cannot Be Frozen
 ^腰帶空間：([+-]\d+) 格$;Belt Size: {0} Slots
 ^耐久度: (\d+) 之 (\d+)$;Durability: {0} of {1}
 ^需要的力量點數： (\d+)$;Required Strength: {0}
@@ -74,41 +79,36 @@
 ^需求 ([+-]\d+)%$;Requirements {0}%
 ^(\d+)% 受損的生命移至法力$;{0}% Damage Taken Goes To Mana
 ^([+-]\d+) 所有的屬性$;{0} to all Attributes
-^可以放入凹槽物品$,Can be Inserted into Socketed Items
 ^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
 ^([+-]\d+)% 火焰技能傷害:0}% Fire Skill Damage
 ^([+-]\d+) 生命 \（以角色等級決定\）$;{0} to Life (Based on Character Level)
 ^([+-]\d+) 法力 （以角色等級決定）$;{0} to Mana (Based on Character Level)
 ^([+-]\d+) 防禦 （以角色等級決定）$;{0} Defense (Based on Character Level)
+^([+-]\d+) 最大傷害值 （以角色等級決定;{0} To Maximum Damage (Based On Character Level)
 ^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
 ^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
 ^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
 ^在每殺一個敵人後取得 ([+-]\d+) 點法力$;{0} to Mana after each Kill
 ^魔法傷害減少 (\d+)$;Magic Damage Reduced by {0}
+^降低所有商人的價格 (\d+)%$;Reduces all Vendor Prices {0}%
+^([+-]\d+) 冰寒吸收$;{0} Cold Absorb
+^防止怪物自療$;Prevent Monster Heal
+^生命回復 ([+-]\d+)$;Replenish Life {0}
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
 ^([+-]\d+) 至 (\S+\s?\S?) \(\S+\s?\S?\)$;{0} to {1} ({2})
 ^等級 (\d+) (\S+\s?\S?) \((\d+)/(\d+) 次\)$;Level {0} {1} ({2}/{3} Charges)
 ^當你死去 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to Cast Level {1} {2} when you Die
 ^當你升級 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to cast level {1} {2} when you Level-Up
-^([+-]\d+) 鏢槍和長矛技能 (\(.+\))$;{0} to Javelin and Spear Skills {1}
-^([+-]\d+) 戰鬥技能 (\(.+\))$;{0} to Combat Skills {1}
 ^([+-]\d+) 火焰系技能 (\(.+\))$;{0} to Fire Skills {1}
 ^([+-]\d+) 冰寒系技能 (\(.+\))$;{0} to Cold Skills {1}
 ^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to Lightning Skills {1}
 ^([+-]\d+) 毒素和白骨技能 (\(.+\))$;{0} to Poison and Bone Skills {1}
-^([+-]\d+) 戰鬥技能 (\(.+\))$;{0} to to Combat Skills {1}
-^([+-]\d+) 冰寒系技能 (\(.+\))$;{0} to to Cold Skills {1}
-^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to to Lightning Skills {1}
-^([+-]\d+) 火焰系技能 (\(.+\))$;{0} to to Fire Skills {1}
-^([+-]\d+) 召喚系技能 (\(.+\))$;{0} to to Summoning Skills {1}
-^([+-]\d+) 變形系技能 (\(.+\))$;{0} to to Shape Shifting Skills {1}
-^([+-]\d+) 元素系技能 (\(.+\))$;{0} to to Elemental Skills {1}
-^([+-]\d+) 召喚技能 (\(.+\))$;{0} to to Summoning Skills {1}
+^([+-]\d+) 召喚技能 (\(.+\))$;{0} to Summoning Skills {1}
 ^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {0}
-^降低所有商人的價格 (\d+)%$;Reduces all Vendor Prices {0}%
-^([+-]\d+) 冰寒吸收$;{0} Cold Absorb
-^([+-]\d+) 最大傷害值 （以角色等級決定;{0} To Maximum Damage (Based On Character Level)
-^防止怪物自療$;Prevent Monster Heal
-^生命回復 ([+-]\d+)$;Replenish Life {0}
+^([+-]\d+) 召喚系技能 (\(.+\))$;{0} to Summoning Skills {1}
+^([+-]\d+) 變形系技能 (\(.+\))$;{0} to Shape Shifting Skills {1}
+^([+-]\d+) 元素系技能 (\(.+\))$;{0} to Elemental Skills {1}
+^([+-]\d+) 鏢槍和長矛技能 (\(.+\))$;{0} to Javelin and Spear Skills {1}
+^([+-]\d+) 戰鬥技能 (\(.+\))$;{0} to Combat Skills {1}
