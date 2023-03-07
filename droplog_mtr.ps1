@@ -19,9 +19,10 @@ $discColor=@{
 }
 
 #loading config file
-Get-Content "$PSScriptRoot\config.ini" | foreach-object -begin {$h=@{}} -process { $k = [regex]::split($_,'='); if(($k[0].CompareTo("") -ne 0) -and ($k[0].StartsWith("[") -ne $True)) { $h.Add($k[0], $k[1]) } }
+$h=@{}
+Get-Content "$PSScriptRoot\config.ini" | foreach-object -process { $k = [regex]::split($_,'='); if(($k[0].CompareTo("") -ne 0) -and ($k[0].StartsWith("[") -ne $True)) { $h.Add($k[0], $k[1]) } }
 $path = $h.Get_Item("savepath")
-$hookUrl = $h.Get_Item("hookurl")#
+$hookUrl = $h.Get_Item("hookurl")
 $minRune = If ($RuneList.Contains($h.Get_Item("min_rune"))) {$RuneList[$h.Get_Item("min_rune")]} Else {0}
 
 function Get-rare-item {
@@ -379,7 +380,20 @@ Function Show-Item {
 
 function helper {
     if ($PSVersionTable.PSVersion -le 7.1) {
-        return "This powershell version is too old! You need 7+" 
+        "This powershell version is too old! You need 7+" 
+        if ((Test-Path ("$env:programfiles\PowerShell\7\pwsh.exe"))) {
+            "Found newer powershell attempting to restart with it..."
+            $CommandLine = "-File `"" + $MyInvocation.ScriptName + "`" "
+            Start-Process -FilePath "$env:programfiles\PowerShell\7\pwsh.exe" -ArgumentList $CommandLine
+            write-host "Started with correct powershell version... closing in 5sec"
+            Start-Sleep 5
+            exit
+        }
+        else {
+            Write-host "You need a modern powershell to run this script`ndownload and rerun this script`nhttps://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3"
+            read-host "press enter to exit"
+            exit
+        }
     }
 
     if ($null -eq (Get-ChildItem "$PSScriptRoot\$dictFile" -ErrorAction SilentlyContinue)) {
@@ -392,14 +406,25 @@ function helper {
             Exit -1
         }
     }
+    if (-not (Test-path $psscriptroot\config.ini)) {
+        $configSave = Read-Host "Press enter your savepath [c:\temp\save\]"
+        $configSave = ("c:\temp\save\",$configSave)[[bool]$configSave]
+        $configWebhook = Read-Host "Enter your webhook URL"
+        New-Item -ItemType File "$PSScriptRoot\config.ini" -Value ("[General]`nsavepath={0}`nhookurl={1}`nmin_rune=Lem" -f $configSave, $configWebhook) -Confirm
+    }
 }
 
-$global:twDict = Get-Content "$PSScriptRoot\data\twdict.json" -raw | ConvertFrom-Json
-$global:staticMaps = Import-Csv "$PSScriptRoot\data\static_mapping.csv" -Header cn,en
-$global:regexMaps = Import-Csv "$PSScriptRoot\data\regex.csv" -Delimiter ";" -Header cn,en
-$global:prefixRare = Import-Csv "$PSScriptRoot\data\prefix_rare.csv" -Header cn,en 
-$global:suffixRare = Import-Csv "$PSScriptRoot\data\suffix_rare.csv" -Header cn,en 
-$global:prefixMagic = Import-Csv "$PSScriptRoot\data\prefix_magic.csv" -Header cn,en 
-$global:suffixMagic = Import-Csv "$PSScriptRoot\data\suffix_magic.csv" -Header cn,en 
+try {
+    $global:twDict = Get-Content "$PSScriptRoot\data\twdict.json" -raw | ConvertFrom-Json
+    $global:staticMaps = Import-Csv "$PSScriptRoot\data\static_mapping.csv" -Header cn,en
+    $global:regexMaps = Import-Csv "$PSScriptRoot\data\regex.csv" -Delimiter ";" -Header cn,en
+    $global:prefixRare = Import-Csv "$PSScriptRoot\data\prefix_rare.csv" -Header cn,en 
+    $global:suffixRare = Import-Csv "$PSScriptRoot\data\suffix_rare.csv" -Header cn,en 
+    $global:prefixMagic = Import-Csv "$PSScriptRoot\data\prefix_magic.csv" -Header cn,en 
+    $global:suffixMagic = Import-Csv "$PSScriptRoot\data\suffix_magic.csv" -Header cn,en 
+} catch {
+    Write-Host $_.Exception.Message
+    exit
+}
 helper
 Watch-Folder $path
