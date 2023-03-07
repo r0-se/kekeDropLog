@@ -97,7 +97,7 @@
 ^生命回復 ([+-]\d+)$;Replenish Life {0}
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
-^([+-]\d+) 至 (\S+\s?\S?) \(\S+\s?\S?\)$;{0} to {1} ({2})
+^([+-]\d+) 至 (\S+\s?\S?) (\(\S+\s?\S?\))$;{0} to {1} {2}
 ^等級 (\d+) (\S+\s?\S?) \((\d+)/(\d+) 次\)$;Level {0} {1} ({2}/{3} Charges)
 ^當你死去 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to Cast Level {1} {2} when you Die
 ^當你升級 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to cast level {1} {2} when you Level-Up
@@ -111,4 +111,10 @@ PARTIAL$;PARTIAL
 ^([+-]\d+) 變形系技能 (\(.+\))$;{0} to Shape Shifting Skills {1}
 ^([+-]\d+) 元素系技能 (\(.+\))$;{0} to Elemental Skills {1}
 ^([+-]\d+) 鏢槍和長矛技能 (\(.+\))$;{0} to Javelin and Spear Skills {1}
+^([+-]\d+) 弓與弩技能 (\(.+\))$;{0} to Bow and Crossbow Skills {1}
 ^([+-]\d+) 戰鬥技能 (\(.+\))$;{0} to Combat Skills {1}
+^([+-]\d+) 陷阱 (\(.+\))$;{0} to Traps {1}
+^([+-]\d+) 武學技藝 (\(.+\))$;{0} to Martial Arts {1}
+^([+-]\d+) 暗影修行 (\(.+\))$;{0} to Shadow Disciplines {1}
+^([+-]\d+) 戰吼 (\(.+\))$;{0} to Warcries {1}
+^([+-]\d+) 戰鬥專精 (\(.+\))$;{0} to Masteries {1}

@@ -2,7 +2,7 @@
 $magicExceptions = @('銳利之斧')
 $nameMap = @{"超強的" = "Superior";}
 $dictSource = "https://gist.githubusercontent.com/r0-se/4f72452ac805fde9ff018df81867b49d/raw"
-$dictFile = "twdict.txt"
+$dictFile = "$PSScriptRoot\data\twdict.json"
 
 $runeList=@{
     "El" = 1;"Eld" = 2;"Tir" = 3;"Nef" = 4;"Eth" = 5;"Ith" = 6;"Tal" = 7;"Ral" = 8;"Ort" = 9; "Thul" = 10;"Amn" = 11;"Sol" = 12;"Shael" = 13;"Dol" = 14;"Hel" = 15;"Io" = 16; "Lum" = 17;"Ko" = 18;"Fal" = 19;"Lem" = 20;"Pul" = 21;"Um" = 22;"Mal" = 23;"Ist" = 24;"Gul" = 25;"Vex" = 26;"Ohm" = 27;"Lo" = 28; "Sur" = 29;"Ber" = 30;"Jah" = 31;"Cham" = 32;"Zod" = 33;
@@ -310,6 +310,8 @@ function Watch-Folder {
                 $looperVar = $($o.ItemCount)
                 $o.ItemCount = (get-itemcount -Path $o.Path)
                 write-verbose -message "$($o.name) has changed with $amountOfNewItems var is $loopervar and $compare"
+                #reload the regex file
+                Set-variable -Name regexmaps -scope global -value $(Import-Csv "$PSScriptRoot\data\regex.csv" -Delimiter ";" -Header cn, en)
                 for ($looperVar; $looperVar -lt $compare; $looperVar++) {
                     Write-verbose -Message "lets get $($o.Path) -Index $looperVar"
                     $item = Get-Item -Path $($o.Path) -Index $looperVar
@@ -396,7 +398,7 @@ function helper {
         }
     }
 
-    if ($null -eq (Get-ChildItem "$PSScriptRoot\$dictFile" -ErrorAction SilentlyContinue)) {
+    if ($null -eq (Get-ChildItem $dictFile -ErrorAction SilentlyContinue)) {
         Write-Warning "The translation file does not exist -> trying to download"
         try {
             invoke-RestMethod $dictSource -OutFile $dictFile
@@ -415,7 +417,7 @@ function helper {
 }
 
 try {
-    $global:twDict = Get-Content "$PSScriptRoot\data\twdict.json" -raw | ConvertFrom-Json
+    $global:twDict = Get-Content $dictFile -raw | ConvertFrom-Json
     $global:staticMaps = Import-Csv "$PSScriptRoot\data\static_mapping.csv" -Header cn,en
     $global:regexMaps = Import-Csv "$PSScriptRoot\data\regex.csv" -Delimiter ";" -Header cn,en
     $global:prefixRare = Import-Csv "$PSScriptRoot\data\prefix_rare.csv" -Header cn,en 
