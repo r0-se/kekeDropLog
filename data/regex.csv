@@ -22,7 +22,9 @@
 ^([+-]\d+)% 防禦強化$;{0}% Enhanced Defense
 ^增加法力上限 (\d+)%$;Increase Maximum Mana {0}%
 ^([+-]\d+) 生命$;{0} to Life
+^([+-]\d+) 戰鬥技能$;{0} 
 ^([+-]\d+) 法力$;{0} to Mana
+^攻擊者受到傷害 (\d+)$;Attacker Takes Damage of {0}
 ^增加 (\d+)[+-](\d+) 閃電傷害$;Adds {0}-{1} Lightning Damage
 ^([+-]\d+) 法師技能等級$;{0} to Sorceress Skill Levels
 ^([+-]\d+) 死靈法師技能等級$;{0} to Necromancer Skill Levels
