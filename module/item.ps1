@@ -1,4 +1,4 @@
-$magicExceptions = @('銳利之斧')
+﻿$magicExceptions = @('銳利之斧')
 $nameMap = @{"超強的" = "Superior"; }
 
 $discColor = @{
