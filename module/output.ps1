@@ -61,7 +61,7 @@ Function Publish-Item {
 
     #send to console and discord
     Show-Console -item $item
-    Show-Discord -item $item -url $h.Get_Item("hookurl")
+    Show-Discord -item $item -url $config.Get_Item("hookurl")
 }
 
 Function Show-Console {
