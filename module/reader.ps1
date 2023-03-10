@@ -1,4 +1,4 @@
-#this module brings the functionality to read the chinese data out of the binary log files
+﻿#this module brings the functionality to read the chinese data out of the binary log files
 
 function Get-Bots {
     param([string]$path)
@@ -27,7 +27,11 @@ function Get-Bots {
 
 function Get-ItemCount {
     param([string]$path)
-    $b = get-Content -path $path -AsByteStream -Raw
+    if ($PSVersionTable.PSVersion -lt 6) {
+        $b = get-Content -path $path -Encoding Byte -Raw
+    } else {
+        $b = get-Content -path $path -AsByteStream -Raw
+    }
 
     return $b.length / 1140
 }
@@ -37,8 +41,12 @@ Function Get-Item {
         [PSCustomObject]$bot,
         [int]$index
     )
-        
-    $data = get-Content -path $bot.Path -AsByteStream -Raw
+    
+    if ($PSVersionTable.PSVersion -lt 6) {
+        $data = get-Content -path $bot.Path -Encoding Byte -Raw
+    } else {
+        $data = get-Content -path $bot.Path -AsByteStream -Raw
+    }
     $itemByte = [System.Array]::CreateInstance([byte], 1140)
 
     $start = $index * 1140

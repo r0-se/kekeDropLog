@@ -10,25 +10,6 @@ function Test-Chinese-Chars {
     return $False
 }
 
-function Initialize-PS {
-    if ($PSVersionTable.PSVersion -le 7.1) {
-        Write-Host "This powershell version is too old! You need 7+" 
-        if ((Test-Path ("$env:programfiles\PowerShell\7\pwsh.exe"))) {
-            Write-Host "Found newer powershell attempting to restart with it..."
-            $arg = "-File `"$($MyInvocation.ScriptName)`""
-            Start-Process -FilePath "$env:programfiles\PowerShell\7\pwsh.exe" -ArgumentList $arg
-            Write-Host "Started with correct powershell version... closing in 5 sec"
-            Start-Sleep 5
-            exit
-        }
-        else {
-            Write-Host "You need a modern powershell to run this script`ndownload and rerun this script`nhttps://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3"
-            Read-Host "press enter to exit"
-            exit
-        }
-    }
-}
-
 function Set-Globals {
     try {
         Set-Variable -name twDict -scope Global -value $(Get-Content "$PSScriptRoot\..\data\twdict.json" -raw | ConvertFrom-Json)
@@ -58,7 +39,7 @@ function New-Config {
 
 function Get-Config {
     if (-not (Test-Path "$PSScriptRoot\..\config.ini")) {
-        New-Config
+        $null = New-Config
     }
     $h = @{}
     Get-Content "$PSScriptRoot\..\config.ini" | foreach-object -process { $k = [regex]::split($_, '='); if (($k[0].CompareTo("") -ne 0) -and ($k[0].StartsWith("[") -ne $True)) { $h.Add($k[0], $k[1]) } }

@@ -21,6 +21,5 @@ function Watch-Folder {
     }
 }
 
-Initialize-PS
 Set-Globals
 Watch-Folder -config $(Get-Config)

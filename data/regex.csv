@@ -86,7 +86,7 @@
 ^([+-]\d+) 法力 (以角色等級決定)$;{0} to Mana (Based on Character Level)
 ^([+-]\d+) 防禦 (以角色等級決定)$;{0} Defense (Based on Character Level)
 ^([+-]\d+) 耐力最大值 (以角色等級決定)$;{0} Maximum Stamina (Based on Character Level)
-^([+-]\d+) 最大傷害值 (以角色等級決定;{0} To Maximum Damage (Based On Character Level)
+^([+-]\d+) 最大傷害值 (以角色等級決定);{0} To Maximum Damage (Based On Character Level)
 ^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
 ^([+-]\d+) 毒素傷害維持 (\d+) 秒$;{0} poison damage over {1} seconds
