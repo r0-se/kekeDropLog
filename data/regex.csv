@@ -110,7 +110,7 @@ PARTIAL$;PARTIAL
 ^([+-]\d+) 閃電系技能 (\(.+\))$;{0} to Lightning Skills {1}
 ^([+-]\d+) 毒素和白骨技能 (\(.+\))$;{0} to Poison and Bone Skills {1}
 ^([+-]\d+) 召喚技能 (\(.+\))$;{0} to Summoning Skills {1}
-^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {0}
+^([+-]\d+) 詛咒 (\(.+\))$;{0} to Curses {1}
 ^([+-]\d+) 召喚系技能 (\(.+\))$;{0} to Summoning Skills {1}
 ^([+-]\d+) 變形系技能 (\(.+\))$;{0} to Shape Shifting Skills {1}
 ^([+-]\d+) 元素系技能 (\(.+\))$;{0} to Elemental Skills {1}
