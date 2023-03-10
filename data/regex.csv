@@ -89,6 +89,8 @@
 ^([+-]\d+) 最大傷害值 (以角色等級決定;{0} To Maximum Damage (Based On Character Level)
 ^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
+^([+-]\d+) 毒素傷害維持 (\d+) 秒$;{0} poison damage over {1} seconds
+^([+-]\d+) 最小傷害值$;{0} to Minimum Damage
 ^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
 ^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
 ^在每殺一個敵人後取得 ([+-]\d+) 點法力$;{0} to Mana after each Kill
