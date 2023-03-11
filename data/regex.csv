@@ -33,9 +33,6 @@
 ^([+-]\d+) 德魯伊技能等級$;{0} to Druid Skills
 ^閃電抗性 ([+-]\d+)%$;Lightning Resist {0}%
 ^(\d+)% 更佳的機率取得魔法裝備$;{0}% Better Chance of Getting Magic Items
-^([+-]\d+)% 轉為毒素技能傷害$;{0}% to Poison Skill Damage
-^([+-]\d+)% 敵人閃電抗性$;{0}% to Enemy Lightning Resistance
-^([+-]\d+)% 閃電系技能傷害$;{0}% to Lightning Skill Damage
 ^([+-]\d+) 防禦$;{0} Defense
 ^冰寒抗性 ([+-]\d+)%$;Cold Resist {0}%
 ^(\d+)% 額外金幣從怪物身上取得$;{0}% Extra Gold from Monsters
@@ -80,7 +77,6 @@
 ^需求 ([+-]\d+)%$;Requirements {0}%
 ^(\d+)% 受損的生命移至法力$;{0}% Damage Taken Goes To Mana
 ^([+-]\d+) 所有的屬性$;{0} to all Attributes
-^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
 ^([+-]\d+)% 火焰技能傷害:0}% Fire Skill Damage
 ^([+-]\d+) 生命 \(以角色等級決定\)$;{0} to Life (Based on Character Level)
 ^([+-]\d+) 法力 (以角色等級決定)$;{0} to Mana (Based on Character Level)
@@ -91,14 +87,20 @@
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
 ^([+-]\d+) 毒素傷害維持 (\d+) 秒$;{0} poison damage over {1} seconds
 ^([+-]\d+) 最小傷害值$;{0} to Minimum Damage
-^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
-^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
 ^在每殺一個敵人後取得 ([+-]\d+) 點法力$;{0} to Mana after each Kill
+^([+-]\d+) 生命值在殺死後獲得$;{0} Life after each Kill
 ^魔法傷害減少 (\d+)$;Magic Damage Reduced by {0}
 ^降低所有商人的價格 (\d+)%$;Reduces all Vendor Prices {0}%
 ^([+-]\d+) 冰寒吸收$;{0} Cold Absorb
 ^防止怪物自療$;Prevent Monster Heal
 ^生命回復 ([+-]\d+)$;Replenish Life {0}
+^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
+^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
+^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
+^([+-]\d+)% 敵人閃電抗性$;{0}% to Enemy Lightning Resistance
+^([+-]\d+)% 閃電系技能傷害$;{0}% to Lightning Skill Damage
+^([+-]\d+)% 對敵人毒素系抗性$;{0}% to Enemy Poison Resistance
+^([+-]\d+)% 轉為毒素技能傷害$;{0}% to Poison Skill Damage
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
 ^([+-]\d+) 至 (\S+\s?\S?) (\(\S+\s?\S?\))$;{0} to {1} {2}
