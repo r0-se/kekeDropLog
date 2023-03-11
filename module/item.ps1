@@ -89,18 +89,18 @@ function Get-ItemObject {
                         $returnItem.mods[$i].StartsWith("單手傷害："))) {
                     $returnItem.Color = $DiscColor.white
                     #stupid workaround to supress .Add method
-                    $null = $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i]))
+                    $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i])) > $null
                 }
                 else {
                     #colored items (yellow/green/gold) have itemtype as first attribute -> translate as name
                     #stupid workaround to supress .Add method
-                    $null = $returnItem.ModsEN.Add((Get-Name-Translation -original $returnItem.mods[$i]))
+                    $returnItem.ModsEN.Add((Get-Name-Translation -original $returnItem.mods[$i])) > $null
                 }
             }
             else {
                 #normal mod
                 #stupid workaround to supress .Add method
-                $null = $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i]))
+                $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i])) > $null
             }
             
         }
@@ -119,7 +119,7 @@ function Get-RareItem {
 
     if ($splitted.Count -eq 2) {
         if ($prefixRare.cn.Contains($splitted[0]) -and $suffixRare.cn.Contains($splitted[1])) {
-            return ($prefixRare | Where-Object CN -eq $splitted[0]).en + " " + ($suffixRare | Where-Object CN -eq $splitted[1]).en
+            return ($prefixRare | Where-Object CN -eq $splitted[0] | Select-Object -First 1).en + " " + ($suffixRare | Where-Object CN -eq $splitted[1] | Select-Object -First 1).en
         }
     }
     return $false

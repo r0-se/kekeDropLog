@@ -68,7 +68,7 @@ Function Show-Console {
     param(
         [PSCustomObject]$item
     )
-    Write-Host -ForegroundColor red $($item.source) $($item.timestamp | Out-String)
-    Write-Host -ForegroundColor red ($($item.nameEN + " - " + $item.name) | Out-String)
+    Write-Host -ForegroundColor red $($item.source) $($item.timestamp | Out-String).replace("`n","").replace("`r","")
+    Write-Host -ForegroundColor red ($($item.nameEN + " - " + $item.name) | Out-String).replace("`n","").replace("`r","")
     Write-Host -ForegroundColor DarkGray ($($item.modsEN) | Out-String)
 }
