@@ -12,6 +12,7 @@
 ^增加的空間$;Increased Stack Size
 ^回復數量$;Replenishes quantity
 ^無法冰凍$;Cannot Be Frozen
+^忽視目標防禦力$;Ignore Target's Defense
 ^腰帶空間：([+-]\d+) 格$;Belt Size: {0} Slots
 ^耐久度: (\d+) 之 (\d+)$;Durability: {0} of {1}
 ^需要的力量點數： (\d+)$;Required Strength: {0}
@@ -104,6 +105,7 @@
 ^([+-]\d+)% 最大火焰抗性$;{0}% to Maximum Fire Resist
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
+^擊中時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} on striking
 ^([+-]\d+) 至 (\S+\s?\S?) (\(\S+\s?\S?\))$;{0} to {1} {2}
 ^等級 (\d+) (\S+\s?\S?) \((\d+)/(\d+) 次\)$;Level {0} {1} ({2}/{3} Charges)
 ^當你死去 (\d+)% 機率施展等級 (\d+) (\S+)$;{0}% Chance to Cast Level {1} {2} when you Die
