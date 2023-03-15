@@ -1,6 +1,11 @@
 # kekeDropLog - parses droplog for kekebot in english
-## To install this, download the zip file from the side here, extract somwhere and run with powershell 7+
-If you dont run it with powershell 7+ the script will try to locate it and relaunch incase you have it installed
-See gif below
+### Installation
+Download the release to the right on this github and then run the file as seen in the gif below.
 
-![](https://github.com/r0-se/kekeDropLog/blob/main/files/start.gif)
+### Changelog
+* Refactored code to be readable
+* Compatible with powershell 5+
+* Dumping drops to json file on disk
+* Able to identify and colour item quality, rare, unique, white, runes & sets
+
+![](https://github.com/r0-se/kekeDropLog/blob/main/data/raw.gif)
