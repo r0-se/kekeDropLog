@@ -27,7 +27,7 @@ function Get-Bots {
 
 function Get-ItemCount {
     param([string]$path)
-    if ($PSVersionTable.PSVersion.major -lt 6) {
+    if ([System.Version]$PSVersionTable.PSVersion -lt [System.Version]"6.0.0") {
         $b = get-Content -path $path -Encoding Byte -Raw
     } else {
         $b = get-Content -path $path -AsByteStream -Raw
@@ -42,7 +42,7 @@ Function Get-Item {
         [int]$index
     )
     
-    if ($PSVersionTable.PSVersion.Major -lt 6) {
+    if ([System.Version]$PSVersionTable.PSVersion -lt [System.Version]"6.0.0") {
         $data = get-Content -path $bot.Path -Encoding Byte -Raw
     } else {
         $data = get-Content -path $bot.Path -AsByteStream -Raw
