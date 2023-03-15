@@ -47,7 +47,7 @@
 ^攻擊者受到閃電傷害 (\d+)$;Attacker Takes Lightning Damage of {0}
 ^(\d+)% 致命攻擊$;{0}% Deadly Strike
 ^([+-]\d+)% 攻擊速度$;{0}% Increased Attack Speed
-^回復體力加 (\d+)%$;recovery Vitality plus {0}%
+^回復體力加 (\d+)%$;Heal Stamina Plus {0}%
 ^([+-]\d+) 精力$;{0} to Energy
 ^傷害減少 (\d+)$;Magic Damage Reduced by {0}
 ^([+-]\d+)% 轉為經驗值獲得$;{0}% to Experience Gained
@@ -94,6 +94,7 @@
 ^生命回復 ([+-]\d+)$;Replenish Life {0}
 ^([+-]\d+) 冰寒吸收$;{0} Cold Absorb
 ^冰寒吸收 (\d+)%$;Cold Absorb +{0}%
+^火焰吸收 (\d+)%$;Fire Absorb +{0}%
 ^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
 ^([+-]\d+)% 火焰技能傷害:{0}% Fire Skill Damage
 ^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
