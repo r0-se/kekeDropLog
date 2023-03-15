@@ -45,7 +45,6 @@
 ^([+-]\d+)% 打擊恢復$;{0}% Faster Hit Recovery
 ^([+-]\d+) 耐力最大值$;{0} Maximum Stamina
 ^攻擊者受到閃電傷害 (\d+)$;Attacker Takes Lightning Damage of {0}
-^(\d+)% 致命攻擊 \(以角色等級決定\)$;{0}% Deadly Strike (Based on Character Level)
 ^(\d+)% 致命攻擊$;{0}% Deadly Strike
 ^([+-]\d+)% 攻擊速度$;{0}% Increased Attack Speed
 ^回復體力加 (\d+)%$;recovery Vitality plus {0}%
@@ -78,10 +77,11 @@
 ^(\d+)% 受損的生命移至法力$;{0}% Damage Taken Goes To Mana
 ^([+-]\d+) 所有的屬性$;{0} to all Attributes
 ^([+-]\d+) 生命 \(以角色等級決定\)$;{0} to Life (Based on Character Level)
-^([+-]\d+) 法力 (以角色等級決定)$;{0} to Mana (Based on Character Level)
-^([+-]\d+) 防禦 (以角色等級決定)$;{0} Defense (Based on Character Level)
-^([+-]\d+) 耐力最大值 (以角色等級決定)$;{0} Maximum Stamina (Based on Character Level)
-^([+-]\d+) 最大傷害值 (以角色等級決定);{0} To Maximum Damage (Based On Character Level)
+^([+-]\d+) 法力 \(以角色等級決定\)$;{0} to Mana (Based on Character Level)
+^([+-]\d+) 防禦 \(以角色等級決定\)$;{0} Defense (Based on Character Level)
+^([+-]\d+) 耐力最大值 \(以角色等級決定\)$;{0} Maximum Stamina (Based on Character Level)
+^([+-]\d+) 最大傷害值 \(以角色等級決定\);{0} To Maximum Damage (Based On Character Level)
+^(\d+)% 致命攻擊 \(以角色等級決定\)$;{0}% Deadly Strike (Based on Character Level)
 ^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
 ^([+-]\d+) 毒素傷害維持 (\d+) 秒$;{0} poison damage over {1} seconds
