@@ -6,7 +6,7 @@
 ^需要等級： (\d+)$;Required Level: {0}
 ^需要的敏捷點數： (\d+)$;Required Dexterity: {0}
 ^防禦： (\d+)$;Defense: {0}
-^數量：(\d+)$;Quantity: {0}
+^數量： (\d+)$;Quantity: {0}
 ^增加 (\d+)-(\d+) 傷害$;Adds {0}-{1} damage
 ^([+-]\d+) 最大傷害值$;{0} to Maximum Damage
 ^增加的空間$;Increased Stack Size
@@ -31,6 +31,7 @@
 ^([+-]\d+) 刺客技能等級$;{0} to Assassin Skills
 ^([+-]\d+) 亞馬遜技能等級$;{0} to Amazon Skill Levels
 ^([+-]\d+) 德魯伊技能等級$;{0} to Druid Skills
+^([+-]\d+) 野蠻人技能等級;{0} to Barbarian Skill Levels
 ^閃電抗性 ([+-]\d+)%$;Lightning Resist {0}%
 ^(\d+)% 更佳的機率取得魔法裝備$;{0}% Better Chance of Getting Magic Items
 ^([+-]\d+) 防禦$;{0} Defense
@@ -76,6 +77,7 @@
 ^需求 ([+-]\d+)%$;Requirements {0}%
 ^(\d+)% 受損的生命移至法力$;{0}% Damage Taken Goes To Mana
 ^([+-]\d+) 所有的屬性$;{0} to all Attributes
+^([+-]\d+) 對遠程防禦$;{0} Defense vs. Missile
 ^([+-]\d+) 生命 \(以角色等級決定\)$;{0} to Life (Based on Character Level)
 ^([+-]\d+) 法力 \(以角色等級決定\)$;{0} to Mana (Based on Character Level)
 ^([+-]\d+) 防禦 \(以角色等級決定\)$;{0} Defense (Based on Character Level)
@@ -83,6 +85,7 @@
 ^([+-]\d+) 最大傷害值 \(以角色等級決定\);{0} To Maximum Damage (Based On Character Level)
 ^(\d+)% 致命攻擊 \(以角色等級決定\)$;{0}% Deadly Strike (Based on Character Level)
 ^傷害減少 (\d+)%$;Physical Damage Received Reduced by {0}%
+^毒素的持續效果降低 (\d+)%$;Poison Length Reduced by {0}%
 ^增加 (\d+)-(\d+) 冰寒傷害$;Adds {0}-{1} cold damage
 ^([+-]\d+) 毒素傷害維持 (\d+) 秒$;{0} poison damage over {1} seconds
 ^([+-]\d+) 最小傷害值$;{0} to Minimum Damage
