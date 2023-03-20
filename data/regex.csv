@@ -99,7 +99,7 @@
 ^冰寒吸收 (\d+)%$;Cold Absorb +{0}%
 ^火焰吸收 (\d+)%$;Fire Absorb +{0}%
 ^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
-^([+-]\d+)% 火焰技能傷害:{0}% Fire Skill Damage
+^([+-]\d+)% 火焰技能傷害$;{0}% Fire Skill Damage
 ^([+-]\d+)% 敵人冰寒抗性$;{0}% to Enemy Cold Resistance
 ^([+-]\d+)% 冰寒技能傷害$;{0}% to Cold Skill Damage
 ^([+-]\d+)% 敵人閃電抗性$;{0}% to Enemy Lightning Resistance
