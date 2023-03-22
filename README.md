@@ -1,6 +1,7 @@
 # kekeDropLog - parses droplog for kekebot in english
 ### Installation
 Download the release to the right on this github and then run the file as seen in the gif below.
+(Or you can just grab the latest ps1 from the repo here)
 
 ### Changelog
 * Refactored code to be readable
