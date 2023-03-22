@@ -23,6 +23,7 @@ function Get-ItemObject {
         ModsEN    = New-Object System.Collections.ArrayList($null)
         Color     = 16711680
         source    = 'John Doe'
+        invFile   = $null
     }
     $item = $item -replace '\x00', ''
     
@@ -36,14 +37,15 @@ function Get-ItemObject {
         $returnItem.Name = $matches[0]
         #if it starts with rune - make it orange
         if ($returnItem.Name.StartsWith("符文：")) {
-            $returnItem.Color = $DiscColor.orange
+            $returnItem.Color = $discColor.orange
         }
 
         #find out if its magic by looking for prefix/suffix
         $magic = Get-MagicItem -name $returnItem.Name
         if ($magic) {
-            $returnItem.Color = $DiscColor.blue
-            $returnItem.NameEN = $magic
+            $returnItem.Color = $discColor.blue
+            $returnItem.NameEN = $magic[0]
+            $returnItem.invFile = Get-GFX -type $magic[1]
         }
         else {
             $returnItem.NameEN = Get-Name-Translation -original $returnItem.Name
@@ -62,10 +64,10 @@ function Get-ItemObject {
             $rare = Get-RareItem -name $returnItem.Mods[0]
             if ($rare) {
                 $returnItem.NameEN = $rare
-                $returnItem.Color = $DiscColor.yellow
+                $returnItem.Color = $discColor.yellow
             }
             else {
-                $returnItem.Color = $DiscColor.gold
+                $returnItem.Color = $discColor.gold
                 $returnItem.NameEN = Get-Name-Translation -original $returnItem.Mods[0]
             }
             #only return the item name without type
@@ -76,18 +78,18 @@ function Get-ItemObject {
         for ($i = 0; $i -lt $returnItem.mods.count; $i++) {
             if ($returnItem.mods[$i] -eq "") {
                 #kills set summary
-                $returnItem.Color = $DiscColor.green
+                $returnItem.Color = $discColor.green
                 $returnItem.mods.RemoveRange($i, $returnItem.mods.count - $i)
                 break;
             }
 
             #handle the first line of mods
-            if ($i -eq 0 -and $returnItem.color -ne $DiscColor.blue) {
+            if ($i -eq 0 -and $returnItem.color -ne $discColor.blue) {
                 #non named items (white/grey) have def or damage in the first line
                 if (($returnItem.mods[$i].StartsWith("雙手傷害：") -or 
                         $returnItem.mods[$i].StartsWith("防禦：") -or 
                         $returnItem.mods[$i].StartsWith("單手傷害："))) {
-                    $returnItem.Color = $DiscColor.white
+                    $returnItem.Color = $discColor.white
                     #stupid workaround to supress .Add method
                     $returnItem.ModsEN.Add((Get-Mod-Translation -original $returnItem.mods[$i])) > $null
                 }
@@ -104,12 +106,41 @@ function Get-ItemObject {
             }
             
         }
-        if ($returnItem.color -eq $DiscColor.white -and ($returnItem.modsEN[-1].Contains("Socketed") -or $returnItem.modsEN[-1].Contains("Ethereal"))) {
-            $returnItem.color = $DiscColor.grey
+        if ($returnItem.color -eq $discColor.white -and ($returnItem.modsEN[-1].Contains("Socketed") -or $returnItem.modsEN[-1].Contains("Ethereal"))) {
+            $returnItem.color = $discColor.grey
         }
     }
 
+    if($returnItem.color -ne $discColor.blue) {
+        $returnItem.invfile = Get-GFX -item $returnItem
+    }
+
     return $returnItem
+}
+
+function Get-GFX {
+    param(
+        [PSCustomObject]$item,
+        [string]$type
+    )
+
+    if($type){
+        $invFile = ($gfx | Where-Object name -eq $type).invfile
+        if ($invFile) {
+            return $invFile
+        }    
+    } elseif ($item){
+        $specialInv = ($gfx | Where-Object name -eq $item.nameEN.replace("Superior ", "")).invfile
+        if($specialInv){
+            return $specialInv
+        } 
+    
+        $invFile = ($gfx | Where-Object name -eq $item.modsEN[0]).invfile
+        if ($invFile) {
+            return $invFile
+        }    
+    }
+    return "invgbi"
 }
 
 function Get-RareItem {
@@ -161,14 +192,14 @@ function Get-MagicItem {
         if ($prefixMagic.cn.Contains($splitted[0])) {
             $type = Get-Name-Translation -original $splitted[1]
             $current_prefix = ($prefixMagic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en
-            return "$current_prefix $type"
+            return @("$current_prefix $type", $type)
         }
 
         #this is for names in the form "<suffix> <type>" - separated by a space -> not sure if that even happens naturally anymore
         if ($suffixMagic.cn.Contains($splitted[0])) {
             $type = Get-Name-Translation -original $splitted[1]
             $current_suffix = ($suffixMagic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en 
-            return "$type $current_suffix"
+            return @("$type $current_suffix", $type)
         }
     }
 
@@ -179,7 +210,7 @@ function Get-MagicItem {
             $type = Get-Name-Translation -original $splitted[2]
             $current_prefix = ($prefixMagic | Where-Object cn -eq $splitted[0] | Select-Object -Last 1).en
             $current_suffix = ($suffixMagic | Where-Object cn -eq $splitted[1] | Select-Object -Last 1).en 
-            return "$current_prefix $type $current_suffix"
+            return @("$current_prefix $type $current_suffix", $type)
         }
     }   
     return $false

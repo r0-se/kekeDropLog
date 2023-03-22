@@ -19,6 +19,7 @@ function Set-Globals {
         Set-Variable -name suffixRare  -scope Global -value $(Import-Csv "$PSScriptRoot\..\data\suffix_rare.csv" -Header cn, en)
         Set-Variable -name prefixMagic -scope Global -value $(Import-Csv "$PSScriptRoot\..\data\prefix_magic.csv" -Header cn, en)
         Set-Variable -name suffixMagic -scope Global -value $(Import-Csv "$PSScriptRoot\..\data\suffix_magic.csv" -Header cn, en)
+        Set-Variable -name gfx -scope Global -value $(Import-Csv "$PSScriptRoot\..\data\gfx.csv" -Header name, invfile)
     }
     catch {
         Write-Host $_.Exception.Message

@@ -7,14 +7,17 @@ $runeList = @{
 function Show-Discord {
     param(
         [PSCustomObject]$item,
-        [string]$url
+        [hashtable]$config
     )
+    $url = $config.Get_Item("hookurl")
+
     #for privacy reasons remove domain
     $item.source = $item.source.split("@")[0]
     $description = ""
     $title += "$($item.nameEN)`n"
+    
     if ($item.mods) { 
-        for ($i = 0; $i -lt $item.mods.Split("`n").Count; $i++) {
+        for ($i = 0; $i -lt $item.mods.Count; $i++) {
             if ($i -eq 0) {
                     $description += "`n"
             }
@@ -31,7 +34,20 @@ function Show-Discord {
                 description = $description
             })
     }
-    Invoke-RestMethod -Uri $url -Method Post -Body ($payload | ConvertTo-Json) -ContentType 'application/json; charset=utf-8' 
+
+    #only add images is gfxsrc in configured
+    if($config.Get_Item("gfxsrc")){
+        $payload.embeds | Add-Member -NotePropertyName "thumbnail" -NotePropertyValue ([PSCustomObject]@{url = (Get-GFX-URL -item $item -config $config)})
+    }
+    Invoke-RestMethod -Uri $url -Method Post -Body ($payload | ConvertTo-Json -Depth 3) -ContentType 'application/json; charset=utf-8' 
+}
+
+Function Get-GFX-URL {
+    param(
+        [PSCustomObject]$item,
+        [hashtable]$config
+    )
+    return $config.Get_Item("gfxsrc") + $item.invfile + "/21.png"  
 }
 
 Function Publish-Item {
@@ -61,7 +77,7 @@ Function Publish-Item {
 
     #send to console and discord
     Show-Console -item $item
-    Show-Discord -item $item -url $config.Get_Item("hookurl")
+    Show-Discord -item $item -config $config
 }
 
 Function Show-Console {

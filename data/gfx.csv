@@ -1,0 +1,788 @@
+Hand Axe,invhax
+Axe,invaxe
+Double Axe,inv2ax
+Military Pick,invmpi
+War Axe,invwax
+Large Axe,invlax
+Broad Axe,invbrx
+Battle Axe,invbtx
+Great Axe,invgax
+Giant Axe,invgix
+Wand,invwnd
+Yew Wand,invywn
+Bone Wand,invbwn
+Grim Wand,invgwn
+Club,invclb
+Scepter,invscp
+Grand Scepter,invgsc
+War Scepter,invwsp
+Spiked Club,invspc
+Mace,invmac
+Morning Star,invmst
+Flail,invfla
+War Hammer,invwhm
+Maul,invmau
+Great Maul,invgma
+Short Sword,invssd
+Scimitar,invscm
+Saber,invsbr
+Falchion,invflc
+Crystal Sword,invcrs
+Broad Sword,invbsd
+Long Sword,invlsd
+War Sword,invwsd
+Two-Handed Sword,inv2hs
+Claymore,invclm
+Giant Sword,invgis
+Bastard Sword,invbsw
+Flamberge,invflb
+Great Sword,invgsd
+Dagger,invdgr
+Dirk,invdir
+Kriss,invkrs
+Blade,invbld
+Throwing Knife,invtkn
+Throwing Axe,invtax
+Balanced Knife,invbkf
+Balanced Axe,invbal
+Javelin,invjav
+Pilum,invpil
+Short Spear,invssp
+Glaive,invglv
+Throwing Spear,invtsp
+Spear,invspr
+Trident,invtri
+Brandistock,invbrn
+Spetum,invspt
+Pike,invpik
+Bardiche,invbar
+Voulge,invvou
+Scythe,invscy
+Poleaxe,invpax
+Halberd,invhal
+War Scythe,invwsc
+Short Staff,invsst
+Long Staff,invlst
+Gnarled Staff,invcst
+Battle Staff,invbst
+War Staff,invwst
+Short Bow,invsbw
+Hunter's Bow,invhbw
+Long Bow,invlbw
+Composite Bow,invcbw
+Short Battle Bow,invsbb
+Long Battle Bow,invlbb
+Short War Bow,invswb
+Long War Bow,invlwb
+Light Crossbow,invlxb
+Crossbow,invmxb
+Heavy Crossbow,invhxb
+Repeating Crossbow,invrxb
+Rancid Gas Potion,invgpl
+Oil Potion,invopl
+Choking Gas Potion,invgpm
+Exploding Potion,invopm
+Strangling Gas Potion,invgps
+Fulminating Potion,invops
+decoy dagger,invd33
+Gidbinn,invg33
+Wirt's Leg,invleg
+Horadric Malus,invhmr
+Hellforge Hammer,invhfh
+Horadric Staff,invhst
+Staff of the Kings,invmsf
+Hatchet,invhax
+Cleaver,invaxe
+Twin Axe,inv2ax
+Crowbill,invmpi
+Naga,invwax
+Military Axe,invlax
+Bearded Axe,invbrx
+Tabar,invbtx
+Gothic Axe,invgax
+Ancient Axe,invgix
+Burnt Wand,invwnd
+Petrified Wand,invywn
+Tomb Wand,invbwn
+Grave Wand,invgwn
+Cudgel,invclb
+Rune Scepter,invscp
+Holy Water Sprinkler,invgsc
+Divine Scepter,invwsp
+Barbed Club,invspc
+Flanged Mace,invmac
+Jagged Star,invmst
+Knout,invfla
+Battle Hammer,invwhm
+War Club,invmau
+Martel de Fer,invgma
+Gladius,invssd
+Cutlass,invscm
+Shamshir,invsbr
+Tulwar,invflc
+Dimensional Blade,invcrs
+Battle Sword,invbsd
+Rune Sword,invlsd
+Ancient Sword,invwsd
+Espadon,inv2hs
+Dacian Falx,invclm
+Tusk Sword,invgis
+Gothic Sword,invbsw
+Zweihander,invflb
+Executioner Sword,invgsd
+Poignard,invdgr
+Rondel,invdir
+Cinquedeas,invkrs
+Stilleto,invbld
+Battle Dart,invtkn
+Francisca,invtax
+War Dart,invbkf
+Hurlbat,invbal
+War Javelin,invjav
+Great Pilum,invpil
+Simbilan,invssp
+Spiculum,invglv
+Harpoon,invtsp
+War Spear,invspr
+Fuscina,invtri
+War Fork,invbrn
+Yari,invspt
+Lance,invpik
+Lochaber Axe,invbar
+Bill,invvou
+Battle Scythe,invscy
+Partizan,invpax
+Bec-de-Corbin,invhal
+Grim Scythe,invwsc
+Jo Staff,invsst
+Quarterstaff,invlst
+Cedar Staff,invcst
+Gothic Staff,invbst
+Rune Staff,invwst
+Edge Bow,invsbw
+Razor Bow,invhbw
+Cedar Bow,invlbw
+Double Bow,invcbw
+Short Siege Bow,invsbb
+Long Siege Bow,invlbb
+Rune Bow,invswb
+Gothic Bow,invlwb
+Arbalest,invlxb
+Siege Crossbow,invmxb
+Balista,invhxb
+Chu-Ko-Nu,invrxb
+KhalimFlail,invqf1
+SuperKhalimFlail,invqf2
+Katar,invktr
+Wrist Blade,invktr
+Hatchet Hands,invaxf
+Cestus,invaxf
+Claws,invclw
+Blade Talons,invclw
+Scissors Katar,invskr
+Quhab,invktr
+Wrist Spike,invktr
+Fascia,invaxf
+Hand Scythe,invaxf
+Greater Claws,invclw
+Greater Talons,invclw
+Scissors Quhab,invskr
+Suwayyah,invktr
+Wrist Sword,invktr
+War Fist,invaxf
+Battle Cestus,invaxf
+Feral Claws,invclw
+Runic Talons,invclw
+Scissors Suwayyah,invskr
+Tomahawk,invhax
+Small Crescent,invaxe
+Ettin Axe,inv2ax
+War Spike,invmpi
+Berserker Axe,invwax
+Feral Axe,invlax
+Silver Edged Axe,invbrx
+Decapitator,invbtx
+Champion Axe,invgax
+Glorious Axe,invgix
+Polished Wand,invwnd
+Ghost Wand,invywn
+Lich Wand,invbwn
+Unearthed Wand,invgwn
+Truncheon,invclb
+Mighty Scepter,invscp
+Seraph Rod,invgsc
+Caduceus,invwsp
+Tyrant Club,invspc
+Reinforced Mace,invmac
+Devil Star,invmst
+Scourge,invfla
+Legendary Mallet,invwhm
+Ogre Maul,invmau
+Thunder Maul,invgma
+Falcata,invssd
+Ataghan,invscm
+Elegant Blade,invsbr
+Hydra Edge,invflc
+Phase Blade,invcrs
+Conquest Sword,invbsd
+Cryptic Sword,invlsd
+Mythical Sword,invwsd
+Legend Sword,inv2hs
+Highland Blade,invclm
+Balrog Blade,invgis
+Champion Sword,invbsw
+Colossal Sword,invflb
+Colossus Blade,invgsd
+Bone Knife,invdgr
+Mithral Point,invdir
+Fanged Knife,invkrs
+Legend Spike,invbld
+Flying Knife,invtkn
+Flying Axe,invtax
+Winged Knife,invbkf
+Winged Axe,invbal
+Hyperion Javelin,invjav
+Stygian Pilum,invpil
+Balrog Spear,invssp
+Ghost Glaive,invglv
+Winged Harpoon,invtsp
+Hyperion Spear,invspr
+Stygian Pike,invtri
+Mancatcher,invbrn
+Ghost Spear,invspt
+War Pike,invpik
+Ogre Axe,invbar
+Colossus Voulge,invvou
+Thresher,invscy
+Cryptic Axe,invpax
+Great Poleaxe,invhal
+Giant Thresher,invwsc
+Walking Stick,invsst
+Stalagmite,invlst
+Elder Staff,invcst
+Shillelah,invbst
+Archon Staff,invwst
+Spider Bow,invsbw
+Blade Bow,invhbw
+Shadow Bow,invlbw
+Great Bow,invcbw
+Diamond Bow,invsbb
+Crusader Bow,invlbb
+Ward Bow,invswb
+Hydra Bow,invlwb
+Pellet Bow,invlxb
+Gorgon Crossbow,invmxb
+Colossus Crossbow,invhxb
+Demon Crossbow,invrxb
+Eagle Orb,invob1
+Sacred Globe,invob2
+Smoked Sphere,invob3
+Clasped Orb,invob4
+Dragon Stone,invob5
+Stag Bow,invam1
+Reflex Bow,invam2
+Maiden Spear,invam3
+Maiden Pike,invam4
+Maiden Javelin,invam5
+Glowing Orb,invob1
+Crystalline Globe,invob2
+Cloudy Sphere,invob3
+Sparkling Ball,invob4
+Swirling Crystal,invob5
+Ashwood Bow,invam1
+Ceremonial Bow,invam2
+Ceremonial Spear,invam3
+Ceremonial Pike,invam4
+Ceremonial Javelin,invam5
+Heavenly Stone,invob1
+Eldritch Orb,invob2
+Demon Heart,invob3
+Vortex Orb,invob4
+Dimensional Shard,invob5
+Matriarchal Bow,invam1
+Grand Matron Bow,invam2
+Matriarchal Spear,invam3
+Matriarchal Pike,invam4
+MatriarchalJavelin,invam5
+elixir,invpot
+Healing Potion,invrps
+Mana Potion,invbps
+Full Healing Potion,invrpl
+Full Mana Potion,invbpl
+Stamina Potion,invwps
+Antidote Potion,invnps
+Rejuv Potion,invvps
+Full Rejuv Potion,invvpl
+Thawing Potion,invyps
+Town Portal Book,invbbk
+Identify Book,invrbk
+amulet,invamu
+viper amulet,invvip
+ring,invrin
+gold,invgld
+Bark Scroll,invscb
+deciphered Bark Scroll,invscb
+Arrows,invqvr
+Torch,invtrch
+Bolts,invcqv
+Town Portal Scroll,invbsc
+Identify Scroll,invrsc
+Skeleton Key,invkey
+Mephisto Key,invmph
+scroll of self resurrect,invxyz
+jade figurine,invjbi
+gold bird,invgbi
+lam esen's tome,invbbb
+Horadric Cube,invbox
+Scroll of Horadric Quest Info,invhscr
+Mephisto SoulStone,invmss
+Book of Skill,invsbk
+KhalimEye,inveye
+KhalimHeart,invhrt
+KhalimBrain,invbrnz
+Player Ear,invear
+Chipped Amethyst,invgsva
+Flawed Amethyst,invgsvb
+Amethyst,invgsvc
+Flawless Amethyst,invgsvd
+Perfect Amethyst,invgsve
+Chipped Topaz,invgsya
+Flawed Topaz,invgsyb
+Topaz,invgsyc
+Flawless Topaz,invgsyd
+Perfect Topaz,invgsye
+Chipped Saphire,invgsba
+Flawed Saphire,invgsbb
+Saphire,invgsbc
+Flawless Saphire,invgsbd
+Perfect Saphire,invgsbe
+Chipped Emerald,invgsga
+Flawed Emerald,invgsgb
+Emerald,invgsgc
+Flawless Emerald,invgsgd
+Perfect Emerald,invgsge
+Chipped Ruby,invgsra
+Flawed Ruby,invgsrb
+Ruby,invgsrc
+Flawless Ruby,invgsrd
+Perfect Ruby,invgsre
+Chipped Diamond,invgswa
+Flawed Diamond,invgswb
+Diamond,invgswc
+Flawless Diamond,invgswd
+Perfect Diamond,invgswe
+Lesser Healing Potion,invhp1
+Light Healing Potion,invhp2
+Healing Potion,invhp3
+Strong Healing Potion,invhp4
+Greater Healing Potion,invhp5
+Lesser Mana Potion,invmp1
+Light Mana Potion,invmp2
+Mana Potion,invmp3
+Strong Mana Potion,invmp4
+Greater Mana Potion,invmp5
+Chipped Skull,invskc
+Flawed Skull,invskf
+Skull,invsku
+Flawless Skull,invskl
+Perfect Skull,invskz
+herb,invhrb
+Charm Small,invchm
+Charm Medium,invwnd
+Charm Large,invsst
+Small Red Potion,invrps
+Large Red Potion,invrpl
+Small Blue Potion,invbps
+Large Blue Potion,invbpl
+El Rune,invrEl
+Eld Rune,invrEld
+Tir Rune,invrTir
+Nef Rune,invrNef
+Eth Rune,invrEth
+Ith Rune,invrIth
+Tal Rune,invrTal
+Ral Rune,invrRal
+Ort Rune,invrOrt
+Thul Rune,invrThul
+Amn Rune,invrAmn
+Sol Rune,invrSol
+Shael Rune,invrShae
+Dol Rune,invrDol
+Hel Rune,invrHel
+Io Rune,invrIo
+Lum Rune,invrLum
+Ko Rune,invrKo
+Fal Rune,invrFal
+Lem Rune,invrLem
+Pul Rune,invrPul
+Um Rune,invrUm
+Mal Rune,invrMal
+Ist Rune,invrIst
+Gul Rune,invrGul
+Vex Rune,invrVex
+Ohm Rune,invrOhm
+Lo Rune,invrLo
+Sur Rune,invrSur
+Ber Rune,invrBer
+Jah Rune,invrJo
+Cham Rune,invrCham
+Zod Rune,invrZod
+Jewel,invgswe
+Maguffin,invxyz
+Scroll,invrsc
+Scroll of Malah - Boost Resistances,invscb
+Pandemonium Key 1,invmph
+Pandemonium Key 2,invmph
+Pandemonium Key 3,invmph
+Diablo's Horn,invfang
+Baal's Eye,inveye
+Mephisto's Brain,invbrnz
+Token of Absolution,invtoa
+Twisted Essence of Suffering,invtes
+Charged Essense of Hatred,invceh
+Burning Essence of Terror,invbet
+Festering Essence of Destruction,invfed
+Standard,invflag
+Cap/hat,invcap
+Skull Cap,invskp
+Helm,invhlm
+Full Helm,invfhl
+Great Helm,invghm
+Crown,invcrn
+Mask,invmsk
+Quilted Armor,invqlt
+Leather Armor,invlea
+Hard Leather Armor,invhla
+Studded Leather,invstu
+Ring Mail,invrng
+Scale Mail,invscl
+Chain Mail,invchn
+Breast Plate,invbrs
+Splint Mail,invspl
+Plate Mail,invplt
+Field Plate,invfld
+Gothic Plate,invgth
+Full Plate Mail,invful
+Ancient Armor,invaar
+Light Plate,invltp
+Buckler,invbuc
+Small Shield,invsml
+Large Shield,invlrg
+Kite Shield,invkit
+Tower Shield,invtow
+Gothic Shield,invgts
+Gloves,invlgl
+Heavy Gloves,invvgl
+Bracers,invmgl
+Light Gauntlets,invtgl
+Gaunlets,invhgl
+Leather Boots,invlbt
+Heavy Boots,invvbt
+Chain Boots,invmbt
+Light Plate Boots,invtbt
+Plate Boots,invhbt
+Sash,invlbl
+Light Belt,invvbl
+Belt,invmbl
+Heavy Belt,invtbl
+Girdle,invhbl
+Bone Helm,invbhm
+Bone Shield,invbsh
+Spiked Shield,invspk
+War Hat,invcap
+Sallet,invskp
+Casque,invhlm
+Basinet,invfhl
+Winged Helm,invghm
+Grand Crown,invcrn
+Death Mask,invmsk
+Ghost Armor,invqlt
+Serpentskin Armor,invlea
+Demonhide Armor,invhla
+Trellised Armor,invstu
+Linked Mail,invrng
+Tigulated Mail,invscl
+Mesh Armor,invchn
+Cuirass,invbrs
+Russet Armor,invspl
+Templar Coat,invplt
+Sharktooth Armor,invfld
+Embossed Plate,invgth
+Chaos Armor,invful
+Ornate Armor,invaar
+Mage Plate,invltp
+Defender,invbuc
+Round Shield,invsml
+Scutum,invlrg
+Dragon Shield,invkit
+Pavise,invtow
+Ancient Shield,invgts
+Demonhide Gloves,invlgl
+Sharkskin Gloves,invvgl
+Heavy Bracers,invmgl
+Battle Gauntlets,invtgl
+War Gauntlets,invhgl
+Demonhide Boots,invlbt
+Sharkskin Boots,invvbt
+Mesh Boots,invmbt
+Battle Boots,invtbt
+War Boots,invhbt
+Demonhide Sash,invlbl
+Sharkskin Belt,invvbl
+Mesh Belt,invmbl
+Battle Belt,invtbl
+War Belt,invhbl
+Grim Helm,invbhm
+Grim Shield,invbsh
+Barbed Shield,invspk
+Expansion,
+Wolf Head,invdr1
+Hawk Helm,invdr2
+Antlers,invdr3
+Falcon Mask,invdr4
+Spirit Mask,invdr5
+Jawbone Cap,invba1
+Fanged Helm,invba2
+Horned Helm,invba3
+Assault Helmet,invba4
+Avenger Guard,invba5
+Targe,invpa1
+Rondache,invpa2
+Heraldic Shield,invpa3
+Aerin Shield,invpa4
+Crown Shield,invpa5
+Preserved Head,invne1
+Zombie Head,invne2
+Unraveller Head,invne3
+Gargoyle Head,invne4
+Demon Head,invne5
+Circlet,invci0
+Coronet,invci1
+Tiara,invci2
+Diadem,invci3
+Shako,invcap
+Hydraskull,invskp
+Armet,invhlm
+Giant Conch,invfhl
+Spired Helm,invghm
+Corona,invcrn
+Demonhead,invmsk
+Dusk Shroud,invqlt
+Wyrmhide,invlea
+Scarab Husk,invhla
+Wire Fleece,invstu
+Diamond Mail,invrng
+Loricated Mail,invscl
+Boneweave,invchn
+Great Hauberk,invbrs
+Balrog Skin,invspl
+Hellforged Plate,invplt
+Kraken Shell,invfld
+Lacquered Plate,invgth
+Shadow Plate,invful
+Sacred Armor,invaar
+Archon Plate,invltp
+Heater,invbuc
+Luna,invsml
+Hyperion,invlrg
+Monarch,invkit
+Aegis,invtow
+Ward,invgts
+Bramble Mitts,invlgl
+Vampirebone Gloves,invvgl
+Vambraces,invmgl
+Crusader Gauntlets,invtgl
+Ogre Gauntlets,invhgl
+Wyrmhide Boots,invlbt
+Scarabshell Boots,invvbt
+Boneweave Boots,invmbt
+Mirrored Boots,invtbt
+Myrmidon Greaves,invhbt
+Spiderweb Sash,invlbl
+Vampirefang Belt,invvbl
+Mithril Coil,invmbl
+Troll Belt,invtbl
+Colossus Girdle,invhbl
+Bone Visage,invbhm
+Troll Nest,invbsh
+Blade Barrier,invspk
+Alpha Helm,invdr1
+Griffon Headress,invdr2
+Hunter's Guise,invdr3
+Sacred Feathers,invdr4
+Totemic Mask,invdr5
+Jawbone Visor,invba1
+Lion Helm,invba2
+Rage Mask,invba3
+Savage Helmet,invba4
+Slayer Guard,invba5
+Akaran Targe,invpa1
+Akaran Rondache,invpa2
+Protector Shield,invpa3
+Guilded Shield,invpa4
+Royal Shield,invpa5
+Mummified Trophy,invne1
+Fetish Trophy,invne2
+Sexton Trophy,invne3
+Cantor Trophy,invne4
+Heirophant Trophy,invne5
+Blood Spirt,invdr1
+Sun Spirit,invdr2
+Earth Spirit,invdr3
+Sky Spirit,invdr4
+Dream Spirit,invdr5
+Carnage Helm,invba1
+Fury Visor,invba2
+Destroyer Helm,invba3
+Conquerer Crown,invba4
+Guardian Crown,invba5
+Sacred Targe,invpa1
+Sacred Rondache,invpa2
+Ancient Shield,invpa3
+Zakarum Shield,invpa4
+Vortex Shield,invpa5
+Minion Skull,invne1
+Hellspawn Skull,invne2
+Overseer Skull,invne3
+Succubae Skull,invne4
+Bloodlord Skull,invne5
+The Gnasher,invhaxu
+Deathspade,invaxeu
+Mindrend,invmpiu
+The Chieftan,invbtxu
+Brainhew,invgaxu
+Iros Torch,invwndu
+Gravenspine,invbwnu
+Felloak,invclbu
+Stoutnail,invspcu
+Bloodrise,invmstu
+Bonesob,invmauu
+Steeldriver,invgma
+Blood Crescent,invscmu
+Krintizs Skewer,inv9sbu
+Gleamscythe,invflcu
+Azurewrath,invcrsu
+Griswolds Edge,invbsdu
+Hellplague,invlsdu
+Shadowfang,inv2hsu
+Kinemils Awl,invgisu
+Blacktongue,invbswu
+The Patriarch,invgsdu
+The Jade Tan Do,invkrsu
+Razortine,invtriu
+Soul Harvest,invscyu
+Lazarus Spire,invcstu
+Piercerib,invcbwu
+Pullspite,invsbbu
+Hellclap,invswbu
+Leadcrow,invlxbu
+Ichorsting,invmxbu
+Hellcast,invhxbu
+Doomspittle,invrxbu
+War Bonnet,invcapu
+Coif of Glory,invhlmu
+Duskdeep,invfhlu
+Wormskull,invbhmu
+Goldskin,invfulu
+Victors Silk,invaaru
+Pelta Lunata,invbucu
+Umbral Disk,invsmlu
+Stormguild,invlrgu
+Wall of the Eyeless,invbshu
+Swordback Hold,invspku
+Steelclash,invkitu
+Bverrit Keep,invtowu
+The Ward,invgtsu
+Coldkill,invhaxu
+Butcher's Pupil,invaxeu
+Pompe's Wrath,invmpiu
+Stormrider,inv9btu
+Boneslayer Blade,invgaxu
+The Minataur,inv9giu
+Arm of King Leoric,invbwnu
+Blackhand Key,inv9gwu
+Dark Clan Crusher,invclbu
+Fleshrender,invspcu
+Moonfall,invmstu
+The Gavel of Pain,inv9gmu
+Coldsteel Eye,invscmu
+Hexfire,invsbru
+Ginther's Rift,inv9cru
+Plague Bearer,inv9lsu
+Crainte Vomir,inv2hsu
+The Vile Husk,invgisu
+Cloudcrack,invbswu
+Todesfaelle Flamme,inv9fbu
+Swordguard,invgsdu
+Blackbog's Sharp,invkrsu
+Stormspike,inv9blu
+Kelpie Snare,invtriu
+Soulfeast Tine,inv9bru
+Athena's Wrath,inv9s8u
+Chromatic Ire,invcstu
+Skullcollector,inv8wsu
+Kuko Shakaku,inv8lbu
+Endlesshail,invcbwu
+Whichwild String,inv8s8u
+Magewrath,invswbu
+Langer Briser,inv8lxu
+Pus Spiter,inv8mxu
+Buriza-Do Kyanon,invhxbu
+Demon Machine,invrxbu
+Rockstopper,invxkpu
+Stealskull,invhlmu
+Darksight Helm,invfhlu
+Crown of Thieves,invxrnu
+Vampiregaze,invbhmu
+Ironpelt,invxtuu
+Corpsemourn,invxaru
+Visceratuant,invbucu
+Mosers Blessed Circle,invxmlu
+Stormchaser,invxrgu
+Tiamat's Rebuke,invkitu
+Kerke's Sanctuary,invtowu
+Radimant's Sphere,invgtsu
+Lidless Wall,invxshu
+Lance Guard,invxpku
+Blackoak Shield,invsmlu
+Stormshield,invkitu
+Hellslayer,invbtxu
+Messerschmidt's Reaver,invgaxu
+Baranar's Star,invmstu
+Lightsabre,invcrsu
+Doombringer,invbswu
+The Grandfather,invgsdu
+Bloodmoon,invsbru
+Djinnslayer,invscmu
+Warshrike,invtk3
+Gutsiphon,invrxbu
+Razoredge,invhaxu
+Demonlimb,invspcu
+Steelshade,invhlmu
+Azurewrath,invcrs
+Seraph's Hymn,invamu2
+Fleshripper,invkrsu
+Tyrael's Might,invaaru
+Larzuk's Champion,invhfh
+Mang Song's Lesson,inv8wsu
+The Reaper's Toll,invscy
+Hellrack,invhxbu
+Widowmaker,invswbu
+Bloodraven's Charge,invswbu
+Shadowkiller,invaxfu
+Windhammer,invmau
+Darkfear,invhlmu
+Medusa's Gaze,invtowu
+Boneshade,invbwnu
+Flamebellow,invgisu
+Spirit Ward,invgtsu
+Spike Thorn,invspku
+Frostwind,invlsdu
+Templar's Might,invaaru
+Giantskull,invbhm
+Annihilus,invmss
+Cranebeak,invmpiu
+Nord's Tenderizer,invclbu
+Ondal's Wisdom,invcstu
+Headhunter's Glory,invbshu
+Hellfire Torch,invtrch
