@@ -1,5 +1,6 @@
 ^留在物品欄中以獲得加乘效果$;Keep in Inventory to Gain Bonus
 ^可以放入凹槽物品$;Can be Inserted into Socketed Items
+^未辨視$;Unidentified
 ^不會損壞$;Indestructible
 ^([+-]\d+)% 增強傷害$;{0}% Enhanced Damage
 ^投擲傷害：(\d+) 到 (\d+)$;Throw Damage: {0} to {1}
