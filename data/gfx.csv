@@ -387,9 +387,9 @@ Skull,invsku
 Flawless Skull,invskl
 Perfect Skull,invskz
 herb,invhrb
-Charm Small,invchm
-Charm Medium,invwnd
-Charm Large,invsst
+Small Charm,invchm
+Large Charm,invwnd
+Grand Charm,invsst
 Small Red Potion,invrps
 Large Red Potion,invrpl
 Small Blue Potion,invbps
