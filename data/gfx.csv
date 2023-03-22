@@ -427,7 +427,7 @@ Ber Rune,invrBer
 Jah Rune,invrJo
 Cham Rune,invrCham
 Zod Rune,invrZod
-Jewel,invgswe
+Jewel,jew
 Maguffin,invxyz
 Scroll,invrsc
 Scroll of Malah - Boost Resistances,invscb
@@ -443,7 +443,7 @@ Charged Essense of Hatred,invceh
 Burning Essence of Terror,invbet
 Festering Essence of Destruction,invfed
 Standard,invflag
-Cap/hat,invcap
+Cap,invcap
 Skull Cap,invskp
 Helm,invhlm
 Full Helm,invfhl
@@ -479,7 +479,7 @@ Gaunlets,invhgl
 Leather Boots,invlbt
 Heavy Boots,invvbt
 Chain Boots,invmbt
-Light Plate Boots,invtbt
+Light Plated Boots,invtbt
 Plate Boots,invhbt
 Sash,invlbl
 Light Belt,invvbl
@@ -656,7 +656,7 @@ Gravenspine,invbwnu
 Felloak,invclbu
 Stoutnail,invspcu
 Bloodrise,invmstu
-Bonesob,invmauu
+Bonesnap,invmauu
 Steeldriver,invgma
 Blood Crescent,invscmu
 Krintizs Skewer,inv9sbu
