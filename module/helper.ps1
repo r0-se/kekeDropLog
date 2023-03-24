@@ -30,12 +30,13 @@ function Set-Globals {
 function New-Config {
     $configSave = Read-Host "Press enter your savepath [c:\temp\save\]"
     $configSave = ("c:\temp\save\", $configSave)[[bool]$configSave]
+    $configGFXsrc="https://raw.githubusercontent.com/r0-se/kekeDropLog/main/assets/gfx_hd_low/"
     $configWebhook = Read-Host "Enter your webhook URL"
     $configMinRune = Read-Host "Whats the lowest rune you would like to get notified by?"
     $configMinRune = ("", $configMinRune)[[bool]$configMinRune]
     $configJSONDump = Read-Host "Would you like items logged to jsonfile on disk? Y/N"
     if ($configJSONDump -match '^Y$') { } else { $configJSONDump = "" }
-    New-Item -ItemType File "$PSScriptRoot\..\config.ini" -Value ("[General]`nsavepath={0}`nhookurl={1}`nminrune={2}`njsondump={3}" -f $configSave, $configWebhook, $configMinRune, $configJSONDump) -Confirm
+    New-Item -ItemType File "$PSScriptRoot\..\config.ini" -Value ("[General]`nsavepath={0}`nhookurl={1}`nminrune={2}`njsondump={3}`ngfxsrc={4}" -f $configSave, $configWebhook, $configMinRune, $configJSONDump,$configGFXsrc) -Confirm
 }
 
 function Get-Config {
