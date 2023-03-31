@@ -303,7 +303,7 @@ Matriarchal Bow,invam1
 Grand Matron Bow,invam2
 Matriarchal Spear,invam3
 Matriarchal Pike,invam4
-MatriarchalJavelin,invam5
+Matriarchal Javelin,invam5
 elixir,invpot
 Healing Potion,invrps
 Mana Potion,invbps
@@ -476,7 +476,7 @@ Heavy Gloves,invvgl
 Bracers,invmgl
 Light Gauntlets,invtgl
 Gaunlets,invhgl
-Leather Boots,invlbt
+Boots,invlbt
 Heavy Boots,invvbt
 Chain Boots,invmbt
 Light Plated Boots,invtbt
@@ -576,7 +576,7 @@ Loricated Mail,invscl
 Boneweave,invchn
 Great Hauberk,invbrs
 Balrog Skin,invspl
-Hellforged Plate,invplt
+Hellforge Plate,invplt
 Kraken Shell,invfld
 Lacquered Plate,invgth
 Shadow Plate,invful
@@ -619,7 +619,7 @@ Slayer Guard,invba5
 Akaran Targe,invpa1
 Akaran Rondache,invpa2
 Protector Shield,invpa3
-Guilded Shield,invpa4
+Gilded Shield,invpa4
 Royal Shield,invpa5
 Mummified Trophy,invne1
 Fetish Trophy,invne2
