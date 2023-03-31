@@ -2,7 +2,6 @@
 保護的,of Protection
 吸收,of Absorption
 生命的,of Life
-耐久,of Sustenance
 防避的,of Warding
 步哨的,of the Sentinel
 守衛的,of Guarding
@@ -71,7 +70,7 @@
 狼的,of the Wolf
 虎的,of the Tiger
 巨大的,of the Mammoth
-????,of the Colosuss
+太陽神的",of the Colossus
 妖巫的,of the Leech
 蝗蟲的,of the Locust
 蝙蝠的,of the Bat
@@ -89,13 +88,12 @@
 步伐的,of Pacing
 憎恨的,of Haste
 速度的,of Speed
-????,Expansion
 永生,of Life Everlasting
-????,of Anima
+和睦,of Amicae
 降溫,of Coolness
-????,of Incombustibility
+易燃,of Inflammability
 石綿,of Amianthus
-????,of Fire Quenching
+猝滅,of Quenching
 信仰,of Faith
 阻抗,of Resistance
 絕緣,of Insulation
@@ -106,7 +104,7 @@
 融解的,of Thawing
 解凍,of Thawing
 沙丘,of the Dunes
-????,of the Sirocco
+熱風,of the Scirocco
 慾望,of Desire
 剃刀,of Razors
 刀劍,of Swords
@@ -144,20 +142,20 @@
 知識,of Knowledge
 烏賊,of the Squid
 巨鯨,of the Whale
-????,of Substinence
+耐久,of Sustenance
 精力,of Vita
 靈魂,of Spirit
 希望,of Hope
 八目鰻,of the Lamprey
 死靈,of the Wraith
 自由,of Freedom
-????,of Atlus
+擎天神,of Atlas
 精氣,of Virility
-????,of Traveling
+傳送,of Transportation
 加速,of Acceleration
 慣性,of Inertia
 自我修護,of Self-Repair
-????,of Fast Repair
+回復,of Restoration
 歲月,of Ages
 補充,of Replenishing
 傳播,of Propogation
@@ -173,7 +171,7 @@
 眼鏡蛇,of the Cobra
 元素,of the Elements
 火焰箭,of Firebolts
-????,of Charged Shield
+充能彈,of Charged Bolt
 冰錐,of Icebolt
 冰封屏障,of Frozen Armor
 靜態力場,of Static Field
@@ -202,82 +200,82 @@
 黎明,of Dawn
 破曉,of Dawn
 陽光,of Sunlight
-????,of Magic Arrows
-????,of Fire Arrows
+魔法箭,of Magic Arrow
+火焰箭,of Fire Arrow
 內視,of Inner Sight
-????,of Jabbing
-????,of Cold Arrows
+戳刺,of Jab
+冰箭,of Cold Arrow
 多重箭,of Multiple Shot
 之威力一擊,of Power Strike
 之劇毒戳刺,of Poison Jab
-????,of Exploding Arrows
-????,of Slow Missiles
+爆裂箭,of Exploding Arrow
+慢速箭,of Slow Missile
 之刺爆,of Impaling Strike
 閃電鏢槍,of Lightning Javelin
 ????,of Ice Arrows
 ????,of Guided Arrows
 之充能一擊,of Charged Strike
 之瘟疫戳刺,of Plague Jab
-????,of Immolating Arrows
+犧牲之箭,of Immolating Arrow
 疾刺,of Fending
-????,of Freezing Arrows
+凍結之箭,of Freezing Arrow
 之閃電攻擊,of Lightning Strike
 閃電之怒,of Lightning Fury
-????,of Fire Bolts
-????,of Charged Bolts
-????,of Ice Bolts
-????,of Frost Novas
-????,of Ice Blasts
+火彈,of Fire Bolt
+充能彈,of Charged Bolt
+冰彈,of Ice Bolt
+霜之新星,of Frost Nova
+冰風暴,of Ice Blast
 熾烈之徑,of Blazing
-????,of Fire Balls
-????,of Novas
-????,of Fire Walls
+火球,of Fire Ball
+新星,of Nova
+火牆,of Fire Wall
 強化,of Enchantment
 傳送,of Teleportation
-????,of Glacial Spikes
-????,of Meteors
-????,of Blizzards
-????,of Hydras
-????,of Frozen Orbs
+冰尖柱,of Glacial Spike
+隕石,of Meteor
+暴風雪,of Blizzard
+九頭海蛇,of Hydra
+冰封球,of Frozen Orb
 傷害加深,of Amplify Damage
 牙,of Teeth
 白骨裝甲,of Bone Armor
-????,of Raise Skeletons
+骷髏復甦,of Raise Skeleton
 微暗靈視,of Dim Vision
 削弱,of Weaken
 淬毒匕首,of Poison Dagger
-????,of Corpse Explosions
-????,of Clay Golem Summoning
+屍爆,of Corpse Explosion
+黏土石魔,of Clay Golem
 攻擊反噬,of Iron Maiden
 恐懼,of Terror
-????,of Bone Walls
-????,of Raise Skeletal Mages
+骨牆,of Bone Walls
+復甦骷髏法師,of Skeletal Mages
 迷亂,of Confusion
 偷取生命,of Life Tap
 毒爆,of Poison Explosion
-????,of Bone Spears
-????,of Blood Golem Summoning
-????,of Attraction
-????,of Decrepification
-????,of Bone Imprisonment
-????,of Iron Golem Creation
+骨矛,of Bone Spear
+鮮血石魔,of Blood Golem
+吸引,of Attract
+衰老,of Decrepify
+骨牢,of Bone Prison
+鋼鐵石魔,of Iron Golem
 降低抵抗,of Lower Resistance
-????,of Poison Novas
-????,of Bone Spirits
-????,of Fire Golem Summoning
+劇毒新星,of Poison Nova
+白骨之魂,of Bone Spirit
+火焰石魔,of Fire Golem
 犧牲,of Sacrifice
-????,of Holy Bolts
+聖光彈,of Holy Bolt
 白熱,of Zeal
 復仇,of Vengeance
-????,of Blessed Hammers
+祝福之鎚,of Blessed Hammer
 轉換,of Conversion
 天堂之拳,of Fist of the Heavens
-????,of Howling
-????,of Potion Finding
-????,of Taunting
-????,of Shouting
-????,of Stunning
-????,of Item Finding
+狂嗥,of Howl
+找尋藥劑,of Find Potion
+嘲弄,of Taunt
+大叫,of Shout
+擊昏,of Stun
+找尋物品,of Find Item
 專注,of Concentration
 戰嗥,of Battle Cry
 戰鬥體制,of Battle Orders
@@ -285,12 +283,12 @@
 戰鬥狂嗥,of War Cry
 戰鬥指揮,of Battle Command
 火風暴,of Firestorms
-????,of Molten Boulders
-????,of Eruption
+融化圓石,of Molten Boulder
+火山爆,of Fissure
 旋風屏障,of Cyclone Armor
 鎌鼬風,of Twister
 火山,of Volcano
 龍捲風,of Tornado
 末日決戰,of Armageddon
 暴風,of Hurricane
-????,of Damage Amplification
+傷害加深,of Amplify Damage
