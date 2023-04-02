@@ -97,6 +97,7 @@
 ^防止怪物自療$;Prevent Monster Heal
 ^生命回復 ([+-]\d+)$;Replenish Life {0}
 ^([+-]\d+) 冰寒吸收$;{0} Cold Absorb
+^([+-]\d+) 閃電吸收$;{0} Lightning Absorb
 ^冰寒吸收 (\d+)%$;Cold Absorb +{0}%
 ^火焰吸收 (\d+)%$;Fire Absorb +{0}%
 ^([+-]\d+)% 敵人火焰抗性$;{0}% to Enemy Fire Resistance
@@ -108,6 +109,7 @@
 ^([+-]\d+)% 對敵人毒素系抗性$;{0}% to Enemy Poison Resistance
 ^([+-]\d+)% 轉為毒素技能傷害$;{0}% to Poison Skill Damage
 ^([+-]\d+)% 最大火焰抗性$;{0}% to Maximum Fire Resist
+^([+-]\d+)% 最大閃電抗性$;{0}% to Maximum Lightning Resist
 PARTIAL$;PARTIAL
 ^攻擊時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} when struck
 ^擊中時有 (\d+)% 機率施展等級 (\d+) (\S+\s?\S?)$;{0}% Chance to cast level {1} {2} on striking
