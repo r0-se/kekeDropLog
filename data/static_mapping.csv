@@ -16,7 +16,6 @@
 斧頭類武器,Axe Class
 弓類武器,Bow Class
 爪類武器,Claw Class
-釘鎚類武器,Mace Class
 長棍類武器,Polearm Class
 長矛類武器,Spear Class
 杖類武器,Staff Class
@@ -52,7 +51,6 @@
 劇毒新星,Poison Nova
 力量,Might
 加速,Burst of Speed
-加速,Increased Speed
 反抗,Defiance
 召喚抗性,Summon Resist
 召喚灰熊,Summon Grizzly
@@ -100,12 +98,11 @@
 救助,Salvation
 救贖,Redemption
 斧頭專精,Axe Mastery
-新星,Nova
 旋風,Whirlwind
 暖氣,Warmth
 暗影宗師,Shadow Master
-暴風,Hurricane
 暴風雪,Blizzard
+暴風,Hurricane
 棘靈,Spirit of Barbs
 極地風暴,Arctic Blast
 橡木智者,Oak Sage
@@ -117,8 +114,8 @@
 毒牙,Venom
 淨化,Cleansing
 淬毒匕首,Poison Dagger
-火山,Volcano
 火山爆,Fissure
+火山,Volcano
 火彈,Fire Bolt
 火焰專精,Fire Mastery
 火焰復甦,Wake of Fire
@@ -138,8 +135,8 @@
 熾烈之徑,Blaze
 爆裂箭,Exploding Arrow
 牙,Teeth
-犧牲,Sacrifice
 犧牲之箭,Immolation Arrow
+犧牲,Sacrifice
 狂亂,Frenzy
 狂嗥,Howl
 狂怒,Fury
@@ -174,19 +171,17 @@
 自然抵抗,Natural Resistance
 致命攻擊,Critical Strike
 虎擊,Tiger Strike
-血石魔,Blood Golem
 衰老,Decrepify
 誘弭,Decoy
 誘餌,Decoy
 變形術,Lycanthropy
-跳躍,Leap
 跳躍攻擊,Leap Attack
+跳躍,Leap
 躲避,Avoid
 轉換,Conversion
 迴避,Evade
 迷亂,Confuse
 連鎖閃電,Chain Lightning
-重擊,Bash
 重擊,Smite
 重生,Revive
 野性狂暴,Feral Rage
@@ -214,6 +209,7 @@
 電光衛兵,Charged Bolt Sentry
 震波,Shock Wave
 霜之新星,Frost Nova
+新星,Nova
 靜態力場,Static Field
 颶風裝甲,Cyclone Armor
 飛擲專精,Throwing Mastery
@@ -228,6 +224,7 @@
 魔影斗蓬,Cloak of Shadows
 魔法箭,Magic Arrow
 鮮血石魔,Blood Golem
+血石魔,Blood Golem
 鳳凰攻擊,Phoenix Strike
 黏土石魔,Clay Golem
 龍捲風,Tornado
