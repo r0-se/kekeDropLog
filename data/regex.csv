@@ -2,6 +2,7 @@
 ^可以放入凹槽物品$;Can be Inserted into Socketed Items
 ^未辨視$;Unidentified
 ^不會損壞$;Indestructible
+^擊退$;Knockback
 ^([+-]\d+)% 增強傷害$;{0}% Enhanced Damage
 ^投擲傷害：(\d+) 到 (\d+)$;Throw Damage: {0} to {1}
 ^需要等級： (\d+)$;Required Level: {0}
@@ -51,7 +52,6 @@
 ^([+-]\d+)% 攻擊速度$;{0}% Increased Attack Speed
 ^回復體力加 (\d+)%$;Heal Stamina Plus {0}%
 ^([+-]\d+) 精力$;{0} to Energy
-^傷害減少 (\d+)$;Magic Damage Reduced by {0}
 ^([+-]\d+)% 轉為經驗值獲得$;{0}% to Experience Gained
 ^([+-]\d+)% 對不死生物的傷害$;{0}% Damage to Undead
 ^擊中偷取 (\d+)% 生命$;{0}% Life stolen per hit
@@ -74,6 +74,7 @@
 ^增加 (\d+)-(\d+) 火焰傷害$;Adds {0}-{1} fire damage
 ^法力恢復 (\d+)%$;Regenerate Mana {0}%
 ^([+-]\d+) 準確率$;{0} to Attack Rating
+^(\d+)% 額外的攻擊準確率加成$;{0}% Bonus to Attack Rating
 ^冰凍時間減半$;Half Freeze Duration
 ^需求 ([+-]\d+)%$;Requirements {0}%
 ^(\d+)% 受損的生命移至法力$;{0}% Damage Taken Goes To Mana
@@ -93,6 +94,7 @@
 ^在每殺一個敵人後取得 ([+-]\d+) 點法力$;{0} to Mana after each Kill
 ^([+-]\d+) 生命值在殺死後獲得$;{0} Life after each Kill
 ^魔法傷害減少 (\d+)$;Magic Damage Reduced by {0}
+^傷害減少 (\d+)$;Damage Reduced by {0}
 ^降低所有商人的價格 (\d+)%$;Reduces all Vendor Prices {0}%
 ^防止怪物自療$;Prevent Monster Heal
 ^生命回復 ([+-]\d+)$;Replenish Life {0}
