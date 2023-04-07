@@ -77,8 +77,12 @@ function Get-ItemObject {
 
         for ($i = 0; $i -lt $returnItem.mods.count; $i++) {
             if ($returnItem.mods[$i] -eq "") {
-                #kills set summary
                 $returnItem.Color = $discColor.green
+                #ugly hack because tal ammy and orb has same name in tw
+                if($returnItem.Mods[1] -eq "Amulet" -and $returnItem.NameEN -eq "Tal Rasha's Lidless Eye") {
+                    $returnItem.NameEN = "Tal Rasha's Adjudication"
+                }
+                #kills set summary
                 $returnItem.mods.RemoveRange($i, $returnItem.mods.count - $i)
                 break;
             }
