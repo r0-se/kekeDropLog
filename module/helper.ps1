@@ -28,7 +28,7 @@ function Set-Globals {
 }
 
 function New-Config {
-    $configSave = Read-Host "Press enter your savepath [c:\temp\save\]"
+    $configSave = Read-Host "Please enter your savepath [c:\temp\save\]"
     $configSave = ("c:\temp\save\", $configSave)[[bool]$configSave]
     $configGFXsrc="https://raw.githubusercontent.com/r0-se/kekeDropLog/main/assets/gfx_hd_low/"
     $configWebhook = Read-Host "Enter your webhook URL"
